@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionCycleBorder</key>
+	<string>singleOffsetMargin</string>
+	<key>easyGrainBorder</key>
+	<string>descriptionOrCycle</string>
+	<key>fixedTickerState</key>
+	<string>localAxisTail</string>
+	<key>histogramActivityVelocity</key>
+	<string>resourceInsideFramework</string>
+	<key>otherGraphSkewy</key>
+	<string>scaffoldBeyondState</string>
+</dict>
+</plist>

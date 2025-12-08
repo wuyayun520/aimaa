@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAgainstKind</key>
+	<string>composableSegmentScale</string>
+	<key>inactiveRichtextShade</key>
+	<string>explicitFutureMode</string>
+	<key>intuitiveTopicSize</key>
+	<string>semanticGroupValidation</string>
+	<key>layerDespiteVisitor</key>
+	<string>nextSymbolColor</string>
+	<key>observerInsideComposite</key>
+	<string>specifierParamHead</string>
+	<key>requestParameterResponse</key>
+	<string>resolverLevelPadding</string>
+	<key>statefulWidgetTransparency</key>
+	<string>indicatorProcessFlags</string>
+</dict>
+</plist>

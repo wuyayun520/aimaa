@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateStateInterval</key>
+	<string>equipmentLayerSkewy</string>
+	<key>grainTaskBorder</key>
+	<string>missedCharacterCoord</string>
+	<key>graphBufferContrast</key>
+	<string>monsterTaskType</string>
+	<key>lastCommandCount</key>
+	<string>awaitActionSpeed</string>
+</dict>
+</plist>

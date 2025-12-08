@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconBeyondMethod</key>
+	<string>spritePerSingleton</string>
+	<key>interactiveDelegateTint</key>
+	<string>asyncCommandFrequency</string>
+	<key>queryContainLayer</key>
+	<string>navigationOrCycle</string>
+	<key>slashStageTheme</key>
+	<string>titleWithoutState</string>
+	<key>substantialRepositorySpacing</key>
+	<string>subpixelWorkRotation</string>
+</dict>
+</plist>

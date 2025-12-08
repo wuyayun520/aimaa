@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRectRate</key>
+	<string>sizedboxPerPlatform</string>
+	<key>coordinatorTaskKind</key>
+	<string>constraintJobAcceleration</string>
+	<key>gesturedetectorCommandFrequency</key>
+	<string>animationAboutEnvironment</string>
+	<key>mediumTabviewKind</key>
+	<string>listenerAtParam</string>
+	<key>originalIntensityTransparency</key>
+	<string>protocolBeyondLevel</string>
+	<key>plateOrActivity</key>
+	<string>disparateScaffoldAlignment</string>
+	<key>stackIncludeParam</key>
+	<string>queryOutsideFlyweight</string>
+</dict>
+</plist>

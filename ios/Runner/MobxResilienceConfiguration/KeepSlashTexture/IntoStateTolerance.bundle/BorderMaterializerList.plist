@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationJobOffset</key>
+	<string>missionVarSkewx</string>
+	<key>behaviorCycleState</key>
+	<string>requestThanTask</string>
+	<key>columnStateCoord</key>
+	<string>originalPetVisible</string>
+	<key>difficultContainerTail</key>
+	<string>sinkFacadeSkewy</string>
+	<key>inkwellWorkSkewx</key>
+	<string>buttonInsideWork</string>
+	<key>sampleNearType</key>
+	<string>exponentParamLocation</string>
+	<key>scaleFormVelocity</key>
+	<string>sharedBlocTop</string>
+	<key>timerByParam</key>
+	<string>cubeVisitorResponse</string>
+</dict>
+</plist>

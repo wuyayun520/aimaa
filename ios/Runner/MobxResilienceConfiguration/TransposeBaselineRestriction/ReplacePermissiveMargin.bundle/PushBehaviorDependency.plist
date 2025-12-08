@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectEnvironmentDensity</key>
+	<string>nativeConsumerFlags</string>
+	<key>decorationMediatorTheme</key>
+	<string>singletonForContext</string>
+	<key>independentBinaryValidation</key>
+	<string>builderAboutFunction</string>
+	<key>metadataAroundAdapter</key>
+	<string>nodeTierCount</string>
+	<key>permissiveEffectMode</key>
+	<string>interactiveInjectionForce</string>
+	<key>profileWorkValidation</key>
+	<string>multiGrainVelocity</string>
+	<key>significantRouteMode</key>
+	<string>uniformMethodResponse</string>
+	<key>specifierAtActivity</key>
+	<string>statefulCompositeMomentum</string>
+	<key>tensorTimerSpacing</key>
+	<string>frameNumberDelay</string>
+</dict>
+</plist>

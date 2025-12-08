@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectFromPhase</key>
+	<string>taskLikeStyle</string>
+	<key>lastPainterInset</key>
+	<string>monsterInsideTask</string>
+	<key>originalTickerVisibility</key>
+	<string>sliderParameterInterval</string>
+	<key>radioByComposite</key>
+	<string>difficultAnimationMargin</string>
+	<key>scrollableQueueAcceleration</key>
+	<string>gateByNumber</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectCycleTension</key>
+	<string>modelContainParam</string>
+	<key>hierarchicalTickerDistance</key>
+	<string>mediaqueryContextInterval</string>
+	<key>operationFromPattern</key>
+	<string>liteMobxAlignment</string>
+</dict>
+</plist>

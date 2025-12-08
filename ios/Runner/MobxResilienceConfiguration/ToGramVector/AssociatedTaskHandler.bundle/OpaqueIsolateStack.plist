@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheAmongParam</key>
+	<string>capacitiesOrParameter</string>
+	<key>delegateInsideProcess</key>
+	<string>directQueueSkewy</string>
+	<key>resilientTextureBrightness</key>
+	<string>viewProcessVelocity</string>
+	<key>riverpodWithShape</key>
+	<string>similarPresenterInterval</string>
+	<key>routerFlyweightOrigin</key>
+	<string>gestureViaVisitor</string>
+</dict>
+</plist>

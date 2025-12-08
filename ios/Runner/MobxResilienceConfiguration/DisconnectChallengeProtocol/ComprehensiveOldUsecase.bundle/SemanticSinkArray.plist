@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapAgainstMode</key>
+	<string>keySubscriptionStatus</string>
+	<key>musicValueDepth</key>
+	<string>prevQueryPosition</string>
+	<key>particleLikeFacade</key>
+	<string>cubitPerParam</string>
+	<key>pinchableClipperAlignment</key>
+	<string>scrollThroughLevel</string>
+	<key>skinTaskDistance</key>
+	<string>pageviewViaFacade</string>
+	<key>vectorPhaseName</key>
+	<string>animatedTernarySkewx</string>
+</dict>
+</plist>

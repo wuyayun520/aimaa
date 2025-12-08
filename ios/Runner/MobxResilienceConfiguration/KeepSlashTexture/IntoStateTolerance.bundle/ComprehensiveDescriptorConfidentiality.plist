@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopByState</key>
+	<string>commonEventInteraction</string>
+	<key>newestStreamDirection</key>
+	<string>appbarStateScale</string>
+	<key>storageOutsideShape</key>
+	<string>positionStrategyKind</string>
+	<key>storageThroughPrototype</key>
+	<string>presenterStyleStatus</string>
+</dict>
+</plist>

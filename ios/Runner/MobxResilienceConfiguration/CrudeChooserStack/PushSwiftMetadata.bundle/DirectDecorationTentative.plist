@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStreamName</key>
+	<string>missionModeBorder</string>
+	<key>cacheActionCoord</key>
+	<string>positionedActivityForce</string>
+	<key>cardPerAdapter</key>
+	<string>usecaseNearAction</string>
+	<key>checklistTaskDepth</key>
+	<string>matrixAlongState</string>
+	<key>configurationContextSpeed</key>
+	<string>smallStoreBehavior</string>
+	<key>expandedShapeCount</key>
+	<string>denseNotifierIndex</string>
+	<key>mediumFeatureFeedback</key>
+	<string>persistentDurationColor</string>
+	<key>serviceMementoSkewy</key>
+	<string>containerTypeLocation</string>
+	<key>singletonVariableValidation</key>
+	<string>chartDuringPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constSlashBorder</key>
+	<string>isolateForInterpreter</string>
+	<key>frameActivityAcceleration</key>
+	<string>permissiveThreadRate</string>
+	<key>greatCommandName</key>
+	<string>temporaryTopicInteraction</string>
+	<key>mobileAsOperation</key>
+	<string>draggableDecorationTop</string>
+	<key>requestStageFrequency</key>
+	<string>actionInProcess</string>
+</dict>
+</plist>

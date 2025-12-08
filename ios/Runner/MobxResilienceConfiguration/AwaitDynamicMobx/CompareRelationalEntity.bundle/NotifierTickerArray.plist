@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAdapterTheme</key>
+	<string>frameDuringPhase</string>
+	<key>contractionSingletonVelocity</key>
+	<string>globalChallengeTint</string>
+	<key>mobileAboutStyle</key>
+	<string>rowFromPlatform</string>
+	<key>normIncludeTask</key>
+	<string>storageStructureTheme</string>
+	<key>paddingPerPrototype</key>
+	<string>grainPrototypeAcceleration</string>
+	<key>rectBeyondFramework</key>
+	<string>lossContainBuffer</string>
+	<key>reusableAllocatorInteraction</key>
+	<string>screenAboutType</string>
+	<key>statefulAndWork</key>
+	<string>delicateMenuSkewy</string>
+	<key>storageValueCount</key>
+	<string>gestureAgainstComposite</string>
+	<key>unsortedAccessoryDelay</key>
+	<string>configurationWithoutFacade</string>
+</dict>
+</plist>

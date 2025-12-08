@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitBufferTop</key>
+	<string>gridAndSystem</string>
+	<key>interactorPerJob</key>
+	<string>dependencyAmongProcess</string>
+	<key>liteLayerTension</key>
+	<string>hierarchicalTransitionTheme</string>
+	<key>relationalGrayscaleFormat</key>
+	<string>composableDimensionFormat</string>
+	<key>uniqueModelSaturation</key>
+	<string>tensorSampleStyle</string>
+	<key>vectorPhaseSpeed</key>
+	<string>builderParameterTheme</string>
+</dict>
+</plist>

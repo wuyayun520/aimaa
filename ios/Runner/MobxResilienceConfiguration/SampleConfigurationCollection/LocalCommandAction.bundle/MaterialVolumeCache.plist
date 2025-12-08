@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSingletonBorder</key>
+	<string>commandAtPattern</string>
+	<key>fusedCompleterContrast</key>
+	<string>gemCommandDuration</string>
+	<key>pinchableProviderShade</key>
+	<string>characterOrActivity</string>
+	<key>reactiveProgressbarPosition</key>
+	<string>basicIntegerSkewy</string>
+	<key>statelessSegmentAcceleration</key>
+	<string>labelLevelVisible</string>
+</dict>
+</plist>

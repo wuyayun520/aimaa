@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPerProxy</key>
+	<string>popupVersusTask</string>
+	<key>decorationVersusKind</key>
+	<string>clipperViaComposite</string>
+	<key>hashOutsideLayer</key>
+	<string>alignmentAlongAdapter</string>
+	<key>layerContainMode</key>
+	<string>containerMementoName</string>
+	<key>liteInteractorTail</key>
+	<string>textCompositeFlags</string>
+	<key>managerStageTop</key>
+	<string>fragmentFrameworkFrequency</string>
+	<key>mediocreSignatureInteraction</key>
+	<string>parallelRouteBound</string>
+	<key>precisionOrSingleton</key>
+	<string>batchByOperation</string>
+	<key>ternaryDespiteVisitor</key>
+	<string>tabbarIncludeWork</string>
+</dict>
+</plist>

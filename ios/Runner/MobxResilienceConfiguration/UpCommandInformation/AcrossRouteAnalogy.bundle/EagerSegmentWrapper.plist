@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletWithoutMethod</key>
+	<string>resourceShapeSize</string>
+	<key>discardedMobileEdge</key>
+	<string>challengeStageStatus</string>
+	<key>discardedRectDuration</key>
+	<string>screenPhaseFrequency</string>
+	<key>draggableRouterAcceleration</key>
+	<string>heapChainLocation</string>
+	<key>intuitiveStorageType</key>
+	<string>adaptiveCallbackInteraction</string>
+	<key>normalGestureScale</key>
+	<string>statelessStyleRight</string>
+	<key>presenterMethodFormat</key>
+	<string>boxshadowCommandFlags</string>
+	<key>riverpodVersusVar</key>
+	<string>globalIntensityColor</string>
+	<key>sophisticatedRequestName</key>
+	<string>entropyDecoratorPadding</string>
+</dict>
+</plist>

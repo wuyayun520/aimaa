@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAwayNumber</key>
+	<string>scrollableCallbackContrast</string>
+	<key>completerProcessAcceleration</key>
+	<string>heapParamFormat</string>
+	<key>movementLevelValidation</key>
+	<string>statefulAboutTask</string>
+	<key>mutablePlaybackPosition</key>
+	<string>getxActionShape</string>
+	<key>previewWithSingleton</key>
+	<string>descriptionWorkInset</string>
+	<key>progressbarFormEdge</key>
+	<string>specifyBorderSkewy</string>
+	<key>signAboutDecorator</key>
+	<string>controllerActivityVisibility</string>
+</dict>
+</plist>

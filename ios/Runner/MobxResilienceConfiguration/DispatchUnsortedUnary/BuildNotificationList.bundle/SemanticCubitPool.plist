@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateOutsideKind</key>
+	<string>popupProcessHue</string>
+	<key>lazyChannelKind</key>
+	<string>referenceIncludeParam</string>
+	<key>matrixAtForm</key>
+	<string>backwardMethodFormat</string>
+	<key>multiModelStatus</key>
+	<string>navigatorIncludeParam</string>
+	<key>otherCurveBehavior</key>
+	<string>accordionLocalizationTag</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeAsAction</key>
+	<string>delegateForValue</string>
+	<key>channelsIncludeMethod</key>
+	<string>certificateFromContext</string>
+	<key>coordinatorVariablePosition</key>
+	<string>callbackCommandRight</string>
+	<key>functionalPrecisionDistance</key>
+	<string>completerTempleSkewy</string>
+	<key>histogramStructureSaturation</key>
+	<string>dedicatedStatelessAcceleration</string>
+	<key>invisibleRectVelocity</key>
+	<string>streamAgainstMethod</string>
+	<key>radiusInsideStyle</key>
+	<string>permissiveWidgetOpacity</string>
+	<key>variantAdapterColor</key>
+	<string>decorationExceptProcess</string>
+</dict>
+</plist>

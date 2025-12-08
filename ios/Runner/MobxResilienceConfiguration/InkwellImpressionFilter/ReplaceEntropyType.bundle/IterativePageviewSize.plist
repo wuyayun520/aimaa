@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBaselineForce</key>
+	<string>crudeCanvasTint</string>
+	<key>coordinatorContainPhase</key>
+	<string>hashBufferTail</string>
+	<key>exceptionInterpreterMode</key>
+	<string>discardedAnimationSkewy</string>
+	<key>factoryTierPressure</key>
+	<string>cupertinoCapacitiesSize</string>
+	<key>graphThroughMediator</key>
+	<string>mediocreUsageMargin</string>
+	<key>nextGraphEdge</key>
+	<string>firstMapSize</string>
+	<key>stampOperationFlags</key>
+	<string>equipmentParamSaturation</string>
+	<key>textTaskType</key>
+	<string>exceptionFormTag</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletTierStatus</key>
+	<string>coordinatorPrototypeOffset</string>
+	<key>displayableCurveMode</key>
+	<string>mobileFromBuffer</string>
+	<key>layoutAroundShape</key>
+	<string>painterWithInterpreter</string>
+	<key>mobxParameterType</key>
+	<string>delegateWithoutValue</string>
+	<key>popupBufferRight</key>
+	<string>labelInterpreterDepth</string>
+	<key>presenterInterpreterType</key>
+	<string>instructionAdapterKind</string>
+	<key>shaderAtMethod</key>
+	<string>reducerContainPlatform</string>
+</dict>
+</plist>

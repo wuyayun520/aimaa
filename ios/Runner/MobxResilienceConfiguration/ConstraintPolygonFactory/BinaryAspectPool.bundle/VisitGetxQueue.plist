@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChapterBorder</key>
+	<string>independentSubpixelInset</string>
+	<key>aspectThroughKind</key>
+	<string>metadataForTask</string>
+	<key>baselineThroughPhase</key>
+	<string>iterativeCycleMode</string>
+	<key>consultativeContractionInteraction</key>
+	<string>bufferThroughAction</string>
+	<key>mobxLevelState</key>
+	<string>streamPatternInset</string>
+	<key>requiredCoordinatorTail</key>
+	<string>diffableCapacitiesOpacity</string>
+	<key>scaffoldIncludeValue</key>
+	<string>flexibleCompletionDelay</string>
+	<key>scaleWithoutInterpreter</key>
+	<string>expandedContextFrequency</string>
+	<key>storagePhaseColor</key>
+	<string>matrixLayerCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerCommandKind</key>
+	<string>offsetByStyle</string>
+	<key>easyGridShade</key>
+	<string>checkboxContainState</string>
+	<key>playbackAlongEnvironment</key>
+	<string>singletonOrMethod</string>
+	<key>profileMementoSpeed</key>
+	<string>animationLikeAction</string>
+	<key>scrollableGraphicColor</key>
+	<string>playbackThroughNumber</string>
+	<key>touchTypeTag</key>
+	<string>concreteGroupValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactivePreviewFlags</key>
+	<string>standaloneNavigatorCount</string>
+	<key>matrixBesideVisitor</key>
+	<string>tabbarBridgeDelay</string>
+	<key>pageviewAwayDecorator</key>
+	<string>interactorInScope</string>
+	<key>statefulTaskCount</key>
+	<string>signLikeAction</string>
+	<key>transitionAndActivity</key>
+	<string>screenAmongBridge</string>
+</dict>
+</plist>

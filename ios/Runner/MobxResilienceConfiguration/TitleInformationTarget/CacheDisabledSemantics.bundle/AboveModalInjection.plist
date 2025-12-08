@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intensityVisitorBorder</key>
+	<string>cupertinoImageAcceleration</string>
+	<key>normalSessionType</key>
+	<string>checklistFromProcess</string>
+	<key>popupBeyondStage</key>
+	<string>sinkActionDepth</string>
+	<key>presenterLikeProxy</key>
+	<string>singletonTierDensity</string>
+	<key>webParticleInterval</key>
+	<string>controllerExceptWork</string>
+</dict>
+</plist>

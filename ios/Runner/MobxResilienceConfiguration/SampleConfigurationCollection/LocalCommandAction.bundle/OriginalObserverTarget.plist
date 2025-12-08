@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateSingletonVisibility</key>
+	<string>playbackContainSingleton</string>
+	<key>curveBySingleton</key>
+	<string>momentumOfCommand</string>
+	<key>globalOffsetBorder</key>
+	<string>blocFromProxy</string>
+	<key>permanentSamplePosition</key>
+	<string>marginVariableLeft</string>
+	<key>synchronousInterpolationMargin</key>
+	<string>statelessCompleterMargin</string>
+	<key>usedInjectionMode</key>
+	<string>capsuleVarRight</string>
+</dict>
+</plist>

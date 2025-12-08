@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTitleIndex</key>
+	<string>cellForSystem</string>
+	<key>boxAsPrototype</key>
+	<string>resourceStrategyInset</string>
+	<key>captionDespiteStyle</key>
+	<string>consumerAdapterAlignment</string>
+	<key>descriptionInStyle</key>
+	<string>marginAroundMediator</string>
+	<key>descriptionVariableShape</key>
+	<string>explicitContainerKind</string>
+	<key>mainVectorMode</key>
+	<string>sequentialVectorTop</string>
+	<key>streamFormSpacing</key>
+	<string>futureBeyondTask</string>
+	<key>switchAlongParameter</key>
+	<string>builderScopeValidation</string>
+	<key>uniqueCompleterSize</key>
+	<string>mapNumberLeft</string>
+</dict>
+</plist>

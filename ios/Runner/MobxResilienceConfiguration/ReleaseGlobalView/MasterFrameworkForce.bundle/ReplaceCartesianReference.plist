@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBlocTransparency</key>
+	<string>storageTaskFeedback</string>
+	<key>awaitBridgeColor</key>
+	<string>materialStyleLeft</string>
+	<key>awaitModeInteraction</key>
+	<string>sineForDecorator</string>
+	<key>difficultQueueVelocity</key>
+	<string>textWithoutStyle</string>
+	<key>operationAtOperation</key>
+	<string>viewCommandTheme</string>
+	<key>scrollableNibCount</key>
+	<string>flexContainComposite</string>
+	<key>tabbarAroundStructure</key>
+	<string>explicitUnaryDistance</string>
+	<key>toolOperationShape</key>
+	<string>requestBesideCycle</string>
+	<key>topicOutsideObserver</key>
+	<string>zoneFormLocation</string>
+</dict>
+</plist>

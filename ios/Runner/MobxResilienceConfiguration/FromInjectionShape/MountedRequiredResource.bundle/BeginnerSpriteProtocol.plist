@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWithoutScope</key>
+	<string>cellViaSingleton</string>
+	<key>asyncSizedboxTail</key>
+	<string>drawerAroundWork</string>
+	<key>concurrentRoleTint</key>
+	<string>slashPerPhase</string>
+	<key>layoutAgainstFlyweight</key>
+	<string>appbarStrategyBound</string>
+	<key>memberIncludeTier</key>
+	<string>resourceMethodSize</string>
+	<key>textAtCycle</key>
+	<string>pinchableMissionInterval</string>
+	<key>widgetLayerTension</key>
+	<string>effectCycleResponse</string>
+</dict>
+</plist>

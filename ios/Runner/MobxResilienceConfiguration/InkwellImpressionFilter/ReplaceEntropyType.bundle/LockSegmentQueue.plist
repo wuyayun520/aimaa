@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerOfStage</key>
+	<string>tickerExceptContext</string>
+	<key>cubitIncludeParameter</key>
+	<string>gestureVarBound</string>
+	<key>customizedRequestName</key>
+	<string>permissiveCanvasDensity</string>
+	<key>displayableConvolutionTint</key>
+	<string>navigatorCycleState</string>
+	<key>frameFromForm</key>
+	<string>globalMusicCount</string>
+	<key>lossForPrototype</key>
+	<string>textureAtCycle</string>
+	<key>sineIncludeAdapter</key>
+	<string>behaviorWithoutFlyweight</string>
+	<key>substantialDescriptionSkewx</key>
+	<string>futureByProxy</string>
+	<key>transformerChainTop</key>
+	<string>eventFlyweightContrast</string>
+</dict>
+</plist>

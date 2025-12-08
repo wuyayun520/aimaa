@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchWithoutStyle</key>
+	<string>directlyAxisScale</string>
+	<key>brushTypeTransparency</key>
+	<string>visibleProgressbarScale</string>
+	<key>compositionParamForce</key>
+	<string>actionLevelMode</string>
+	<key>denseBorderColor</key>
+	<string>gesturedetectorSystemSize</string>
+	<key>intensityStateTransparency</key>
+	<string>contractionInterpreterAppearance</string>
+	<key>liteTabbarBound</key>
+	<string>singletonThanForm</string>
+	<key>mobileAdapterDistance</key>
+	<string>primaryPreviewOffset</string>
+	<key>modelBesideTask</key>
+	<string>popupAroundStage</string>
+</dict>
+</plist>

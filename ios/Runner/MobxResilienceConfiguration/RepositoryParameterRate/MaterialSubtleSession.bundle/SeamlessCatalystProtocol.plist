@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedResultFlags</key>
+	<string>heapAtStrategy</string>
+	<key>firstRiverpodOrientation</key>
+	<string>euclideanThemeTransparency</string>
+	<key>navigatorFromBridge</key>
+	<string>riverpodThanFramework</string>
+	<key>originalLayoutCoord</key>
+	<string>callbackCompositeTail</string>
+</dict>
+</plist>

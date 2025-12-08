@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEffectShade</key>
+	<string>tickerInKind</string>
+	<key>cubitIncludeContext</key>
+	<string>tappablePageviewBound</string>
+	<key>fragmentFacadeAppearance</key>
+	<string>particleAsEnvironment</string>
+	<key>handlerContainVariable</key>
+	<string>buttonCommandTransparency</string>
+	<key>logCommandKind</key>
+	<string>mediaqueryMementoPressure</string>
+	<key>movementNumberSkewx</key>
+	<string>webResponseDelay</string>
+	<key>movementPhaseTail</key>
+	<string>brushFlyweightStyle</string>
+	<key>prioritySinceMethod</key>
+	<string>notificationAsLayer</string>
+	<key>symmetricMasterSkewx</key>
+	<string>elasticLabelEdge</string>
+</dict>
+</plist>

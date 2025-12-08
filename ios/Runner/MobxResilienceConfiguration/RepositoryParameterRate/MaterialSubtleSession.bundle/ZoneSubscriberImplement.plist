@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEventVisibility</key>
+	<string>synchronousSpecifierResponse</string>
+	<key>asyncMissionAlignment</key>
+	<string>sessionPhaseEdge</string>
+	<key>listviewFacadeCount</key>
+	<string>mediumAwaitBound</string>
+	<key>loopAboutFlyweight</key>
+	<string>scaleVersusFacade</string>
+	<key>navigationCommandRate</key>
+	<string>precisionVarForce</string>
+	<key>sortedReferenceFrequency</key>
+	<string>spriteSingletonEdge</string>
+</dict>
+</plist>

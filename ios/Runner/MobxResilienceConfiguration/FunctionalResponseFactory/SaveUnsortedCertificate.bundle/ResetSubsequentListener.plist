@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleActivityCenter</key>
+	<string>queryKindTransparency</string>
+	<key>desktopDecorationKind</key>
+	<string>reductionContextEdge</string>
+	<key>explicitSkirtSpacing</key>
+	<string>decorationValueTheme</string>
+	<key>memberByPattern</key>
+	<string>iterativeUtilTheme</string>
+	<key>pinchableAxisMargin</key>
+	<string>localizationDecoratorHead</string>
+	<key>resilientFutureBrightness</key>
+	<string>newestEquipmentSkewx</string>
+	<key>roleInsideTier</key>
+	<string>responsiveEffectDirection</string>
+</dict>
+</plist>

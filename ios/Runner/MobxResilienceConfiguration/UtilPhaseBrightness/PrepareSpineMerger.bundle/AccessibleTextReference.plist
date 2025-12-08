@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseParameterFlags</key>
+	<string>geometricSliderPressure</string>
+	<key>curveParameterBehavior</key>
+	<string>enabledRemainderAppearance</string>
+	<key>hashAndWork</key>
+	<string>segueObserverColor</string>
+	<key>keyButtonHead</key>
+	<string>keyTaskOrientation</string>
+	<key>logAndObserver</key>
+	<string>seamlessAlphaResponse</string>
+	<key>observerThroughStrategy</key>
+	<string>statelessLikeValue</string>
+	<key>originalInterfaceKind</key>
+	<string>resourceProxyBehavior</string>
+	<key>pinchableStackOpacity</key>
+	<string>collectionVersusFramework</string>
+	<key>secondHistogramSkewy</key>
+	<string>reactiveMusicTransparency</string>
+</dict>
+</plist>

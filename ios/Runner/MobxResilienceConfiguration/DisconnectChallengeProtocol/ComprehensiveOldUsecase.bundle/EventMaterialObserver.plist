@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerContextVisible</key>
+	<string>storageWithoutShape</string>
+	<key>masterUntilPhase</key>
+	<string>rowOrMethod</string>
+	<key>materialAroundVariable</key>
+	<string>boxProxyStatus</string>
+	<key>rectFromCommand</key>
+	<string>metadataPlatformName</string>
+	<key>responseInValue</key>
+	<string>subscriptionFunctionPadding</string>
+	<key>tensorBuilderValidation</key>
+	<string>sliderInParameter</string>
+</dict>
+</plist>

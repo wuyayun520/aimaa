@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerBridgeFrequency</key>
+	<string>resolverThroughBuffer</string>
+	<key>cubeFacadeEdge</key>
+	<string>resolverFormInteraction</string>
+	<key>discardedSpineContrast</key>
+	<string>visibleTopicDepth</string>
+	<key>hyperbolicConvolutionSaturation</key>
+	<string>routeStateOrigin</string>
+	<key>lazyRepositoryTension</key>
+	<string>disabledListviewContrast</string>
+	<key>opaqueGrayscaleMargin</key>
+	<string>radiusAwayBuffer</string>
+	<key>primaryLoopSpeed</key>
+	<string>storagePrototypeInteraction</string>
+	<key>rectProxyForce</key>
+	<string>eagerMasterSkewx</string>
+	<key>sensorFacadeRate</key>
+	<string>customChannelBound</string>
+</dict>
+</plist>

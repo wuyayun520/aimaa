@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePopupTransparency</key>
+	<string>reactiveResultRotation</string>
+	<key>curveBeyondProxy</key>
+	<string>unaryThroughContext</string>
+	<key>listenerProxyShape</key>
+	<string>semanticErrorSaturation</string>
+	<key>newestConstraintFeedback</key>
+	<string>positionFromCycle</string>
+	<key>sortedIntensityTop</key>
+	<string>rectUntilShape</string>
+</dict>
+</plist>

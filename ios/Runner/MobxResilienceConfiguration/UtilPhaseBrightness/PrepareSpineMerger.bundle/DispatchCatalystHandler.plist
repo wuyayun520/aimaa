@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStrategyBehavior</key>
+	<string>coordinatorAndActivity</string>
+	<key>canvasMediatorAlignment</key>
+	<string>invisibleSubscriptionSpacing</string>
+	<key>decorationInterpreterCoord</key>
+	<string>sortedUtilBehavior</string>
+	<key>eagerTweenTail</key>
+	<string>asynchronousInterpolationInteraction</string>
+	<key>gemVersusStrategy</key>
+	<string>lostTextureInteraction</string>
+	<key>routeCompositeEdge</key>
+	<string>baselineFrameworkDistance</string>
+	<key>typicalIsolateSpacing</key>
+	<string>geometricGesturedetectorCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGesturedetectorValidation</key>
+	<string>activatedThemeDistance</string>
+	<key>certificateIncludeVar</key>
+	<string>gemAtState</string>
+	<key>certificateUntilCycle</key>
+	<string>seamlessTextureDelay</string>
+	<key>standaloneRemainderOpacity</key>
+	<string>requiredSineIndex</string>
+	<key>transformerCompositeKind</key>
+	<string>easyMonsterOrientation</string>
+</dict>
+</plist>

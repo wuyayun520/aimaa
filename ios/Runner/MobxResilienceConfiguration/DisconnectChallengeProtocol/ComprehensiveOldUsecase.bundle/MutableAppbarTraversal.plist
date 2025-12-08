@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleDuringTier</key>
+	<string>firstThemeDelay</string>
+	<key>layoutOrStyle</key>
+	<string>interactorStrategySpeed</string>
+	<key>loopLikePrototype</key>
+	<string>richtextDecoratorMode</string>
+	<key>modelAwayMemento</key>
+	<string>anchorFunctionRotation</string>
+	<key>responseForStructure</key>
+	<string>positionedAtDecorator</string>
+	<key>semanticsOutsideStructure</key>
+	<string>interfaceAwayMemento</string>
+	<key>shaderInsideObserver</key>
+	<string>dynamicStoreFlags</string>
+</dict>
+</plist>

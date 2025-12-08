@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProxyVisibility</key>
+	<string>sineVersusContext</string>
+	<key>coordinatorThanSingleton</key>
+	<string>skinBeyondComposite</string>
+	<key>cubitStageStatus</key>
+	<string>sinkOutsideFlyweight</string>
+	<key>cursorParameterFormat</key>
+	<string>interactiveInjectionInterval</string>
+	<key>descriptionAlongVariable</key>
+	<string>instructionInPlatform</string>
+	<key>hashDecoratorSize</key>
+	<string>routeActivityShade</string>
+	<key>logPhaseBehavior</key>
+	<string>baselineThanPhase</string>
+	<key>memberContainType</key>
+	<string>blocTaskAcceleration</string>
+	<key>serviceAlongMode</key>
+	<string>pivotalFutureForce</string>
+</dict>
+</plist>

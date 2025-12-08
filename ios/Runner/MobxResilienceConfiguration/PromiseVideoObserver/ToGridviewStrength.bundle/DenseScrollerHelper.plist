@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionAmongDecorator</key>
+	<string>positionVariableDistance</string>
+	<key>directSubscriptionSpacing</key>
+	<string>cubitFromFramework</string>
+	<key>dynamicWidgetTag</key>
+	<string>statefulVersusCommand</string>
+	<key>effectFacadeBrightness</key>
+	<string>bufferAtSingleton</string>
+	<key>factoryWithVariable</key>
+	<string>utilPerBuffer</string>
+	<key>layoutDespiteStructure</key>
+	<string>nextAnimationTail</string>
+	<key>localizationContainAdapter</key>
+	<string>momentumSystemBottom</string>
+	<key>optionAboutInterpreter</key>
+	<string>sequentialRouteMomentum</string>
+	<key>repositoryMementoLeft</key>
+	<string>constraintVersusStyle</string>
+	<key>secondWidgetFormat</key>
+	<string>globalGramValidation</string>
+</dict>
+</plist>

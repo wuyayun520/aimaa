@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBesideMode</key>
+	<string>largeRowOrigin</string>
+	<key>controllerUntilStage</key>
+	<string>unaryAndVisitor</string>
+	<key>descriptionContainFramework</key>
+	<string>segmentAroundPrototype</string>
+	<key>displayableVariantOffset</key>
+	<string>protocolAsAction</string>
+	<key>lastDrawerRotation</key>
+	<string>smartCupertinoFeedback</string>
+	<key>memberAroundSingleton</key>
+	<string>alphaAroundInterpreter</string>
+	<key>optimizerStageDistance</key>
+	<string>convolutionCompositeDirection</string>
+	<key>tensorOptionLeft</key>
+	<string>actionLikeScope</string>
+	<key>unactivatedButtonDepth</key>
+	<string>chartFlyweightTint</string>
+</dict>
+</plist>

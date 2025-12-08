@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAlongPlatform</key>
+	<string>semanticsInObserver</string>
+	<key>criticalUsecaseStyle</key>
+	<string>callbackBridgeTheme</string>
+	<key>resilientActionForce</key>
+	<string>factoryIncludeProcess</string>
+	<key>scrollThanActivity</key>
+	<string>segmentContainType</string>
+	<key>slashTierVelocity</key>
+	<string>precisionVarTheme</string>
+	<key>spriteTypeLocation</key>
+	<string>animatedcontainerTypeSkewx</string>
+	<key>storePrototypeStatus</key>
+	<string>singletonAlongVar</string>
+	<key>textForBridge</key>
+	<string>projectMediatorVisible</string>
+</dict>
+</plist>

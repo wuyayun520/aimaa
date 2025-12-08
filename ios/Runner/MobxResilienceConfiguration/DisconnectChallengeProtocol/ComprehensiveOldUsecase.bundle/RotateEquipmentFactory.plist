@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchMediatorMode</key>
+	<string>vectorPrototypeSpacing</string>
+	<key>builderAndObserver</key>
+	<string>largePreviewForce</string>
+	<key>coordinatorPerStyle</key>
+	<string>euclideanCheckboxSpacing</string>
+	<key>discardedFactoryTension</key>
+	<string>subpixelBesideMode</string>
+	<key>interactorContainParam</key>
+	<string>progressbarEnvironmentVisible</string>
+	<key>mobxContextAcceleration</key>
+	<string>repositoryDuringStyle</string>
+	<key>sinkPatternOpacity</key>
+	<string>easyGesturedetectorEdge</string>
+	<key>usecaseAtNumber</key>
+	<string>staticAwaitSize</string>
+</dict>
+</plist>

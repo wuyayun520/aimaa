@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customStatefulRotation</key>
+	<string>storyboardAlongState</string>
+	<key>dialogsVariableInteraction</key>
+	<string>threadPerActivity</string>
+	<key>grainCycleSkewx</key>
+	<string>subsequentAnimationDuration</string>
+	<key>mobileTypeOffset</key>
+	<string>reducerInsideBuffer</string>
+	<key>momentumInsideBuffer</key>
+	<string>transitionVariableVelocity</string>
+	<key>resolverDespiteStyle</key>
+	<string>semanticThemeBorder</string>
+</dict>
+</plist>

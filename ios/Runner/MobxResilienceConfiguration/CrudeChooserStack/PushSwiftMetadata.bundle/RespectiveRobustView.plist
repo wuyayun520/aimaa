@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSizedboxTag</key>
+	<string>actionAboutLevel</string>
+	<key>commonReductionForce</key>
+	<string>unsortedMultiplicationTheme</string>
+	<key>dynamicCubitTag</key>
+	<string>tappableBoxFlags</string>
+	<key>layoutLayerBound</key>
+	<string>firstPainterColor</string>
+	<key>mediaFunctionOrientation</key>
+	<string>batchVisitorRotation</string>
+	<key>parallelAlignmentPadding</key>
+	<string>parallelDependencyPadding</string>
+	<key>resultParamStatus</key>
+	<string>tangentByComposite</string>
+	<key>stackStateOpacity</key>
+	<string>subtleCatalystDelay</string>
+	<key>statefulCycleMargin</key>
+	<string>movementSystemTransparency</string>
+</dict>
+</plist>

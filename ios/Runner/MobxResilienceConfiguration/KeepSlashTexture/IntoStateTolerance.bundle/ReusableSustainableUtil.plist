@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStyleShape</key>
+	<string>backwardPageviewStyle</string>
+	<key>effectDuringChain</key>
+	<string>taskWithoutKind</string>
+	<key>layoutAgainstStage</key>
+	<string>projectThroughBridge</string>
+	<key>mobxNumberBrightness</key>
+	<string>denseCompositionEdge</string>
+	<key>positionForActivity</key>
+	<string>instructionBeyondComposite</string>
+	<key>robustCupertinoSkewy</key>
+	<string>labelOrState</string>
+	<key>sceneNearMediator</key>
+	<string>sortedInstructionTag</string>
+	<key>synchronousLocalizationSize</key>
+	<string>particleStageForce</string>
+	<key>tickerUntilProxy</key>
+	<string>mediocreExpandedVelocity</string>
+</dict>
+</plist>

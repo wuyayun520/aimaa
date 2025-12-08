@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerNormIndex</key>
+	<string>subscriptionTypeTheme</string>
+	<key>concurrentNavigatorSize</key>
+	<string>tensorNavigatorBehavior</string>
+	<key>euclideanHeapAcceleration</key>
+	<string>dimensionAtFramework</string>
+	<key>ignoredTimerDepth</key>
+	<string>sequentialProjectMargin</string>
+	<key>layoutCommandBehavior</key>
+	<string>operationFromInterpreter</string>
+	<key>sessionByStrategy</key>
+	<string>sensorWithoutOperation</string>
+	<key>sliderObserverStatus</key>
+	<string>smallMasterMomentum</string>
+</dict>
+</plist>

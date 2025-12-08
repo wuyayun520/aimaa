@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBufferType</key>
+	<string>euclideanBufferPosition</string>
+	<key>customRowState</key>
+	<string>navigatorPerPlatform</string>
+	<key>firstRadioBehavior</key>
+	<string>viewBesideSystem</string>
+	<key>flexibleOptimizerRate</key>
+	<string>sensorTempleInset</string>
+	<key>gridviewCommandBehavior</key>
+	<string>tweenSinceStrategy</string>
+	<key>interpolationNumberBound</key>
+	<string>scrollableOffsetContrast</string>
+	<key>metadataTaskSaturation</key>
+	<string>indicatorScopeVisible</string>
+	<key>particleUntilSingleton</key>
+	<string>layerVisitorVelocity</string>
+</dict>
+</plist>

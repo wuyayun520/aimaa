@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFutureLeft</key>
+	<string>immediateAxisOpacity</string>
+	<key>disabledNavigatorResponse</key>
+	<string>opaqueMenuCoord</string>
+	<key>localizationLevelCenter</key>
+	<string>advancedAlphaBehavior</string>
+	<key>resilientStackDistance</key>
+	<string>drawerNumberDensity</string>
+</dict>
+</plist>

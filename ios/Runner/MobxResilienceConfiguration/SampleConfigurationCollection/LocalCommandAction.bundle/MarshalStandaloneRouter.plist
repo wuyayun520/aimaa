@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelInsidePlatform</key>
+	<string>uniqueInjectionBorder</string>
+	<key>exceptionNumberState</key>
+	<string>gesturedetectorDuringWork</string>
+	<key>interactiveSemanticsMargin</key>
+	<string>greatTernaryTop</string>
+	<key>nativeProfileOffset</key>
+	<string>cycleAsInterpreter</string>
+	<key>presenterIncludeChain</key>
+	<string>progressbarFlyweightDensity</string>
+	<key>projectionBufferTheme</key>
+	<string>independentHandlerDensity</string>
+	<key>sustainableGemTag</key>
+	<string>radiusBridgeAppearance</string>
+</dict>
+</plist>

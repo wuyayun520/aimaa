@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionStyleCoord</key>
+	<string>materialFacadeType</string>
+	<key>easyMarginRotation</key>
+	<string>synchronousOperationLocation</string>
+	<key>lazyEventName</key>
+	<string>allocatorPerTier</string>
+	<key>singletonPlatformFrequency</key>
+	<string>gesturedetectorBufferDensity</string>
+	<key>timerObserverLocation</key>
+	<string>capsuleActivityCoord</string>
+</dict>
+</plist>

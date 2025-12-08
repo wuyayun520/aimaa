@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCompletionSkewy</key>
+	<string>disabledDecorationIndex</string>
+	<key>granularBlocEdge</key>
+	<string>iconBesideObserver</string>
+	<key>keyCubitInteraction</key>
+	<string>visibleStorageFormat</string>
+	<key>spriteOrType</key>
+	<string>completionAroundObserver</string>
+	<key>zoneFlyweightFlags</key>
+	<string>routeVariableName</string>
+</dict>
+</plist>

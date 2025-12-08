@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityForComposite</key>
+	<string>exceptionWithoutJob</string>
+	<key>handlerDespiteStrategy</key>
+	<string>consumerValueSkewx</string>
+	<key>riverpodAndCycle</key>
+	<string>configurationWithoutFacade</string>
+	<key>specifyDescriptorSaturation</key>
+	<string>specifyDurationFormat</string>
+	<key>symmetricStreamAlignment</key>
+	<string>reactiveObserverResponse</string>
+	<key>tabviewPatternFrequency</key>
+	<string>concurrentFutureOpacity</string>
+</dict>
+</plist>

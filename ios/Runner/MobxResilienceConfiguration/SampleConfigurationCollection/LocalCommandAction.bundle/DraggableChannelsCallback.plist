@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTernarySpeed</key>
+	<string>concurrentRadiusKind</string>
+	<key>backwardStreamVelocity</key>
+	<string>gridProxySpeed</string>
+	<key>borderAlongObserver</key>
+	<string>mediaByPhase</string>
+	<key>exceptionBesidePhase</key>
+	<string>visibleHeroRate</string>
+	<key>futureByValue</key>
+	<string>globalSemanticsFlags</string>
+	<key>mapWithoutOperation</key>
+	<string>nextBufferFeedback</string>
+	<key>materialLabelCoord</key>
+	<string>requestSystemSpeed</string>
+	<key>respectiveBufferLocation</key>
+	<string>storageFacadeEdge</string>
+</dict>
+</plist>

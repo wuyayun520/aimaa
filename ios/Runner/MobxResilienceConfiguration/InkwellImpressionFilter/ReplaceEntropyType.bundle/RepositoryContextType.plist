@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringPattern</key>
+	<string>requiredExceptionLeft</string>
+	<key>captionAtParam</key>
+	<string>euclideanCatalystSaturation</string>
+	<key>flexibleButtonDensity</key>
+	<string>timerVariablePressure</string>
+	<key>switchContainKind</key>
+	<string>tabbarFacadeTransparency</string>
+</dict>
+</plist>

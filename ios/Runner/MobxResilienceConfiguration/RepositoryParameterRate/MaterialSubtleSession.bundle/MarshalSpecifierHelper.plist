@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTypeShade</key>
+	<string>textProxyHue</string>
+	<key>callbackAboutSystem</key>
+	<string>blocEnvironmentSpeed</string>
+	<key>cupertinoInStyle</key>
+	<string>uniqueNavigatorDuration</string>
+	<key>inactiveAspectTheme</key>
+	<string>advancedIndicatorDensity</string>
+	<key>multiplicationContainFacade</key>
+	<string>normalAsyncVisibility</string>
+	<key>particleInValue</key>
+	<string>radioAndObserver</string>
+	<key>popupAlongStrategy</key>
+	<string>activatedPlateOpacity</string>
+	<key>profileBufferType</key>
+	<string>inheritedCompleterName</string>
+	<key>touchFrameworkResponse</key>
+	<string>transformerAtPhase</string>
+	<key>viewPatternMomentum</key>
+	<string>firstCurvePadding</string>
+</dict>
+</plist>

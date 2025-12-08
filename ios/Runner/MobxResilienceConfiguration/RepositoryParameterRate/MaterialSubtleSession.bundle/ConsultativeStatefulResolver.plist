@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRectTail</key>
+	<string>constNavigatorRotation</string>
+	<key>cycleAmongValue</key>
+	<string>reductionParamDelay</string>
+	<key>expandedValueFrequency</key>
+	<string>unaryOutsidePattern</string>
+	<key>gestureSystemSkewy</key>
+	<string>tensorAnimationTheme</string>
+	<key>hierarchicalScrollEdge</key>
+	<string>resourceAtVisitor</string>
+	<key>missionProcessVisible</key>
+	<string>observerProxySize</string>
+	<key>sharedGrayscalePadding</key>
+	<string>catalystObserverBound</string>
+	<key>standaloneCompleterBound</key>
+	<string>animationOutsideCycle</string>
+</dict>
+</plist>

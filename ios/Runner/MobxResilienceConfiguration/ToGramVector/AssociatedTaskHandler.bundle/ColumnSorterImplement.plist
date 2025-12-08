@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionContractionFlags</key>
+	<string>gesturedetectorPatternTheme</string>
+	<key>associatedNormState</key>
+	<string>localSliderStatus</string>
+	<key>characterVarName</key>
+	<string>navigationBeyondType</string>
+	<key>commandVisitorDelay</key>
+	<string>flexibleSegmentCoord</string>
+	<key>graphicStyleBottom</key>
+	<string>statefulFlyweightRotation</string>
+	<key>semanticPopupHue</key>
+	<string>commandScopeBottom</string>
+	<key>stateLayerDepth</key>
+	<string>rectPhaseTransparency</string>
+</dict>
+</plist>

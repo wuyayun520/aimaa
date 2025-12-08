@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAlongType</key>
+	<string>queueAndPlatform</string>
+	<key>blocByMediator</key>
+	<string>consultativeStoryboardDuration</string>
+	<key>draggableEffectTag</key>
+	<string>iconModeRate</string>
+	<key>grainUntilAction</key>
+	<string>stampObserverInset</string>
+	<key>materialFlyweightTag</key>
+	<string>gridFormBehavior</string>
+	<key>repositoryWithKind</key>
+	<string>notificationInterpreterForce</string>
+	<key>statelessErrorMode</key>
+	<string>storeExceptType</string>
+	<key>tensorRowHead</key>
+	<string>alertByLayer</string>
+</dict>
+</plist>

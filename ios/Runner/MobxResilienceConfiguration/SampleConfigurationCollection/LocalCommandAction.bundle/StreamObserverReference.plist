@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeStageCenter</key>
+	<string>stateAmongPhase</string>
+	<key>handlerOutsideValue</key>
+	<string>ignoredDialogsRight</string>
+	<key>notifierTempleTail</key>
+	<string>lazyRouteBrightness</string>
+	<key>scrollOutsideTask</key>
+	<string>composableChannelsFrequency</string>
+	<key>statefulTransformerName</key>
+	<string>decorationAwayProxy</string>
+</dict>
+</plist>

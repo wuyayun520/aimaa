@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorStructureRotation</key>
+	<string>reusableOverlayColor</string>
+	<key>groupByEnvironment</key>
+	<string>mutableCompositionFeedback</string>
+	<key>permissiveSingletonSaturation</key>
+	<string>keyTangentForce</string>
+	<key>resourceAboutCommand</key>
+	<string>tensorGridviewAcceleration</string>
+</dict>
+</plist>

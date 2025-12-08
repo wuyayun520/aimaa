@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationContextInterval</key>
+	<string>usecaseCommandHead</string>
+	<key>heapFlyweightOffset</key>
+	<string>persistentSineResponse</string>
+	<key>ignoredFrameMode</key>
+	<string>builderInAction</string>
+	<key>indicatorDuringJob</key>
+	<string>animationOrStrategy</string>
+	<key>kernelActionSpeed</key>
+	<string>checklistLevelFlags</string>
+	<key>progressbarOperationDuration</key>
+	<string>eagerSampleOrigin</string>
+	<key>spriteAroundFunction</key>
+	<string>tickerFlyweightBorder</string>
+	<key>widgetThanInterpreter</key>
+	<string>backwardTechniquePosition</string>
+</dict>
+</plist>

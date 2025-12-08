@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackProxyFrequency</key>
+	<string>sampleValueAppearance</string>
+	<key>discardedPetDirection</key>
+	<string>diffableCurveAlignment</string>
+	<key>indicatorVersusTask</key>
+	<string>missionDecoratorStyle</string>
+	<key>permanentChecklistFlags</key>
+	<string>iterativeGroupShape</string>
+	<key>providerVarVelocity</key>
+	<string>singletonPrototypeSpeed</string>
+	<key>screenFormOffset</key>
+	<string>streamActivityTransparency</string>
+	<key>variantAlongStyle</key>
+	<string>kernelScopeTension</string>
+</dict>
+</plist>

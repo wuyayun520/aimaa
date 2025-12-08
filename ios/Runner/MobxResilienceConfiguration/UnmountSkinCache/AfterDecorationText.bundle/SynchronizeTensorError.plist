@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertVersusAdapter</key>
+	<string>navigationCompositeBottom</string>
+	<key>constAnimationDirection</key>
+	<string>cellOutsideEnvironment</string>
+	<key>controllerEnvironmentMode</key>
+	<string>substantialPopupShade</string>
+	<key>cupertinoStateValidation</key>
+	<string>histogramPerProxy</string>
+	<key>diversifiedDelegateTension</key>
+	<string>richtextInsideShape</string>
+	<key>ephemeralMonsterSkewy</key>
+	<string>intuitiveNotifierPressure</string>
+	<key>menuForWork</key>
+	<string>eventStructureFormat</string>
+	<key>routerOperationInterval</key>
+	<string>geometricQueryOffset</string>
+</dict>
+</plist>

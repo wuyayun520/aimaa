@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStyleDirection</key>
+	<string>priorityAboutPhase</string>
+	<key>normTierSpacing</key>
+	<string>activeUsageHue</string>
+	<key>optimizerVarSpacing</key>
+	<string>subsequentProfileBorder</string>
+	<key>permissiveWidgetFlags</key>
+	<string>synchronousPageviewDuration</string>
+	<key>projectNearMethod</key>
+	<string>globalCommandOpacity</string>
+</dict>
+</plist>

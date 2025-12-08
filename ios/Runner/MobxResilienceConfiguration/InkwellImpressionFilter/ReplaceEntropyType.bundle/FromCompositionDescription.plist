@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nodeByKind</key>
+	<string>specifyLocalizationFeedback</string>
+	<key>scrollableConsumerTension</key>
+	<string>clipperDuringNumber</string>
+	<key>touchStyleTheme</key>
+	<string>iterativeParticleBound</string>
+</dict>
+</plist>

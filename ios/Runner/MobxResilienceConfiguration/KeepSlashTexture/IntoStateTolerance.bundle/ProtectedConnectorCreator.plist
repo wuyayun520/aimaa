@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChecklistInteraction</key>
+	<string>previewAboutParameter</string>
+	<key>blocContainSingleton</key>
+	<string>currentCoordinatorOffset</string>
+	<key>clipperMediatorRight</key>
+	<string>interfaceInsideParam</string>
+	<key>effectExceptComposite</key>
+	<string>animatedcontainerOrKind</string>
+	<key>interfaceSingletonDensity</key>
+	<string>navigatorFlyweightMode</string>
+	<key>observerPlatformCount</key>
+	<string>liteEffectDuration</string>
+	<key>positionedParameterRight</key>
+	<string>timerBufferInset</string>
+	<key>storageFormSaturation</key>
+	<string>streamInCycle</string>
+	<key>threadDecoratorBottom</key>
+	<string>chapterStageInset</string>
+</dict>
+</plist>

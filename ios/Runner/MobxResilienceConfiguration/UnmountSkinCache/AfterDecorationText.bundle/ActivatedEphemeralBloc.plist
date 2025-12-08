@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTransformerMode</key>
+	<string>bufferProcessRate</string>
+	<key>autoCellRate</key>
+	<string>monsterAndForm</string>
+	<key>dialogsAndComposite</key>
+	<string>disparateLayerMargin</string>
+	<key>intensityFrameworkContrast</key>
+	<string>toolBeyondValue</string>
+	<key>intermediateChecklistRate</key>
+	<string>gateProcessVisible</string>
+	<key>signatureLevelSize</key>
+	<string>difficultProtocolIndex</string>
+</dict>
+</plist>

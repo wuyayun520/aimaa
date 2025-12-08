@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonScopeStatus</key>
+	<string>textStageKind</string>
+	<key>channelsDuringStage</key>
+	<string>desktopEffectMargin</string>
+	<key>concurrentFragmentStatus</key>
+	<string>retainedThreadRight</string>
+	<key>crucialResponseSpacing</key>
+	<string>singletonScopeVisibility</string>
+	<key>cubitStructureSpeed</key>
+	<string>exceptionWithoutScope</string>
+	<key>lossNumberStatus</key>
+	<string>opaqueChannelFlags</string>
+	<key>richtextThanProcess</key>
+	<string>grayscaleKindIndex</string>
+	<key>similarDescriptionPressure</key>
+	<string>completerWithoutStage</string>
+</dict>
+</plist>

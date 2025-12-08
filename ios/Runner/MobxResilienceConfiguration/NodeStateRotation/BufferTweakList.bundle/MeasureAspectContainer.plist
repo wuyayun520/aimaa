@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxParamLocation</key>
+	<string>displayablePlateFlags</string>
+	<key>clipperExceptActivity</key>
+	<string>permanentSwitchMargin</string>
+	<key>curveParamSpacing</key>
+	<string>curveVariableOrientation</string>
+	<key>exceptionPatternContrast</key>
+	<string>adaptiveManagerBottom</string>
+	<key>immutableScaleCenter</key>
+	<string>sequentialLogOffset</string>
+	<key>iterativeTernaryTag</key>
+	<string>allocatorNumberTransparency</string>
+	<key>mutableCapacitiesSaturation</key>
+	<string>cosinePhaseLeft</string>
+	<key>particleMethodMargin</key>
+	<string>projectionTypeIndex</string>
+	<key>typicalRoleTail</key>
+	<string>immediateCurveMargin</string>
+</dict>
+</plist>

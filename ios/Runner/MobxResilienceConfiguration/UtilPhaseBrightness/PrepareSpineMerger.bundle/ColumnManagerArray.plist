@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleToolInterval</key>
+	<string>gramVariableLocation</string>
+	<key>deferredTaskDelay</key>
+	<string>reusableNavigationInterval</string>
+	<key>keyConsumerVisible</key>
+	<string>asyncOfMethod</string>
+	<key>lastCardResponse</key>
+	<string>threadAgainstStrategy</string>
+	<key>playbackPlatformTheme</key>
+	<string>usedThemeType</string>
+	<key>storeActivityInterval</key>
+	<string>staticCollectionTail</string>
+</dict>
+</plist>

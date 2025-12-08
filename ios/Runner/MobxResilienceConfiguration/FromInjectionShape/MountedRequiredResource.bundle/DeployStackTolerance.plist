@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAwayVar</key>
+	<string>storyboardVarPosition</string>
+	<key>graphWithDecorator</key>
+	<string>tappableDependencyKind</string>
+	<key>hardAlignmentValidation</key>
+	<string>prioritySingletonAlignment</string>
+	<key>keyChartColor</key>
+	<string>permissiveInterfaceCount</string>
+	<key>materialEventCenter</key>
+	<string>grayscaleViaKind</string>
+	<key>observerAtParameter</key>
+	<string>constraintMediatorBorder</string>
+	<key>radioTypePadding</key>
+	<string>factoryTemplePosition</string>
+	<key>routeBridgeBound</key>
+	<string>currentInjectionSize</string>
+	<key>streamForSingleton</key>
+	<string>respectiveNavigatorName</string>
+	<key>subtleAppbarBound</key>
+	<string>coordinatorExceptBuffer</string>
+</dict>
+</plist>

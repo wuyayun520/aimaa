@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSineFormat</key>
+	<string>parallelClipperState</string>
+	<key>behaviorMethodFeedback</key>
+	<string>providerCommandOffset</string>
+	<key>capacitiesAtProxy</key>
+	<string>vectorInFacade</string>
+	<key>featureAdapterKind</key>
+	<string>swiftNearVariable</string>
+	<key>granularRequestTop</key>
+	<string>responsiveIsolateForce</string>
+	<key>labelChainOffset</key>
+	<string>reducerOutsideBuffer</string>
+	<key>progressbarValueRight</key>
+	<string>animationStyleCenter</string>
+	<key>storeParameterBottom</key>
+	<string>documentStyleCoord</string>
+	<key>typicalDelegateType</key>
+	<string>gestureScopeMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityStrategySize</key>
+	<string>transitionBesideCycle</string>
+	<key>cartesianSizeMode</key>
+	<string>eventForKind</string>
+	<key>paddingActivityRotation</key>
+	<string>exceptionAmongFramework</string>
+	<key>parallelPopupSkewy</key>
+	<string>equalizationThanContext</string>
+	<key>presenterAboutState</key>
+	<string>priorRouteMargin</string>
+	<key>streamVersusAction</key>
+	<string>serviceBeyondPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTaskBorder</key>
+	<string>requiredSizeTheme</string>
+	<key>containerBeyondAction</key>
+	<string>backwardPlateEdge</string>
+	<key>cursorParameterKind</key>
+	<string>activityUntilEnvironment</string>
+	<key>gestureWithLevel</key>
+	<string>slashAndContext</string>
+	<key>timerDespiteObserver</key>
+	<string>viewOutsideLayer</string>
+	<key>titleStructureSaturation</key>
+	<string>queryAlongActivity</string>
+</dict>
+</plist>

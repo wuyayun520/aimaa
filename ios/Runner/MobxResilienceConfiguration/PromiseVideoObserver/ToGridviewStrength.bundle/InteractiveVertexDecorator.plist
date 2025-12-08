@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationNearPrototype</key>
+	<string>callbackFromStage</string>
+	<key>gesturedetectorForPrototype</key>
+	<string>eagerTransformerBrightness</string>
+	<key>isolateFormContrast</key>
+	<string>segmentStateRate</string>
+	<key>menuMediatorSkewy</key>
+	<string>reductionDuringDecorator</string>
+	<key>reducerOfTask</key>
+	<string>newestTouchSpeed</string>
+	<key>responsiveEqualizationInterval</key>
+	<string>resourcePerStyle</string>
+	<key>smallSensorSkewy</key>
+	<string>animatedcontainerBeyondChain</string>
+	<key>unsortedAssetCount</key>
+	<string>granularSceneVelocity</string>
+	<key>visibleContainerResponse</key>
+	<string>associatedCurveFrequency</string>
+</dict>
+</plist>

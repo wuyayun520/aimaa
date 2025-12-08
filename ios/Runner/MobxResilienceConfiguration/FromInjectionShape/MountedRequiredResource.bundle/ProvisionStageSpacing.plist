@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerIncludeParameter</key>
+	<string>cosineByJob</string>
+	<key>descriptorAgainstParam</key>
+	<string>transitionVersusLevel</string>
+	<key>roleInsideMethod</key>
+	<string>queryAlongVisitor</string>
+	<key>sortedGemBehavior</key>
+	<string>diffablePainterForce</string>
+	<key>stepVisitorTension</key>
+	<string>heapFunctionSkewy</string>
+</dict>
+</plist>

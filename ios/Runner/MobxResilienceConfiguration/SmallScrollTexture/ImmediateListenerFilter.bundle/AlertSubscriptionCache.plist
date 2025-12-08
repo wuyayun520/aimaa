@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocParamPosition</key>
+	<string>localWorkflowEdge</string>
+	<key>cubitLikeAction</key>
+	<string>animatedMethodBottom</string>
+	<key>hardNavigatorSpacing</key>
+	<string>textureNearScope</string>
+	<key>nextCursorStatus</key>
+	<string>statelessCallbackBrightness</string>
+	<key>pivotalConstraintAlignment</key>
+	<string>radioAsAction</string>
+	<key>reusableCheckboxInset</key>
+	<string>blocPrototypeVelocity</string>
+	<key>textfieldProxyMode</key>
+	<string>riverpodWithoutLevel</string>
+</dict>
+</plist>

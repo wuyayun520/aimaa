@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableSymbolInterval</key>
+	<string>zoneIncludeStructure</string>
+	<key>mobileStrategyInset</key>
+	<string>modelStructureDistance</string>
+	<key>normalIntegerBottom</key>
+	<string>cellLevelOrigin</string>
+	<key>routePerParameter</key>
+	<string>subsequentCursorScale</string>
+	<key>specifySubpixelSkewx</key>
+	<string>robustSingletonTheme</string>
+	<key>variantSystemDepth</key>
+	<string>cubitInFacade</string>
+</dict>
+</plist>

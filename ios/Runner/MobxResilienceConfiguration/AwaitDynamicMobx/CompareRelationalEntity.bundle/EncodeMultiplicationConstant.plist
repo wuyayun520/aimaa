@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customModulusAppearance</key>
+	<string>usedMonsterOrientation</string>
+	<key>factoryKindFrequency</key>
+	<string>primaryBulletBorder</string>
+	<key>flexModeDensity</key>
+	<string>normUntilStrategy</string>
+	<key>invisibleEquipmentSpeed</key>
+	<string>unaryCycleFeedback</string>
+	<key>mapFormHue</key>
+	<string>sampleAndPhase</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderLikeFlyweight</key>
+	<string>usecaseAmongShape</string>
+	<key>extensionPhaseType</key>
+	<string>channelsAsFlyweight</string>
+	<key>hierarchicalCurveState</key>
+	<string>normalConfigurationKind</string>
+	<key>nextTextfieldBound</key>
+	<string>iconBufferTint</string>
+	<key>providerOrPlatform</key>
+	<string>cursorAtStrategy</string>
+	<key>sliderPrototypeEdge</key>
+	<string>descriptorModeForce</string>
+</dict>
+</plist>

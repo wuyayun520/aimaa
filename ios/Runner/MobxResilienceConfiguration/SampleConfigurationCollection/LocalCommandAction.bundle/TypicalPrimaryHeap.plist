@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardObserverDirection</key>
+	<string>responsiveSemanticsLeft</string>
+	<key>channelAndSingleton</key>
+	<string>keyResponseTag</string>
+	<key>configurationLikeStrategy</key>
+	<string>sliderBufferAppearance</string>
+	<key>geometricInteractorAlignment</key>
+	<string>uniqueMethodLocation</string>
+	<key>grainIncludeValue</key>
+	<string>signUntilTask</string>
+	<key>protocolTierOpacity</key>
+	<string>chartBufferFormat</string>
+	<key>uniformLocalizationRight</key>
+	<string>boxIncludeForm</string>
+</dict>
+</plist>

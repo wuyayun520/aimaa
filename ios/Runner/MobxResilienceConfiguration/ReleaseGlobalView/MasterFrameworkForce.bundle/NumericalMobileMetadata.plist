@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAdapterHead</key>
+	<string>mutableCupertinoSkewx</string>
+	<key>semanticControllerShape</key>
+	<string>eventWorkKind</string>
+	<key>usageAmongAction</key>
+	<string>arithmeticGateLocation</string>
+	<key>webGestureCoord</key>
+	<string>subpixelFunctionInteraction</string>
+	<key>zoneAwayActivity</key>
+	<string>textAmongParameter</string>
+</dict>
+</plist>

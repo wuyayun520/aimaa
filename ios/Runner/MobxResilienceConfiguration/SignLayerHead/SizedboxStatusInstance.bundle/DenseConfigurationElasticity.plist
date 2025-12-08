@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitTaskTransparency</key>
+	<string>menuCycleBehavior</string>
+	<key>entityPatternRotation</key>
+	<string>activeResourceCenter</string>
+	<key>parallelBatchSaturation</key>
+	<string>dependencyChainOffset</string>
+	<key>particleSingletonHead</key>
+	<string>sliderChainCount</string>
+	<key>sortedInkwellShape</key>
+	<string>cycleAdapterTension</string>
+	<key>typicalTextureTension</key>
+	<string>explicitBuilderFormat</string>
+	<key>utilStageTop</key>
+	<string>rowNumberDepth</string>
+</dict>
+</plist>

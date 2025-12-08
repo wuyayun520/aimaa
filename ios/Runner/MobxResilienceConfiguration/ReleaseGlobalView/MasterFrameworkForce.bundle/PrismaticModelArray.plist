@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityVersusScope</key>
+	<string>singletonShapeSize</string>
+	<key>alignmentBeyondVariable</key>
+	<string>tickerUntilVariable</string>
+	<key>animationAtInterpreter</key>
+	<string>cycleAtJob</string>
+	<key>borderVersusState</key>
+	<string>sliderStructureOrientation</string>
+	<key>capacitiesTypeInteraction</key>
+	<string>entityUntilNumber</string>
+	<key>customCompletionTag</key>
+	<string>hardLocalizationPadding</string>
+	<key>progressbarExceptBuffer</key>
+	<string>pinchableCallbackFrequency</string>
+	<key>utilDespiteStructure</key>
+	<string>retainedNavigatorInteraction</string>
+</dict>
+</plist>

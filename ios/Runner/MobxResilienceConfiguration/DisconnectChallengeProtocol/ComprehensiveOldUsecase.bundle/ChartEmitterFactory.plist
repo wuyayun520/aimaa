@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarCommandBorder</key>
+	<string>explicitVectorPressure</string>
+	<key>concurrentConstraintContrast</key>
+	<string>finalScaleState</string>
+	<key>curveVariableLocation</key>
+	<string>keyRequestBrightness</string>
+	<key>decorationDuringComposite</key>
+	<string>widgetDuringState</string>
+	<key>directlyExponentCoord</key>
+	<string>tappableTopicDepth</string>
+	<key>mapDuringComposite</key>
+	<string>controllerOperationPosition</string>
+	<key>segueAmongChain</key>
+	<string>layoutOrVariable</string>
+	<key>serviceTaskInterval</key>
+	<string>viewAlongProxy</string>
+	<key>specifierPatternTop</key>
+	<string>mutableContractionSkewx</string>
+</dict>
+</plist>

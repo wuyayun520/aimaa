@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSubpixelAcceleration</key>
+	<string>completionAgainstValue</string>
+	<key>delegateBeyondPattern</key>
+	<string>notifierWithVariable</string>
+	<key>descriptorIncludeType</key>
+	<string>storePhaseLocation</string>
+	<key>independentEqualizationInset</key>
+	<string>compositionIncludeNumber</string>
+	<key>injectionBeyondCommand</key>
+	<string>threadPerWork</string>
+	<key>interfaceVariableColor</key>
+	<string>rectPerMode</string>
+	<key>missionViaScope</key>
+	<string>numericalWidgetName</string>
+	<key>progressbarOrComposite</key>
+	<string>backwardAnimationOrigin</string>
+	<key>remainderMethodEdge</key>
+	<string>providerFlyweightDensity</string>
+	<key>spriteVisitorTop</key>
+	<string>futureDuringActivity</string>
+</dict>
+</plist>

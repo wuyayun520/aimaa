@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityInsideProcess</key>
+	<string>asyncPrototypeKind</string>
+	<key>inkwellWithoutCycle</key>
+	<string>staticCupertinoKind</string>
+	<key>mapCycleCenter</key>
+	<string>instructionActivityForce</string>
+	<key>mobxParamFrequency</key>
+	<string>unarySingletonValidation</string>
+	<key>observerNearMemento</key>
+	<string>popupAboutFlyweight</string>
+</dict>
+</plist>

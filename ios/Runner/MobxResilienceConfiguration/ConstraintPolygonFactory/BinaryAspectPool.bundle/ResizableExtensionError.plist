@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentExceptionOrientation</key>
+	<string>cupertinoExceptParam</string>
+	<key>effectLayerSpeed</key>
+	<string>descriptorParamFrequency</string>
+	<key>indicatorStrategyType</key>
+	<string>sampleAsParameter</string>
+	<key>rapidFutureBrightness</key>
+	<string>nativeInjectionTheme</string>
+	<key>sinkModeType</key>
+	<string>tensorGroupSaturation</string>
+	<key>sophisticatedFragmentFeedback</key>
+	<string>transitionMethodRate</string>
+	<key>techniqueNumberSkewx</key>
+	<string>storageTempleBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintShapeBorder</key>
+	<string>viewCycleStatus</string>
+	<key>methodTemplePosition</key>
+	<string>radiusOrAction</string>
+	<key>methodVariableShade</key>
+	<string>overlayParameterSaturation</string>
+	<key>singleNormBorder</key>
+	<string>lazyColumnAcceleration</string>
+</dict>
+</plist>

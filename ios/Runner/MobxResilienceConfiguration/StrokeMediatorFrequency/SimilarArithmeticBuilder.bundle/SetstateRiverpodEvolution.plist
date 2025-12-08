@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerUntilJob</key>
+	<string>progressbarFunctionAlignment</string>
+	<key>decorationProxyHead</key>
+	<string>tickerAsStage</string>
+	<key>gesturedetectorThroughInterpreter</key>
+	<string>controllerFlyweightName</string>
+	<key>injectionActivityAlignment</key>
+	<string>interactiveLabelAlignment</string>
+	<key>methodVisitorSpacing</key>
+	<string>storeLevelDistance</string>
+	<key>topicVisitorHead</key>
+	<string>inactiveFeatureOrigin</string>
+	<key>uniqueMediaBehavior</key>
+	<string>hardTransformerSpacing</string>
+</dict>
+</plist>

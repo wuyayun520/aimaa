@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationExceptPrototype</key>
+	<string>disabledPainterCount</string>
+	<key>assetBeyondParam</key>
+	<string>multiTransitionInterval</string>
+	<key>binaryAgainstPattern</key>
+	<string>prevTransitionMargin</string>
+	<key>builderMediatorBehavior</key>
+	<string>offsetModeBehavior</string>
+	<key>effectWithoutLayer</key>
+	<string>sizedboxScopeIndex</string>
+	<key>layoutWithoutStructure</key>
+	<string>exceptionBySystem</string>
+	<key>subtleBlocStatus</key>
+	<string>progressbarOutsidePhase</string>
+	<key>vectorProxyOrientation</key>
+	<string>isolateCompositeBehavior</string>
+</dict>
+</plist>

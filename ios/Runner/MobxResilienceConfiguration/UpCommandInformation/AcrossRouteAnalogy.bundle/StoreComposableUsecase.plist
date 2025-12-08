@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveIconMode</key>
+	<string>retainedBrushDensity</string>
+	<key>entityKindSpeed</key>
+	<string>builderValueLocation</string>
+	<key>intuitiveRectCoord</key>
+	<string>resourceValueResponse</string>
+	<key>prismaticRowBorder</key>
+	<string>cosineCycleLeft</string>
+</dict>
+</plist>

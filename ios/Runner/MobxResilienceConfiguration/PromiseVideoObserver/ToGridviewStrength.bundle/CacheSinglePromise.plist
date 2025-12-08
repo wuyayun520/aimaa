@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationModeType</key>
+	<string>progressbarAmongProxy</string>
+	<key>getxContextVisibility</key>
+	<string>concreteListenerTail</string>
+	<key>independentSwitchInteraction</key>
+	<string>canvasFormInteraction</string>
+	<key>invisibleOperationRotation</key>
+	<string>eventParameterKind</string>
+	<key>listenerSingletonDepth</key>
+	<string>functionalPresenterOrientation</string>
+	<key>managerCycleType</key>
+	<string>criticalLabelName</string>
+	<key>matrixVersusMethod</key>
+	<string>boxInterpreterDirection</string>
+	<key>notificationInsideMemento</key>
+	<string>monsterOutsideSingleton</string>
+</dict>
+</plist>

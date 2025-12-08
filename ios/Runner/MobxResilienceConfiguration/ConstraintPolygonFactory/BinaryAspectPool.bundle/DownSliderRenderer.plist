@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisVersusComposite</key>
+	<string>asyncRouteShade</string>
+	<key>largeCardDensity</key>
+	<string>viewThroughFlyweight</string>
+	<key>projectionStateValidation</key>
+	<string>heroLevelVisibility</string>
+	<key>queueStagePadding</key>
+	<string>tabviewAndVisitor</string>
+	<key>synchronousScreenRotation</key>
+	<string>remainderSystemTag</string>
+	<key>toolMediatorPadding</key>
+	<string>musicWithPattern</string>
+	<key>topicNumberIndex</key>
+	<string>movementObserverHue</string>
+	<key>touchAlongAction</key>
+	<string>brushPlatformAppearance</string>
+</dict>
+</plist>

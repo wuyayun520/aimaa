@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertChainOffset</key>
+	<string>localizationBridgeDirection</string>
+	<key>aspectActionBehavior</key>
+	<string>containerByPattern</string>
+	<key>challengeViaFunction</key>
+	<string>monsterNumberForce</string>
+	<key>channelInCycle</key>
+	<string>builderAsPlatform</string>
+	<key>cubitMethodTint</key>
+	<string>containerWithoutChain</string>
+	<key>denseGroupInset</key>
+	<string>containerOutsideInterpreter</string>
+	<key>elasticAxisAcceleration</key>
+	<string>taskWorkDirection</string>
+	<key>gridCompositeAppearance</key>
+	<string>stateMediatorType</string>
+	<key>layoutStageFeedback</key>
+	<string>draggableStateFeedback</string>
+	<key>streamStrategyOrigin</key>
+	<string>permanentCoordinatorCount</string>
+</dict>
+</plist>

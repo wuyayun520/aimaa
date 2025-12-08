@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAgainstSystem</key>
+	<string>reusableContractionCenter</string>
+	<key>contractionSystemStatus</key>
+	<string>rowForAction</string>
+	<key>diffableTextBottom</key>
+	<string>typicalAllocatorBottom</string>
+	<key>promiseWithoutStage</key>
+	<string>uniformAssetOpacity</string>
+	<key>stackPlatformTheme</key>
+	<string>routerFromKind</string>
+</dict>
+</plist>

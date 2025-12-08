@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSlashSize</key>
+	<string>explicitPopupMargin</string>
+	<key>configurationActionBehavior</key>
+	<string>seamlessSinkIndex</string>
+	<key>groupCommandName</key>
+	<string>intuitiveStackShade</string>
+	<key>timerPlatformFrequency</key>
+	<string>layoutOfEnvironment</string>
+</dict>
+</plist>

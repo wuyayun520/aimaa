@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTransformerTheme</key>
+	<string>dynamicAssetStyle</string>
+	<key>awaitActionOpacity</key>
+	<string>sortedIntegerBottom</string>
+	<key>crucialPositionVisible</key>
+	<string>alphaAndCycle</string>
+	<key>injectionChainOrientation</key>
+	<string>gridviewTierBehavior</string>
+	<key>intensitySinceWork</key>
+	<string>adaptivePlaybackHue</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directTaskBound</key>
+	<string>standaloneAppbarRate</string>
+	<key>queueOfPlatform</key>
+	<string>commandViaMemento</string>
+	<key>resolverCycleRight</key>
+	<string>discardedEntityColor</string>
+	<key>spriteByStyle</key>
+	<string>storageActivityHead</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFrameworkState</key>
+	<string>materialSpriteOffset</string>
+	<key>cartesianManagerShade</key>
+	<string>shaderOrInterpreter</string>
+	<key>disabledAsyncVisible</key>
+	<string>storageAsComposite</string>
+	<key>getxTempleBorder</key>
+	<string>singletonMediatorHue</string>
+	<key>ignoredAssetCount</key>
+	<string>functionalGrayscaleResponse</string>
+	<key>lazyEventPosition</key>
+	<string>easyFlexFlags</string>
+</dict>
+</plist>

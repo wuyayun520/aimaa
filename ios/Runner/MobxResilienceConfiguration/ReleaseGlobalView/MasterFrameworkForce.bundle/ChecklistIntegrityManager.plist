@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletPhaseCoord</key>
+	<string>blocOutsideShape</string>
+	<key>nodeAsSingleton</key>
+	<string>hardRowDensity</string>
+	<key>notifierTempleKind</key>
+	<string>mobileGrainSize</string>
+	<key>playbackParamCount</key>
+	<string>sessionIncludeActivity</string>
+	<key>positionLayerOffset</key>
+	<string>paddingStageForce</string>
+	<key>requestInsideInterpreter</key>
+	<string>responsiveMethodDistance</string>
+	<key>sceneNearEnvironment</key>
+	<string>mediaNearBridge</string>
+	<key>standaloneNotificationVisible</key>
+	<string>firstObserverEdge</string>
+</dict>
+</plist>

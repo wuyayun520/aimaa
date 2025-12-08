@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCubitPadding</key>
+	<string>sequentialCubitBottom</string>
+	<key>decorationEnvironmentLocation</key>
+	<string>resultAsMediator</string>
+	<key>greatLayerVisible</key>
+	<string>mutableSwitchFlags</string>
+	<key>intensityUntilComposite</key>
+	<string>bufferLevelLeft</string>
+	<key>notificationAlongPrototype</key>
+	<string>publicKernelInterval</string>
+	<key>previewValueRight</key>
+	<string>errorInterpreterAcceleration</string>
+</dict>
+</plist>

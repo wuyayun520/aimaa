@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProgressbarFlags</key>
+	<string>singleTransformerCenter</string>
+	<key>animatedOffsetTheme</key>
+	<string>topicOrSystem</string>
+	<key>baseModeKind</key>
+	<string>textureThroughCycle</string>
+	<key>cardMementoOrientation</key>
+	<string>customMusicLeft</string>
+	<key>dialogsForEnvironment</key>
+	<string>diffableCoordinatorDistance</string>
+	<key>elasticCoordinatorCoord</key>
+	<string>gridviewProxyEdge</string>
+	<key>metadataTypeTheme</key>
+	<string>activatedExtensionCoord</string>
+	<key>respectiveEffectValidation</key>
+	<string>singletonSinceTemple</string>
+	<key>routerNumberRate</key>
+	<string>managerProcessContrast</string>
+	<key>sustainableCupertinoForce</key>
+	<string>durationVersusStructure</string>
+</dict>
+</plist>

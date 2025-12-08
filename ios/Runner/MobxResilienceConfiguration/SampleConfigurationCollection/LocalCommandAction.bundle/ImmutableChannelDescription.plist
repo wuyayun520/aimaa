@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteScrollTint</key>
+	<string>constRowFormat</string>
+	<key>greatMovementRate</key>
+	<string>sineFlyweightIndex</string>
+	<key>histogramUntilStrategy</key>
+	<string>intensityCycleFormat</string>
+	<key>notifierNearFacade</key>
+	<string>gridExceptAdapter</string>
+	<key>stampFlyweightPadding</key>
+	<string>profileAgainstBuffer</string>
+	<key>stepAmongScope</key>
+	<string>buttonPatternDistance</string>
+</dict>
+</plist>

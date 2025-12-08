@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStageFeedback</key>
+	<string>gradientAsOperation</string>
+	<key>backwardSinkDistance</key>
+	<string>sinkParameterLocation</string>
+	<key>binaryCycleBound</key>
+	<string>sceneSingletonColor</string>
+	<key>bufferFromParam</key>
+	<string>parallelRequestKind</string>
+	<key>constManagerPadding</key>
+	<string>screenAmongFunction</string>
+	<key>descriptionFunctionSkewy</key>
+	<string>similarCompositionRight</string>
+	<key>getxViaContext</key>
+	<string>heapInTier</string>
+	<key>localNotifierDuration</key>
+	<string>sharedVectorPosition</string>
+	<key>transformerAlongMethod</key>
+	<string>layerPatternVelocity</string>
+</dict>
+</plist>

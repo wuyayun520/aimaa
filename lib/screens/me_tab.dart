@@ -47,7 +47,27 @@ class _MeTabState extends State<MeTab> {
   Future<void> _loadAvatarFile() async {
     try {
       if (_avatarFileName != null) {
-        final directory = await getApplicationDocumentsDirectory();
+        Directory? directory;
+        int retryCount = 0;
+        const maxRetries = 3;
+        
+        while (directory == null && retryCount < maxRetries) {
+          try {
+            directory = await getApplicationDocumentsDirectory();
+          } catch (e) {
+            retryCount++;
+            if (retryCount < maxRetries) {
+              await Future.delayed(Duration(milliseconds: 500 * retryCount));
+            } else {
+              return;
+            }
+          }
+        }
+        
+        if (directory == null) {
+          return;
+        }
+        
         final file = File('${directory.path}/$_avatarFileName');
         if (await file.exists()) {
           setState(() {
@@ -71,7 +91,43 @@ class _MeTabState extends State<MeTab> {
       );
 
       if (image != null) {
-        final directory = await getApplicationDocumentsDirectory();
+        Directory? directory;
+        int retryCount = 0;
+        const maxRetries = 3;
+        
+        while (directory == null && retryCount < maxRetries) {
+          try {
+            directory = await getApplicationDocumentsDirectory();
+          } catch (e) {
+            retryCount++;
+            if (retryCount < maxRetries) {
+              await Future.delayed(Duration(milliseconds: 500 * retryCount));
+            } else {
+              if (mounted) {
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text('Failed to access storage'),
+                    duration: Duration(seconds: 2),
+                  ),
+                );
+              }
+              return;
+            }
+          }
+        }
+        
+        if (directory == null) {
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content: Text('Failed to access storage'),
+                duration: Duration(seconds: 2),
+              ),
+            );
+          }
+          return;
+        }
+        
         final fileName = 'user_avatar_${DateTime.now().millisecondsSinceEpoch}.jpg';
         final savedFile = File('${directory.path}/$fileName');
         await File(image.path).copy(savedFile.path);
@@ -275,7 +331,7 @@ class _MeTabState extends State<MeTab> {
                               ],
                             ),
                           ),
-                          const SizedBox(height: 12),
+                          const SizedBox(height: 6),
                           // Signature
                           GestureDetector(
                             onTap: _editSignature,

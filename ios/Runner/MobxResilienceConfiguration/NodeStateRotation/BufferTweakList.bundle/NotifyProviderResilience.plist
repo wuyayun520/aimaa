@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTechniqueKind</key>
+	<string>specifierVersusTier</string>
+	<key>heroNearAction</key>
+	<string>storyboardCycleAcceleration</string>
+	<key>intermediateCallbackForce</key>
+	<string>taskModeKind</string>
+	<key>layoutInMemento</key>
+	<string>titleLayerBound</string>
+	<key>remainderIncludeProxy</key>
+	<string>handlerAlongChain</string>
+	<key>semanticViewBrightness</key>
+	<string>routerObserverCount</string>
+	<key>unaryFormSpacing</key>
+	<string>catalystForJob</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopMementoCenter</key>
+	<string>largeGraphInset</string>
+	<key>lostThreadVisibility</key>
+	<string>semanticsFromChain</string>
+	<key>statelessMediatorBehavior</key>
+	<string>stateStrategyShade</string>
+	<key>widgetMethodTop</key>
+	<string>keyBitrateSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSubpixelVelocity</key>
+	<string>buttonTypeSpacing</string>
+	<key>builderLikeInterpreter</key>
+	<string>delegateDuringVar</string>
+	<key>fixedTextDepth</key>
+	<string>allocatorSinceInterpreter</string>
+	<key>fixedWidgetLocation</key>
+	<string>allocatorBeyondValue</string>
+	<key>flexInContext</key>
+	<string>nodeWithoutAction</string>
+	<key>graphEnvironmentState</key>
+	<string>factoryPrototypeVisibility</string>
+	<key>gridBesideLayer</key>
+	<string>configurationSingletonBehavior</string>
+	<key>gridMediatorLeft</key>
+	<string>resourceVisitorLocation</string>
+	<key>texturePhaseContrast</key>
+	<string>transformerCommandCoord</string>
+</dict>
+</plist>

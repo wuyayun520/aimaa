@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customLabelType</key>
+	<string>mediocreSingletonShade</string>
+	<key>descriptionWorkTension</key>
+	<string>geometricModulusHue</string>
+	<key>integerAsState</key>
+	<string>persistentRequestOrientation</string>
+	<key>parallelContainerEdge</key>
+	<string>responsiveAspectDistance</string>
+	<key>providerAndObserver</key>
+	<string>appbarFromCommand</string>
+	<key>utilMethodTransparency</key>
+	<string>intensityParamKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSignMomentum</key>
+	<string>rowLevelStatus</string>
+	<key>allocatorProcessVelocity</key>
+	<string>rapidContractionAlignment</string>
+	<key>featureFlyweightTheme</key>
+	<string>taskMethodPressure</string>
+	<key>labelFlyweightBottom</key>
+	<string>storeOrCommand</string>
+	<key>progressbarAsVariable</key>
+	<string>prismaticSubscriptionFormat</string>
+	<key>progressbarVariablePadding</key>
+	<string>secondLayerAppearance</string>
+	<key>scrollSinceMediator</key>
+	<string>sizeTypeTransparency</string>
+	<key>transformerShapeDirection</key>
+	<string>draggableChannelHue</string>
+	<key>widgetMethodSkewx</key>
+	<string>integerContainMode</string>
+</dict>
+</plist>

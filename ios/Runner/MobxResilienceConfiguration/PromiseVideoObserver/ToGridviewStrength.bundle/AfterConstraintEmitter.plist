@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledIntegerDensity</key>
+	<string>singletonAtAction</string>
+	<key>interpolationObserverPadding</key>
+	<string>baselineAlongProxy</string>
+	<key>intuitiveObserverSize</key>
+	<string>difficultCompletionTransparency</string>
+	<key>nodeVersusEnvironment</key>
+	<string>constraintWithoutCycle</string>
+	<key>priorityAroundState</key>
+	<string>anchorShapeSaturation</string>
+	<key>reactiveProgressbarTag</key>
+	<string>concurrentRouterBrightness</string>
+	<key>singleSessionRate</key>
+	<string>remainderStateVisible</string>
+	<key>subpixelBesideKind</key>
+	<string>scrollableBuilderVisible</string>
+</dict>
+</plist>

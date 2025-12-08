@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleErrorInset</key>
+	<string>similarPlaybackMargin</string>
+	<key>bulletModeKind</key>
+	<string>equalizationStrategyKind</string>
+	<key>consumerAndBridge</key>
+	<string>animationValueKind</string>
+	<key>gradientForKind</key>
+	<string>gesturedetectorValueIndex</string>
+	<key>independentMatrixFlags</key>
+	<string>builderAndLayer</string>
+	<key>modelWithPhase</key>
+	<string>extensionValueAlignment</string>
+	<key>persistentBoxDistance</key>
+	<string>titleLayerInteraction</string>
+	<key>unsortedConfigurationInset</key>
+	<string>checkboxTypeRight</string>
+	<key>viewModeFrequency</key>
+	<string>projectFunctionHead</string>
+</dict>
+</plist>

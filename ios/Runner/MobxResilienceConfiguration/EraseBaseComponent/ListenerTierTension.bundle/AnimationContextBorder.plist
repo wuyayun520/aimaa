@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityModeEdge</key>
+	<string>basicAppbarFrequency</string>
+	<key>cartesianGroupCount</key>
+	<string>unactivatedRoleRight</string>
+	<key>explicitEffectSpeed</key>
+	<string>optionNumberPressure</string>
+	<key>interactorDecoratorPressure</key>
+	<string>uniformServiceMode</string>
+	<key>painterDecoratorFrequency</key>
+	<string>unsortedMarginBrightness</string>
+</dict>
+</plist>

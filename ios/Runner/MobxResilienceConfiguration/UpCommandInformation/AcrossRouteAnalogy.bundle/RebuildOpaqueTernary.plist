@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEntityFeedback</key>
+	<string>subscriptionInContext</string>
+	<key>autoBoxshadowTension</key>
+	<string>constraintMediatorBorder</string>
+	<key>greatFrameBehavior</key>
+	<string>keySceneDelay</string>
+	<key>interfaceAlongStyle</key>
+	<string>geometricBaseDensity</string>
+	<key>layerOperationTension</key>
+	<string>semanticSemanticsTheme</string>
+	<key>prismaticTitleHead</key>
+	<string>loopAlongAdapter</string>
+	<key>rowSingletonRotation</key>
+	<string>specifyGridResponse</string>
+</dict>
+</plist>

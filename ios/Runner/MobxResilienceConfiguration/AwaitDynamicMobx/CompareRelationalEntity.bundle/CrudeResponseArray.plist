@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTaskDistance</key>
+	<string>nextPlaybackPosition</string>
+	<key>basicCoordinatorPressure</key>
+	<string>draggableHandlerAppearance</string>
+	<key>cartesianTimerColor</key>
+	<string>gradientWithoutStyle</string>
+	<key>effectProxyBehavior</key>
+	<string>equalizationWorkDepth</string>
+	<key>fusedShaderMargin</key>
+	<string>popupDespiteFunction</string>
+	<key>prevBufferPosition</key>
+	<string>comprehensiveMenuForce</string>
+</dict>
+</plist>

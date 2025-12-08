@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectIncludeBridge</key>
+	<string>intermediateWidgetOrientation</string>
+	<key>asyncDelegateInteraction</key>
+	<string>sequentialMapCoord</string>
+	<key>declarativeBoxPressure</key>
+	<string>eagerTaskKind</string>
+	<key>draggableMusicDuration</key>
+	<string>eagerCubeType</string>
+	<key>intensityInFramework</key>
+	<string>enabledCommandBehavior</string>
+	<key>progressbarThanLayer</key>
+	<string>subscriptionJobSaturation</string>
+	<key>resourceStrategyType</key>
+	<string>significantRequestDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveAspectratioShape</key>
+	<string>capsulePlatformContrast</string>
+	<key>interfaceStrategyDelay</key>
+	<string>localOperationDelay</string>
+	<key>listviewOrCycle</key>
+	<string>awaitWithoutStrategy</string>
+	<key>newestReferenceOpacity</key>
+	<string>queryFunctionIndex</string>
+	<key>nodeOfPattern</key>
+	<string>mobileLayerDistance</string>
+	<key>sequentialTransformerEdge</key>
+	<string>shaderTaskDepth</string>
+	<key>sharedInterpolationLeft</key>
+	<string>aspectratioFormEdge</string>
+</dict>
+</plist>

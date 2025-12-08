@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyAwaitEdge</key>
+	<string>interfaceAmongParameter</string>
+	<key>routerFormRate</key>
+	<string>mediaShapeFrequency</string>
+	<key>storeVariablePosition</key>
+	<string>otherNormLeft</string>
+	<key>utilLevelScale</key>
+	<string>reactivePresenterDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPlaybackShape</key>
+	<string>sequentialDependencySpacing</string>
+	<key>entityWithPattern</key>
+	<string>grainByJob</string>
+	<key>entropyOrActivity</key>
+	<string>gridBesideValue</string>
+	<key>layoutInProxy</key>
+	<string>equalizationValueBorder</string>
+</dict>
+</plist>

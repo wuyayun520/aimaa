@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationInterpreterType</key>
+	<string>handlerContextRate</string>
+	<key>ignoredRouterInterval</key>
+	<string>certificateWithoutNumber</string>
+	<key>localizationBridgeVisibility</key>
+	<string>prismaticCompleterOpacity</string>
+	<key>navigationFromType</key>
+	<string>taskActivityTop</string>
+	<key>queryInsideProxy</key>
+	<string>commonGraphName</string>
+	<key>reactiveParticleBound</key>
+	<string>columnPhaseDelay</string>
+	<key>viewPerTask</key>
+	<string>equalizationChainPosition</string>
+	<key>widgetVisitorSaturation</key>
+	<string>stackPerBridge</string>
+</dict>
+</plist>

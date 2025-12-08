@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeCoordinatorVelocity</key>
+	<string>presenterNearChain</string>
+	<key>factoryOutsideActivity</key>
+	<string>actionVisitorSpeed</string>
+	<key>lastContainerInterval</key>
+	<string>skinFrameworkType</string>
+	<key>originalGemAcceleration</key>
+	<string>stampVersusWork</string>
+	<key>paddingSystemAcceleration</key>
+	<string>profileFrameworkDensity</string>
+	<key>sliderForFramework</key>
+	<string>stepAmongValue</string>
+	<key>utilVersusPattern</key>
+	<string>decorationProcessCount</string>
+</dict>
+</plist>

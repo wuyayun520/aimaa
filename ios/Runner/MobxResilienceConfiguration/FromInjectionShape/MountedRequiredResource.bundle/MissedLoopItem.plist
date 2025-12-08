@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedCustompaintBorder</key>
+	<string>robustThreadBound</string>
+	<key>grainAgainstChain</key>
+	<string>layerSystemFeedback</string>
+	<key>interfaceAroundFramework</key>
+	<string>resourceScopeFeedback</string>
+	<key>pointPlatformVisibility</key>
+	<string>utilBesideSystem</string>
+	<key>radioInsideVar</key>
+	<string>deferredModalMargin</string>
+	<key>titleAgainstActivity</key>
+	<string>boxshadowWithoutMode</string>
+	<key>titleContextMode</key>
+	<string>interfaceAdapterSpeed</string>
+	<key>typicalAspectratioTransparency</key>
+	<string>invisibleListviewInset</string>
+</dict>
+</plist>

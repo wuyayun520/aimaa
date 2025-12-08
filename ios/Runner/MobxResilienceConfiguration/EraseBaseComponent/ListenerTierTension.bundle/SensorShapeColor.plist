@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorVarStatus</key>
+	<string>pinchableScaffoldInset</string>
+	<key>grainAroundSingleton</key>
+	<string>sensorLevelVisibility</string>
+	<key>requiredCoordinatorMomentum</key>
+	<string>topicCommandBound</string>
+	<key>sliderAtStyle</key>
+	<string>sliderFrameworkPosition</string>
+	<key>subsequentInstructionResponse</key>
+	<string>timerDecoratorVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoVersusMode</key>
+	<string>observerOfAction</string>
+	<key>entropyContainFlyweight</key>
+	<string>delegateBridgeOrientation</string>
+	<key>nodeDespiteObserver</key>
+	<string>handlerWorkStatus</string>
+	<key>playbackContextAppearance</key>
+	<string>storeCompositeAppearance</string>
+	<key>tickerProcessSize</key>
+	<string>interfaceInsideVisitor</string>
+</dict>
+</plist>

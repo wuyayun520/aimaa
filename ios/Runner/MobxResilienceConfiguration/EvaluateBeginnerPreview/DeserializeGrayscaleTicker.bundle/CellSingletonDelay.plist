@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerValueHead</key>
+	<string>grainContextDirection</string>
+	<key>compositionStyleOpacity</key>
+	<string>intermediateContainerTheme</string>
+	<key>interactorSinceFramework</key>
+	<string>semanticTextureCount</string>
+	<key>resolverMementoTransparency</key>
+	<string>displayableAnimationMargin</string>
+	<key>semanticUtilBrightness</key>
+	<string>layoutVarHead</string>
+	<key>sequentialSliderInterval</key>
+	<string>stateInCycle</string>
+	<key>textfieldStageVisible</key>
+	<string>bitrateFromProcess</string>
+</dict>
+</plist>

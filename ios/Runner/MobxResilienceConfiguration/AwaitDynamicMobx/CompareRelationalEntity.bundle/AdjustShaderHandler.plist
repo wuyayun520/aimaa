@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAgainstFacade</key>
+	<string>imperativePopupPosition</string>
+	<key>hashCompositeSpacing</key>
+	<string>subpixelPerFunction</string>
+	<key>prismaticCurveBorder</key>
+	<string>themeVariableOrientation</string>
+	<key>sharedTouchTail</key>
+	<string>cartesianWidgetFeedback</string>
+	<key>sizeStrategyFrequency</key>
+	<string>shaderParameterHue</string>
+</dict>
+</plist>

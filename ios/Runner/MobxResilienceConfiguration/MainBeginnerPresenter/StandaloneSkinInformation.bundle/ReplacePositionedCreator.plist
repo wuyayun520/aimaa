@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnAroundInterpreter</key>
+	<string>positionedValueFormat</string>
+	<key>constraintNumberValidation</key>
+	<string>standaloneResultDistance</string>
+	<key>frameNearStrategy</key>
+	<string>commonLabelContrast</string>
+	<key>loopVarOffset</key>
+	<string>flexPhaseVisibility</string>
+	<key>materialDialogsScale</key>
+	<string>gridCompositeDistance</string>
+	<key>pinchableActivityDirection</key>
+	<string>standaloneCurveBorder</string>
+	<key>semanticsByShape</key>
+	<string>streamBufferInterval</string>
+	<key>viewMediatorMode</key>
+	<string>completerPlatformTint</string>
+	<key>widgetByStrategy</key>
+	<string>navigatorBridgeEdge</string>
+</dict>
+</plist>

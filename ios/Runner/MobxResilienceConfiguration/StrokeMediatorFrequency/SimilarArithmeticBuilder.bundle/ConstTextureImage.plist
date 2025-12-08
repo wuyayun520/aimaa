@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDecorationVisible</key>
+	<string>coordinatorSystemOrientation</string>
+	<key>materialDelegateShade</key>
+	<string>assetAlongFacade</string>
+	<key>momentumIncludeStructure</key>
+	<string>transformerInterpreterTransparency</string>
+	<key>protectedRectTag</key>
+	<string>denseSlashTag</string>
+	<key>vectorDecoratorInteraction</key>
+	<string>alphaAroundPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyFromLevel</key>
+	<string>transitionProcessOffset</string>
+	<key>entityLikeSystem</key>
+	<string>permanentMenuSize</string>
+	<key>indicatorIncludeFramework</key>
+	<string>resizableExpandedName</string>
+	<key>logarithmUntilValue</key>
+	<string>rowPatternEdge</string>
+	<key>widgetThroughProxy</key>
+	<string>statelessGraphPosition</string>
+</dict>
+</plist>

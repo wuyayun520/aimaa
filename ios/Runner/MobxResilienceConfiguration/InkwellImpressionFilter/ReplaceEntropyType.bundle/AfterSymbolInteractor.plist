@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventFacadeVisible</key>
+	<string>presenterNearSingleton</string>
+	<key>loopAboutParam</key>
+	<string>gridExceptParam</string>
+	<key>managerProcessDelay</key>
+	<string>layoutJobPosition</string>
+	<key>uniqueGridOffset</key>
+	<string>uniqueControllerOrigin</string>
+</dict>
+</plist>

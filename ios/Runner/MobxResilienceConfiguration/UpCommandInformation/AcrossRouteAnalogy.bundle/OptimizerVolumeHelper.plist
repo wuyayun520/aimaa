@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeRectColor</key>
+	<string>cartesianToolOrigin</string>
+	<key>declarativeTopicAppearance</key>
+	<string>resultPerCommand</string>
+	<key>enabledCacheTheme</key>
+	<string>inheritedGramRotation</string>
+	<key>storageDecoratorDirection</key>
+	<string>commandExceptEnvironment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandForPrototype</key>
+	<string>semanticLocalizationForce</string>
+	<key>discardedCompositionPressure</key>
+	<string>ignoredSizeSpacing</string>
+	<key>labelMementoCenter</key>
+	<string>normalSignStatus</string>
+	<key>lastInjectionVisibility</key>
+	<string>musicBesideTemple</string>
+	<key>listenerVersusLevel</key>
+	<string>actionLevelContrast</string>
+	<key>materialGradientFeedback</key>
+	<string>accessoryParamPosition</string>
+	<key>normShapeState</key>
+	<string>composableIndicatorInteraction</string>
+	<key>projectLayerVisibility</key>
+	<string>timerTempleBrightness</string>
+	<key>sustainableDrawerDensity</key>
+	<string>lossDuringStyle</string>
+</dict>
+</plist>

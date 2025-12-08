@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorStyleBorder</key>
+	<string>groupAlongNumber</string>
+	<key>directDescriptionBottom</key>
+	<string>priorityOrVariable</string>
+	<key>euclideanSliderFeedback</key>
+	<string>titleContextInset</string>
+	<key>retainedTextShape</key>
+	<string>factoryPlatformStatus</string>
+	<key>sineFrameworkTint</key>
+	<string>decorationFromType</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorInStructure</key>
+	<string>viewAsType</string>
+	<key>eagerGrainScale</key>
+	<string>completionInsideOperation</string>
+	<key>interactorPrototypeDensity</key>
+	<string>commandBridgeDensity</string>
+	<key>mediaAtState</key>
+	<string>asynchronousGraphColor</string>
+	<key>reducerPatternMomentum</key>
+	<string>effectInScope</string>
+	<key>responseMementoAcceleration</key>
+	<string>utilBySingleton</string>
+	<key>robustAspectVelocity</key>
+	<string>mediocreFactoryOrientation</string>
+	<key>subscriptionMediatorKind</key>
+	<string>monsterAwaySingleton</string>
+	<key>titleThanSingleton</key>
+	<string>musicUntilTier</string>
+</dict>
+</plist>

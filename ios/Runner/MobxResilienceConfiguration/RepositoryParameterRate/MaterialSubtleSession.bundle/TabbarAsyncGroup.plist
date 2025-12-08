@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationFromAdapter</key>
+	<string>storeBeyondMode</string>
+	<key>configurationPhaseMode</key>
+	<string>handlerMediatorPosition</string>
+	<key>gridSystemAlignment</key>
+	<string>subpixelProxyDelay</string>
+	<key>ignoredOperationRotation</key>
+	<string>customRowFormat</string>
+	<key>largeSensorShape</key>
+	<string>accessibleConvolutionShade</string>
+	<key>techniqueFunctionState</key>
+	<string>expandedValueDuration</string>
+	<key>usecaseFlyweightSkewy</key>
+	<string>substantialTopicHead</string>
+</dict>
+</plist>

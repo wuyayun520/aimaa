@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryValueKind</key>
+	<string>asyncVersusLayer</string>
+	<key>gesturedetectorAboutBuffer</key>
+	<string>statefulSinkSize</string>
+	<key>localizationActionVisible</key>
+	<string>respectiveCubitTransparency</string>
+	<key>persistentRowPadding</key>
+	<string>alignmentStageValidation</string>
+	<key>reducerViaStage</key>
+	<string>screenLevelAppearance</string>
+	<key>threadAmongPlatform</key>
+	<string>enabledUtilCount</string>
+</dict>
+</plist>

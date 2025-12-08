@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleActionName</key>
+	<string>visibleCoordinatorTag</string>
+	<key>checklistIncludeMode</key>
+	<string>mutableCosineCoord</string>
+	<key>gestureCommandAcceleration</key>
+	<string>sinkCommandOrientation</string>
+	<key>mainToolCount</key>
+	<string>sharedSwitchTag</string>
+	<key>previewScopePadding</key>
+	<string>aspectAgainstContext</string>
+</dict>
+</plist>

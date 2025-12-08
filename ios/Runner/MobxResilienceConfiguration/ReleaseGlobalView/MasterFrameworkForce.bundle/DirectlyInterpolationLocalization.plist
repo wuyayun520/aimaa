@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorNearMethod</key>
+	<string>statefulDuringForm</string>
+	<key>boxshadowAmongParameter</key>
+	<string>commandAboutForm</string>
+	<key>controllerForStage</key>
+	<string>mutableStoryboardTransparency</string>
+	<key>immutableProviderTransparency</key>
+	<string>globalParticleOrigin</string>
+	<key>interfaceThroughPattern</key>
+	<string>standalonePresenterFeedback</string>
+	<key>mobileFlyweightDistance</key>
+	<string>transitionAdapterBound</string>
+</dict>
+</plist>

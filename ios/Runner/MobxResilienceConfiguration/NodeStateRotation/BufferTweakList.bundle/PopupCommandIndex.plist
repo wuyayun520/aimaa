@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioThroughObserver</key>
+	<string>effectOperationBorder</string>
+	<key>concurrentControllerFeedback</key>
+	<string>timerContainPhase</string>
+	<key>progressbarFromSystem</key>
+	<string>allocatorExceptProxy</string>
+	<key>progressbarTaskShade</key>
+	<string>dependencySystemBound</string>
+	<key>spriteContainEnvironment</key>
+	<string>semanticAnimationBehavior</string>
+	<key>stepAsPrototype</key>
+	<string>sequentialFactoryType</string>
+	<key>tappableProviderAcceleration</key>
+	<string>effectUntilAdapter</string>
+	<key>zonePrototypeTag</key>
+	<string>chartTaskBehavior</string>
+</dict>
+</plist>

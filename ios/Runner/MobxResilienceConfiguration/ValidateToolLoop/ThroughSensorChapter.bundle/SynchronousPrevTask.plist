@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorKindEdge</key>
+	<string>resilientBitrateBehavior</string>
+	<key>decorationKindSize</key>
+	<string>curveCompositeSpacing</string>
+	<key>flexSingletonPadding</key>
+	<string>mainDocumentSaturation</string>
+	<key>grainBeyondValue</key>
+	<string>asyncActivityVisibility</string>
+	<key>graphStageMargin</key>
+	<string>sharedAlertContrast</string>
+	<key>threadSinceSystem</key>
+	<string>hashAwayProcess</string>
+	<key>tweenBeyondFacade</key>
+	<string>backwardScreenDepth</string>
+</dict>
+</plist>

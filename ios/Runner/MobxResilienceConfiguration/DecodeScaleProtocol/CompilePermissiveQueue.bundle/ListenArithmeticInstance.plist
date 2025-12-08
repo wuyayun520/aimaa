@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableLossMomentum</key>
+	<string>sampleAsTier</string>
+	<key>respectiveBehaviorAppearance</key>
+	<string>observerSystemStyle</string>
+	<key>semanticGroupStatus</key>
+	<string>listviewForStage</string>
+	<key>singleObserverMomentum</key>
+	<string>canvasUntilBuffer</string>
+	<key>spotTierVisible</key>
+	<string>responseTypeTint</string>
+</dict>
+</plist>

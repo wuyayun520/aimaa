@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionObserverFlags</key>
+	<string>concurrentCoordinatorKind</string>
+	<key>chartCommandPressure</key>
+	<string>tabbarKindMargin</string>
+	<key>criticalInterpolationBehavior</key>
+	<string>scaleKindPadding</string>
+	<key>firstStepMargin</key>
+	<string>queueVisitorCenter</string>
+	<key>permissiveSpriteOpacity</key>
+	<string>coordinatorAsAction</string>
+	<key>riverpodContainVisitor</key>
+	<string>configurationOfParameter</string>
+	<key>storeCycleRotation</key>
+	<string>sliderAtFunction</string>
+	<key>sustainableCycleFeedback</key>
+	<string>isolateWorkMode</string>
+	<key>vectorFrameworkEdge</key>
+	<string>greatSinkHue</string>
+</dict>
+</plist>

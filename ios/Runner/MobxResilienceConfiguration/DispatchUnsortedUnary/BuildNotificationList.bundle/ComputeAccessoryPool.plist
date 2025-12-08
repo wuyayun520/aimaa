@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleObserverBottom</key>
+	<string>kernelFlyweightResponse</string>
+	<key>dedicatedTableTransparency</key>
+	<string>behaviorFacadeBorder</string>
+	<key>notifierVarDuration</key>
+	<string>allocatorLevelFlags</string>
+	<key>spineParamTop</key>
+	<string>storeDespiteScope</string>
+	<key>symmetricMenuMomentum</key>
+	<string>controllerTierDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTypeBehavior</key>
+	<string>liteDependencyHue</string>
+	<key>coordinatorActionFrequency</key>
+	<string>nodeFormLocation</string>
+	<key>ephemeralMasterInterval</key>
+	<string>methodVersusFlyweight</string>
+	<key>gridBesideSingleton</key>
+	<string>decorationCommandAppearance</string>
+	<key>ignoredCardInset</key>
+	<string>granularInjectionValidation</string>
+	<key>inactiveOffsetHue</key>
+	<string>effectViaVariable</string>
+	<key>masterTempleMargin</key>
+	<string>uniqueApertureSpacing</string>
+	<key>resilientControllerOffset</key>
+	<string>arithmeticExceptFunction</string>
+	<key>sampleOrProcess</key>
+	<string>alignmentOperationIndex</string>
+	<key>usageVersusValue</key>
+	<string>associatedFactoryRate</string>
+</dict>
+</plist>

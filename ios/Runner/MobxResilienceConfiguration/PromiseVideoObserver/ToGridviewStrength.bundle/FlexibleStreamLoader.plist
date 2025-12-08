@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionProcessCoord</key>
+	<string>lossAsContext</string>
+	<key>cubitAmongVariable</key>
+	<string>boxJobOrigin</string>
+	<key>injectionFromInterpreter</key>
+	<string>chartInterpreterDepth</string>
+	<key>interfaceMementoState</key>
+	<string>anchorThroughStrategy</string>
+	<key>mobileAtFlyweight</key>
+	<string>storageVisitorBound</string>
+	<key>pointBridgeStyle</key>
+	<string>scrollableDependencyDelay</string>
+	<key>resolverChainCount</key>
+	<string>progressbarWithoutLayer</string>
+	<key>shaderFromProxy</key>
+	<string>vectorProcessTail</string>
+</dict>
+</plist>

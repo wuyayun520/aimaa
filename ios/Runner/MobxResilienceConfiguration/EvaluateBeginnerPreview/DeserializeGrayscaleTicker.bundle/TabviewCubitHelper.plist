@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionAwaySingleton</key>
+	<string>independentGraphicOrientation</string>
+	<key>eagerAnimationFlags</key>
+	<string>sequentialStateState</string>
+	<key>globalMatrixFlags</key>
+	<string>optionPatternVelocity</string>
+	<key>interactorAtEnvironment</key>
+	<string>builderLikeActivity</string>
+	<key>sortedFrameForce</key>
+	<string>indicatorProxyMode</string>
+	<key>statefulLossContrast</key>
+	<string>arithmeticControllerSpacing</string>
+	<key>sustainableListviewState</key>
+	<string>curveInsideKind</string>
+</dict>
+</plist>

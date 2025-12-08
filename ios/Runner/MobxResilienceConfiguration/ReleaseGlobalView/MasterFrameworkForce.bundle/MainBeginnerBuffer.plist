@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constReferencePosition</key>
+	<string>euclideanNodeVisibility</string>
+	<key>directOptimizerOrientation</key>
+	<string>deferredInjectionCenter</string>
+	<key>disparateThreadDistance</key>
+	<string>interfaceViaCycle</string>
+	<key>injectionModeInterval</key>
+	<string>localizationObserverCenter</string>
+	<key>optionDuringPattern</key>
+	<string>painterNearMode</string>
+	<key>optionTypeHue</key>
+	<string>kernelStyleVisible</string>
+	<key>smallHistogramIndex</key>
+	<string>slashOutsideVariable</string>
+</dict>
+</plist>

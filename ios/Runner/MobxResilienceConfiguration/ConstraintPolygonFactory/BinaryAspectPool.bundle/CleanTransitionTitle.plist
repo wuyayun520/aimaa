@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandSystemFeedback</key>
+	<string>presenterAgainstCycle</string>
+	<key>localizationWorkCenter</key>
+	<string>chartNumberStyle</string>
+	<key>priorFrameState</key>
+	<string>visibleSpotTop</string>
+	<key>statelessBesideMemento</key>
+	<string>skirtMediatorLocation</string>
+	<key>storageOrCycle</key>
+	<string>gridFlyweightState</string>
+	<key>subpixelWithStructure</key>
+	<string>futureEnvironmentTop</string>
+</dict>
+</plist>

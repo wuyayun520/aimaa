@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyKernelTag</key>
+	<string>rolePerForm</string>
+	<key>immutableServiceRotation</key>
+	<string>matrixAtType</string>
+	<key>offsetBridgeCount</key>
+	<string>directlyPlaybackFeedback</string>
+	<key>profilePerOperation</key>
+	<string>smallPlaybackForce</string>
+</dict>
+</plist>

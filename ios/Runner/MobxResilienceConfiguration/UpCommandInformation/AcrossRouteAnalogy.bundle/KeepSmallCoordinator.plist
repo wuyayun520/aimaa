@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleVariableKind</key>
+	<string>channelPhaseIndex</string>
+	<key>intensityAndFramework</key>
+	<string>constraintFromEnvironment</string>
+	<key>interactiveResponseShade</key>
+	<string>mobileNodeFlags</string>
+	<key>interactorVersusScope</key>
+	<string>immediatePresenterPosition</string>
+	<key>radiusSingletonTransparency</key>
+	<string>expandedMethodTail</string>
+	<key>repositoryWorkDensity</key>
+	<string>transitionActionSize</string>
+	<key>temporaryMemberSkewx</key>
+	<string>intensityOrEnvironment</string>
+</dict>
+</plist>

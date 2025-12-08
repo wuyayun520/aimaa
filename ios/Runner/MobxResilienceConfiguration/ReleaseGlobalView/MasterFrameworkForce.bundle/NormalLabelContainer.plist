@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customResourceMargin</key>
+	<string>agileEquipmentTheme</string>
+	<key>directResolverDensity</key>
+	<string>grayscaleBufferSize</string>
+	<key>draggablePreviewOrigin</key>
+	<string>statelessSceneForce</string>
+	<key>interfaceKindSaturation</key>
+	<string>utilOrStructure</string>
+	<key>largeConstraintSkewy</key>
+	<string>heroFlyweightType</string>
+	<key>parallelBuilderBehavior</key>
+	<string>sophisticatedExceptionDirection</string>
+	<key>reductionVersusVar</key>
+	<string>signAdapterAcceleration</string>
+	<key>referenceVersusPlatform</key>
+	<string>decorationSystemValidation</string>
+	<key>signWithoutPattern</key>
+	<string>accordionTextureSkewx</string>
+</dict>
+</plist>

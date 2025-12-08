@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorViaPattern</key>
+	<string>animatedStatefulTop</string>
+	<key>effectAtObserver</key>
+	<string>typicalSizedboxDuration</string>
+	<key>effectCommandDuration</key>
+	<string>cursorByActivity</string>
+	<key>exceptionForParameter</key>
+	<string>ternaryPerKind</string>
+	<key>nibWithForm</key>
+	<string>modelAroundShape</string>
+	<key>reducerAroundFacade</key>
+	<string>materialDespiteAdapter</string>
+	<key>resourceContextAlignment</key>
+	<string>dedicatedSignLocation</string>
+	<key>transitionInPrototype</key>
+	<string>projectionAroundProxy</string>
+</dict>
+</plist>

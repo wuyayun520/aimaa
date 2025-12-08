@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUtilShade</key>
+	<string>requestDuringDecorator</string>
+	<key>featureScopeTag</key>
+	<string>awaitLayerOrientation</string>
+	<key>imageStageDepth</key>
+	<string>sustainableEqualizationShape</string>
+	<key>inactiveConstraintSaturation</key>
+	<string>criticalSingletonShade</string>
+	<key>smartSubpixelSpacing</key>
+	<string>sceneStructureDirection</string>
+</dict>
+</plist>

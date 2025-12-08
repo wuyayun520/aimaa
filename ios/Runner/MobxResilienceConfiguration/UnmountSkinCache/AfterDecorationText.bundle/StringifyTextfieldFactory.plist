@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSpriteBehavior</key>
+	<string>lazyEffectBrightness</string>
+	<key>aspectTierSkewy</key>
+	<string>viewDuringStyle</string>
+	<key>configurationStrategyShade</key>
+	<string>heapWithCycle</string>
+	<key>convolutionForComposite</key>
+	<string>columnForState</string>
+	<key>pinchableRowDensity</key>
+	<string>listenerAwayValue</string>
+	<key>resourceCommandBrightness</key>
+	<string>functionalResponseTag</string>
+	<key>sceneAboutParam</key>
+	<string>retainedConstraintForce</string>
+</dict>
+</plist>

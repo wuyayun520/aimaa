@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferTypeMargin</key>
+	<string>tabbarExceptAction</string>
+	<key>checklistShapeFeedback</key>
+	<string>dimensionOrState</string>
+	<key>consultativeChartRotation</key>
+	<string>cacheActivityPadding</string>
+	<key>desktopQueryOrientation</key>
+	<string>sizeEnvironmentFeedback</string>
+	<key>directDescriptionStatus</key>
+	<string>permissiveProviderRotation</string>
+	<key>synchronousRowLeft</key>
+	<string>dialogsActivityDistance</string>
+	<key>typicalCycleAppearance</key>
+	<string>timerSystemAppearance</string>
+</dict>
+</plist>

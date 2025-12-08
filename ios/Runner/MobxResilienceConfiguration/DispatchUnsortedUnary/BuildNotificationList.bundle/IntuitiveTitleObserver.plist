@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveArithmeticAcceleration</key>
+	<string>convolutionForValue</string>
+	<key>brushActivityRotation</key>
+	<string>custompaintExceptProxy</string>
+	<key>cupertinoAsyncValidation</key>
+	<string>associatedSwiftMomentum</string>
+	<key>cursorSinceStrategy</key>
+	<string>mediaqueryPlatformSize</string>
+	<key>durationFrameworkSpeed</key>
+	<string>usedSymbolSkewy</string>
+	<key>gridVariableMode</key>
+	<string>inactiveFragmentRight</string>
+	<key>momentumChainPressure</key>
+	<string>labelCycleTail</string>
+	<key>resizableIntensityVisibility</key>
+	<string>basicExponentShade</string>
+	<key>slashFacadeMargin</key>
+	<string>providerAsKind</string>
+</dict>
+</plist>

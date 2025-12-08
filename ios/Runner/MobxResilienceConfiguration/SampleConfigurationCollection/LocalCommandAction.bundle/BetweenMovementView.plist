@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationMementoCount</key>
+	<string>interfaceInterpreterTransparency</string>
+	<key>dependencyInSingleton</key>
+	<string>asynchronousProgressbarTransparency</string>
+	<key>explicitBuilderState</key>
+	<string>giftBridgeTint</string>
+	<key>flexibleSizedboxCoord</key>
+	<string>newestConsumerCenter</string>
+	<key>intermediateGesturedetectorDensity</key>
+	<string>tabviewProxyTransparency</string>
+	<key>newestIconSpeed</key>
+	<string>normalReductionSkewy</string>
+	<key>progressbarMethodInset</key>
+	<string>listviewNearJob</string>
+	<key>textfieldDespiteOperation</key>
+	<string>queryJobScale</string>
+	<key>widgetFormOpacity</key>
+	<string>challengeNearSystem</string>
+</dict>
+</plist>

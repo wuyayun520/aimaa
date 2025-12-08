@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectThroughAdapter</key>
+	<string>listenerChainTail</string>
+	<key>beginnerResponseShade</key>
+	<string>alphaOrChain</string>
+	<key>loopVisitorHead</key>
+	<string>lastTransformerBorder</string>
+	<key>textfieldSingletonMargin</key>
+	<string>lastViewAppearance</string>
+</dict>
+</plist>

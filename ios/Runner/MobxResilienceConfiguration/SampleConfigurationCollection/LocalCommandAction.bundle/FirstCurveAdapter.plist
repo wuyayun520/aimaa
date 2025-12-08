@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledQueueTail</key>
+	<string>normalMonsterInset</string>
+	<key>displayableCoordinatorLeft</key>
+	<string>ignoredCaptionValidation</string>
+	<key>entityModeSize</key>
+	<string>appbarProxyAppearance</string>
+	<key>stateAgainstMediator</key>
+	<string>interpolationStructureSpeed</string>
+</dict>
+</plist>

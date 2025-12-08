@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredArithmeticKind</key>
+	<string>menuPhaseBrightness</string>
+	<key>operationNearBuffer</key>
+	<string>durationIncludeOperation</string>
+	<key>storeWorkMode</key>
+	<string>serviceContainMediator</string>
+	<key>tappableSegmentState</key>
+	<string>resultParameterBorder</string>
+</dict>
+</plist>

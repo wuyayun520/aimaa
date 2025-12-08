@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerFromTemple</key>
+	<string>pointMediatorInteraction</string>
+	<key>animatedcontainerWithShape</key>
+	<string>spotByPlatform</string>
+	<key>mapContainType</key>
+	<string>positionedPlatformDensity</string>
+	<key>previewAwayContext</key>
+	<string>containerAmongSingleton</string>
+	<key>resourceAwayMediator</key>
+	<string>autoDescriptionTail</string>
+	<key>uniformLabelDensity</key>
+	<string>listenerParamAcceleration</string>
+</dict>
+</plist>

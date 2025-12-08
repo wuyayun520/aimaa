@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableChapterKind</key>
+	<string>grayscaleFrameworkAppearance</string>
+	<key>directlyControllerSpacing</key>
+	<string>menuVersusContext</string>
+	<key>layoutViaValue</key>
+	<string>coordinatorModeForce</string>
+	<key>mobileServiceInset</key>
+	<string>sharedSizedboxTag</string>
+	<key>spineExceptVisitor</key>
+	<string>greatButtonType</string>
+</dict>
+</plist>

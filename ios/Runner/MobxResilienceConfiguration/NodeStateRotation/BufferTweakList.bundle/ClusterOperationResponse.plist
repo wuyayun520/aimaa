@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionUntilState</key>
+	<string>mainProgressbarFormat</string>
+	<key>controllerPerPrototype</key>
+	<string>reactiveSwitchTheme</string>
+	<key>eventSystemSkewy</key>
+	<string>mobileBesideInterpreter</string>
+	<key>gridOrPhase</key>
+	<string>effectByComposite</string>
+	<key>localizationStyleAlignment</key>
+	<string>cardAlongMethod</string>
+	<key>normModeBehavior</key>
+	<string>brushOfChain</string>
+	<key>positionAboutPrototype</key>
+	<string>blocPlatformVisibility</string>
+	<key>riverpodInCommand</key>
+	<string>mediocreErrorDepth</string>
+	<key>scrollEnvironmentSpeed</key>
+	<string>currentRowFrequency</string>
+	<key>statelessContainInterpreter</key>
+	<string>queueVersusLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesInParam</key>
+	<string>durationUntilJob</string>
+	<key>firstDialogsName</key>
+	<string>stepWorkTransparency</string>
+	<key>gramAlongAdapter</key>
+	<string>uniformBaseCoord</string>
+	<key>interactiveUtilVisible</key>
+	<string>completionPerMethod</string>
+	<key>secondIntegerLeft</key>
+	<string>effectBeyondOperation</string>
+	<key>segueAsStrategy</key>
+	<string>commandViaPattern</string>
+</dict>
+</plist>

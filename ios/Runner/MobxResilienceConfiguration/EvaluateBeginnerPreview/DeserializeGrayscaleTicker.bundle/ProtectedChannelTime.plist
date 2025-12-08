@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushVariableDensity</key>
+	<string>mediaquerySystemInteraction</string>
+	<key>channelEnvironmentBottom</key>
+	<string>configurationModeDistance</string>
+	<key>completerForDecorator</key>
+	<string>queryLevelAcceleration</string>
+	<key>mobileLossAcceleration</key>
+	<string>transformerVarSize</string>
+	<key>numericalFlexCoord</key>
+	<string>batchParameterDensity</string>
+	<key>resilientListenerInteraction</key>
+	<string>navigatorByParam</string>
+	<key>ternaryFunctionShade</key>
+	<string>accessibleMenuStyle</string>
+	<key>unaryMethodTail</key>
+	<string>marginViaStyle</string>
+</dict>
+</plist>

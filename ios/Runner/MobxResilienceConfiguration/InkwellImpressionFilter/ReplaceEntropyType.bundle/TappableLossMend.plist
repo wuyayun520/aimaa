@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAtStyle</key>
+	<string>modelAgainstMediator</string>
+	<key>inheritedScaleDirection</key>
+	<string>storageMediatorAppearance</string>
+	<key>layoutDespiteCommand</key>
+	<string>asyncOutsideTier</string>
+	<key>presenterBeyondSingleton</key>
+	<string>handlerAboutPhase</string>
+	<key>routeBesideSingleton</key>
+	<string>notificationStateTransparency</string>
+	<key>subtleConfigurationSaturation</key>
+	<string>exceptionAtChain</string>
+</dict>
+</plist>

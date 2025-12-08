@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAsValue</key>
+	<string>mutablePresenterStatus</string>
+	<key>enabledInterfaceTransparency</key>
+	<string>temporaryCacheState</string>
+	<key>featureStyleFlags</key>
+	<string>tangentFlyweightValidation</string>
+	<key>giftBridgeCoord</key>
+	<string>interactorLevelOpacity</string>
+	<key>navigatorAmongOperation</key>
+	<string>inheritedSineKind</string>
+	<key>queryBeyondObserver</key>
+	<string>asyncAgainstActivity</string>
+	<key>requestSinceScope</key>
+	<string>tweenTaskBorder</string>
+	<key>rowSystemColor</key>
+	<string>delegateActivityVisibility</string>
+	<key>scrollableResultDuration</key>
+	<string>lastGesturedetectorVisible</string>
+	<key>usedDialogsMode</key>
+	<string>significantStepDirection</string>
+</dict>
+</plist>

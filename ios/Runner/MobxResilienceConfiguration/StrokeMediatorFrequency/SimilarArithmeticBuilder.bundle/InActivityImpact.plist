@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSpecifierStatus</key>
+	<string>dimensionPerAction</string>
+	<key>blocOperationSkewy</key>
+	<string>graphParameterOrientation</string>
+	<key>buttonPlatformValidation</key>
+	<string>mediumSubscriptionMode</string>
+	<key>cubitVisitorForce</key>
+	<string>scrollPrototypeType</string>
+	<key>equipmentObserverShape</key>
+	<string>localGemSaturation</string>
+	<key>extensionInComposite</key>
+	<string>contractionViaFacade</string>
+	<key>queueWithFlyweight</key>
+	<string>nodeForTier</string>
+	<key>subtlePainterFlags</key>
+	<string>menuPrototypeSpeed</string>
+</dict>
+</plist>

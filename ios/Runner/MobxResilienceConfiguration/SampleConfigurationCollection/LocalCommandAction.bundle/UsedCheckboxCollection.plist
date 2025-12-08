@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertStyleCoord</key>
+	<string>widgetOfTier</string>
+	<key>constraintOfStage</key>
+	<string>cursorAlongParameter</string>
+	<key>directlyManagerInteraction</key>
+	<string>compositionalMobxDuration</string>
+	<key>diversifiedPopupInterval</key>
+	<string>dimensionProxyTheme</string>
+	<key>gramInPlatform</key>
+	<string>mobileCompositeFrequency</string>
+	<key>graphBeyondNumber</key>
+	<string>smartSliderInset</string>
+	<key>subpixelBridgeDepth</key>
+	<string>accessibleNavigatorVisibility</string>
+</dict>
+</plist>

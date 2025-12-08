@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureExceptMethod</key>
+	<string>storageExceptPlatform</string>
+	<key>expandedFormCount</key>
+	<string>criticalWidgetFlags</string>
+	<key>immutableOperationName</key>
+	<string>segueForContext</string>
+	<key>kernelKindDelay</key>
+	<string>subtleRouteDepth</string>
+	<key>menuPhaseCount</key>
+	<string>popupOfMode</string>
+	<key>nodeStylePosition</key>
+	<string>relationalSpecifierVisibility</string>
+	<key>previewSingletonOrientation</key>
+	<string>localDecorationDuration</string>
+	<key>transitionWithStrategy</key>
+	<string>multiplicationPhaseAlignment</string>
+	<key>variantFromAction</key>
+	<string>dedicatedLayerShade</string>
+</dict>
+</plist>

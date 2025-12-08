@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBeyondStage</key>
+	<string>asyncFunctionTheme</string>
+	<key>dynamicChecklistInterval</key>
+	<string>disabledControllerStyle</string>
+	<key>pointMethodOrigin</key>
+	<string>logDespiteChain</string>
+	<key>popupValueStatus</key>
+	<string>expandedFromCommand</string>
+</dict>
+</plist>

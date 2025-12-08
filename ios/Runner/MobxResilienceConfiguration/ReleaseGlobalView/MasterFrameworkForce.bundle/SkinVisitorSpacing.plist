@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionForContext</key>
+	<string>observerJobType</string>
+	<key>gradientInsidePattern</key>
+	<string>segmentBeyondLayer</string>
+	<key>handlerContainVisitor</key>
+	<string>spineShapeTint</string>
+	<key>mediocreShaderBorder</key>
+	<string>concreteListenerDistance</string>
+	<key>progressbarFacadeRate</key>
+	<string>statefulWidgetContrast</string>
+</dict>
+</plist>

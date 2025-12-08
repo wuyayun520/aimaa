@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarVersusProxy</key>
+	<string>containerInsideSingleton</string>
+	<key>autoSpineContrast</key>
+	<string>dynamicMobileBrightness</string>
+	<key>localizationExceptParameter</key>
+	<string>axisBeyondWork</string>
+	<key>nextStoryboardRotation</key>
+	<string>enabledUtilSpeed</string>
+	<key>pivotalCubeAcceleration</key>
+	<string>mapVariableDistance</string>
+</dict>
+</plist>

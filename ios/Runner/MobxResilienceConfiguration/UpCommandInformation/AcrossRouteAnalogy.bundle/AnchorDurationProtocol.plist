@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintParamSpeed</key>
+	<string>localizationContextState</string>
+	<key>heapIncludeComposite</key>
+	<string>projectNumberTheme</string>
+	<key>interpolationObserverSaturation</key>
+	<string>curveParameterVisibility</string>
+	<key>mediaqueryTierInset</key>
+	<string>intensityViaPattern</string>
+	<key>optimizerCommandCenter</key>
+	<string>localParticleHue</string>
+	<key>richtextViaType</key>
+	<string>switchLevelBound</string>
+	<key>usecaseForActivity</key>
+	<string>textureJobDelay</string>
+</dict>
+</plist>

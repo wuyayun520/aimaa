@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderModeStyle</key>
+	<string>primaryAllocatorBound</string>
+	<key>constraintFunctionDepth</key>
+	<string>remainderPlatformInterval</string>
+	<key>customRowTheme</key>
+	<string>flexibleBoxAcceleration</string>
+	<key>hardTweenDelay</key>
+	<string>presenterKindMomentum</string>
+	<key>sizePlatformBehavior</key>
+	<string>autoLogTension</string>
+	<key>usageWithoutDecorator</key>
+	<string>delegateAtMemento</string>
+</dict>
+</plist>

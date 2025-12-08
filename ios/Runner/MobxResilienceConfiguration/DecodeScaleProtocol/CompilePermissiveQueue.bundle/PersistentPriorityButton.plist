@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricReferenceFormat</key>
+	<string>protocolFromStructure</string>
+	<key>labelOperationForce</key>
+	<string>effectOrMode</string>
+	<key>localizationBeyondValue</key>
+	<string>sequentialLabelDepth</string>
+	<key>marginFormIndex</key>
+	<string>coordinatorByKind</string>
+	<key>requestVersusStyle</key>
+	<string>listviewAtKind</string>
+	<key>textBeyondWork</key>
+	<string>layerForValue</string>
+</dict>
+</plist>

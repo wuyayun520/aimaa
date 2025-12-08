@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPriorityHead</key>
+	<string>gridviewModeInset</string>
+	<key>deferredCollectionName</key>
+	<string>injectionInType</string>
+	<key>logProcessValidation</key>
+	<string>serviceActivityAcceleration</string>
+	<key>modulusTypeSpacing</key>
+	<string>oldErrorSpacing</string>
+	<key>previewTempleLeft</key>
+	<string>factoryThroughActivity</string>
+</dict>
+</plist>

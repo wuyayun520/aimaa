@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChapterTag</key>
+	<string>stampObserverInteraction</string>
+	<key>hierarchicalMasterEdge</key>
+	<string>sliderTierDirection</string>
+	<key>navigationTierSpacing</key>
+	<string>grainMediatorRate</string>
+	<key>primaryCoordinatorRate</key>
+	<string>opaqueSizedboxIndex</string>
+	<key>tweenVersusKind</key>
+	<string>topicAdapterDistance</string>
+</dict>
+</plist>

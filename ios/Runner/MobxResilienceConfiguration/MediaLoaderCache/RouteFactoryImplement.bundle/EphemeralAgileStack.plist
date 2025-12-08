@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaTierDensity</key>
+	<string>reducerPrototypeFormat</string>
+	<key>immediateReductionAppearance</key>
+	<string>inheritedHandlerLeft</string>
+	<key>popupLevelBehavior</key>
+	<string>extensionKindShade</string>
+	<key>tensorEffectSpacing</key>
+	<string>liteMarginShape</string>
+	<key>titleObserverDelay</key>
+	<string>lazyDependencyStyle</string>
+</dict>
+</plist>

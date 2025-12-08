@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVisitorTail</key>
+	<string>sliderNumberFlags</string>
+	<key>canvasBridgeOpacity</key>
+	<string>associatedEventSkewy</string>
+	<key>currentTextureForce</key>
+	<string>toolParameterName</string>
+	<key>delegateContainState</key>
+	<string>buttonLevelFrequency</string>
+	<key>multiplicationFormSkewy</key>
+	<string>gesturedetectorStrategyDelay</string>
+	<key>nativeIntensityTheme</key>
+	<string>checkboxContainStyle</string>
+	<key>typicalMobxDensity</key>
+	<string>awaitActivityName</string>
+</dict>
+</plist>

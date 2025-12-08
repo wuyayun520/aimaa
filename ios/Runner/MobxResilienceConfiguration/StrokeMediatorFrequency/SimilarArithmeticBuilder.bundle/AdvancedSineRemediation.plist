@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSymbolOrientation</key>
+	<string>menuDuringPhase</string>
+	<key>callbackAtBridge</key>
+	<string>lazyAssetFeedback</string>
+	<key>customFeatureForce</key>
+	<string>characterTierOpacity</string>
+	<key>easySampleTheme</key>
+	<string>futureAroundCycle</string>
+	<key>effectShapeRotation</key>
+	<string>semanticsOutsidePhase</string>
+	<key>groupObserverDirection</key>
+	<string>isolateAndStyle</string>
+	<key>radiusBesideLevel</key>
+	<string>controllerFacadeVisible</string>
+	<key>textfieldProxyDelay</key>
+	<string>difficultAnimationBorder</string>
+</dict>
+</plist>

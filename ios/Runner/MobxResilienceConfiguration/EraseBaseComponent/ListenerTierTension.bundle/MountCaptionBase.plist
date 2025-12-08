@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainAndForm</key>
+	<string>frameActivityInterval</string>
+	<key>grainStructureContrast</key>
+	<string>appbarInsideLayer</string>
+	<key>projectFormSkewy</key>
+	<string>scrollableDelegateTransparency</string>
+	<key>queueLevelVelocity</key>
+	<string>descriptionAwayBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularRouterAppearance</key>
+	<string>instructionFacadeHead</string>
+	<key>handlerChainVisibility</key>
+	<string>statelessReductionResponse</string>
+	<key>projectionAmongStage</key>
+	<string>futureBufferCount</string>
+	<key>sequentialZoneRotation</key>
+	<string>interactorAgainstTask</string>
+</dict>
+</plist>

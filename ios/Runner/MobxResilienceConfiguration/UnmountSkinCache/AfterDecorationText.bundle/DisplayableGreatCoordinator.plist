@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionPrototypeAlignment</key>
+	<string>smartCardType</string>
+	<key>dynamicOptimizerAlignment</key>
+	<string>gridviewAsPrototype</string>
+	<key>navigatorContainLevel</key>
+	<string>resourceAsFunction</string>
+	<key>navigatorVersusChain</key>
+	<string>draggableCompleterResponse</string>
+	<key>observerFrameworkHead</key>
+	<string>coordinatorChainTop</string>
+	<key>particleStyleVisibility</key>
+	<string>accordionCoordinatorLocation</string>
+</dict>
+</plist>

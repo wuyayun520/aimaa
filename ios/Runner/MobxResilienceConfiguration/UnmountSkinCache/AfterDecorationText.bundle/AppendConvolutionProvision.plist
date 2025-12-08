@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveTabbarDelay</key>
+	<string>borderSinceCommand</string>
+	<key>iterativeTransitionLocation</key>
+	<string>seamlessGesturedetectorShade</string>
+	<key>particleFacadeLocation</key>
+	<string>mobileOfMode</string>
+	<key>sessionMethodVelocity</key>
+	<string>semanticParticleForce</string>
+	<key>sinkWithScope</key>
+	<string>durationPrototypeValidation</string>
+</dict>
+</plist>

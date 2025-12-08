@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBaselineSpacing</key>
+	<string>intermediateTitleMomentum</string>
+	<key>enabledSkinVisibility</key>
+	<string>gestureParamSpeed</string>
+	<key>hashBesideProxy</key>
+	<string>tabviewWithoutFlyweight</string>
+	<key>labelPerParameter</key>
+	<string>accordionLabelDistance</string>
+	<key>offsetDespitePhase</key>
+	<string>notifierAsActivity</string>
+	<key>optionNumberOrientation</key>
+	<string>advancedThreadValidation</string>
+	<key>singletonActivityForce</key>
+	<string>intermediateSinkHead</string>
+</dict>
+</plist>

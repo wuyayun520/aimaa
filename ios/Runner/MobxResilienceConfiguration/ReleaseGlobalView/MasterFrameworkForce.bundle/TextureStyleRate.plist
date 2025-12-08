@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionObserverRate</key>
+	<string>requestLevelVelocity</string>
+	<key>elasticChannelCount</key>
+	<string>streamOfCommand</string>
+	<key>fusedEventCoord</key>
+	<string>singletonDecoratorLocation</string>
+	<key>gramDuringLevel</key>
+	<string>sortedDescriptionInterval</string>
+	<key>materialTierIndex</key>
+	<string>standaloneChapterInset</string>
+	<key>queryMementoCount</key>
+	<string>comprehensiveTimerVelocity</string>
+	<key>queryTaskMomentum</key>
+	<string>asynchronousZoneAppearance</string>
+	<key>resolverTypeInterval</key>
+	<string>deferredCycleSpacing</string>
+	<key>titleSystemRight</key>
+	<string>logLevelScale</string>
+</dict>
+</plist>

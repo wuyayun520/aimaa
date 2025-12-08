@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryActionType</key>
+	<string>factoryFromKind</string>
+	<key>controllerOfComposite</key>
+	<string>significantProviderLocation</string>
+	<key>graphFormSpacing</key>
+	<string>layoutPrototypeVisibility</string>
+	<key>labelBufferContrast</key>
+	<string>gesturedetectorPrototypeHead</string>
+	<key>largeSubscriptionBorder</key>
+	<string>referencePatternTop</string>
+	<key>mutableManagerType</key>
+	<string>builderThanProxy</string>
+	<key>observerLayerForce</key>
+	<string>cubitPerProcess</string>
+	<key>rapidLayoutOpacity</key>
+	<string>durationOperationInset</string>
+	<key>smallNavigationDirection</key>
+	<string>concreteGraphicMargin</string>
+</dict>
+</plist>

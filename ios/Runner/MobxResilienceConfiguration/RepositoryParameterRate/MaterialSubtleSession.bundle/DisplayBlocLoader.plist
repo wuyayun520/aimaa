@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetContainMode</key>
+	<string>memberCompositeSpacing</string>
+	<key>flexibleNodeVisible</key>
+	<string>futureInPrototype</string>
+	<key>futureAroundStrategy</key>
+	<string>resolverEnvironmentOrientation</string>
+	<key>gridBesideBuffer</key>
+	<string>errorChainShape</string>
+	<key>reusableStepOpacity</key>
+	<string>inkwellParameterForce</string>
+	<key>scrollableColumnRate</key>
+	<string>normalTaskMargin</string>
+	<key>statefulCatalystFrequency</key>
+	<string>reducerNumberForce</string>
+	<key>tappableCurveDuration</key>
+	<string>chartPhaseSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarModeResponse</key>
+	<string>mainStatelessFlags</string>
+	<key>backwardChapterMargin</key>
+	<string>factoryByStyle</string>
+	<key>cupertinoParameterCenter</key>
+	<string>standalonePlateBehavior</string>
+	<key>mediocreMonsterCenter</key>
+	<string>managerDecoratorState</string>
+	<key>reducerMediatorSpacing</key>
+	<string>remainderWithoutStrategy</string>
+	<key>subpixelWithFramework</key>
+	<string>fusedTextDistance</string>
+	<key>taskChainForce</key>
+	<string>queueJobTension</string>
+	<key>transitionFlyweightRotation</key>
+	<string>errorAndActivity</string>
+</dict>
+</plist>

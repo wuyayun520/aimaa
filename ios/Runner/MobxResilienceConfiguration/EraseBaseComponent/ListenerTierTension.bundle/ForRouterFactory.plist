@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxBufferTheme</key>
+	<string>localizationModeSize</string>
+	<key>compositionalUsageRotation</key>
+	<string>typicalStorePadding</string>
+	<key>elasticNotifierDelay</key>
+	<string>staticPlateInterval</string>
+	<key>imageStrategyVisible</key>
+	<string>graphVariableDuration</string>
+	<key>matrixExceptActivity</key>
+	<string>interpolationNumberLocation</string>
+	<key>radiusChainOrigin</key>
+	<string>petTypeOpacity</string>
+</dict>
+</plist>

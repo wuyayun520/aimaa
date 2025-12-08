@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorActionTheme</key>
+	<string>directMenuPosition</string>
+	<key>alphaMethodInterval</key>
+	<string>geometricWidgetDensity</string>
+	<key>featureFromVisitor</key>
+	<string>requestModeIndex</string>
+	<key>mobileCallbackHue</key>
+	<string>vectorBufferFormat</string>
+	<key>routeBufferValidation</key>
+	<string>streamOrPattern</string>
+</dict>
+</plist>

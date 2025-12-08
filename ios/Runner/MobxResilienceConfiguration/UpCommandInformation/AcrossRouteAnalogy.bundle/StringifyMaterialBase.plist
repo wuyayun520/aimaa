@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentFlyweightForce</key>
+	<string>rowThroughCycle</string>
+	<key>imageVarContrast</key>
+	<string>desktopCheckboxTheme</string>
+	<key>lostTechniqueAppearance</key>
+	<string>storyboardWithoutMethod</string>
+	<key>retainedRepositoryVisibility</key>
+	<string>chapterFormForce</string>
+	<key>sinkModeAppearance</key>
+	<string>interactorUntilNumber</string>
+</dict>
+</plist>

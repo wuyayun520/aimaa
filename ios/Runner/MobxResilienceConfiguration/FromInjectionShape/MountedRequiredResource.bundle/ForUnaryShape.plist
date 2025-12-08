@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellViaActivity</key>
+	<string>particleAboutActivity</string>
+	<key>concurrentTransformerDensity</key>
+	<string>coordinatorChainLeft</string>
+	<key>deferredAlertKind</key>
+	<string>relationalResultContrast</string>
+	<key>extensionAtPattern</key>
+	<string>interactiveGestureDensity</string>
+	<key>injectionOperationTop</key>
+	<string>inactivePositionInterval</string>
+	<key>methodDuringWork</key>
+	<string>offsetForMethod</string>
+	<key>positionBeyondMode</key>
+	<string>completerTierMargin</string>
+	<key>statefulLayoutResponse</key>
+	<string>mutableSpriteDuration</string>
+	<key>swiftSinceNumber</key>
+	<string>unaryAsNumber</string>
+</dict>
+</plist>

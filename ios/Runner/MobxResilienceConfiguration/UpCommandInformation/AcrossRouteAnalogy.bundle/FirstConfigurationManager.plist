@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeAdapterPosition</key>
+	<string>listviewValueInset</string>
+	<key>easyTransitionDelay</key>
+	<string>elasticObserverTail</string>
+	<key>interactiveRouterPadding</key>
+	<string>geometricHandlerSkewy</string>
+	<key>nativeMediaqueryFrequency</key>
+	<string>screenPrototypeStatus</string>
+	<key>positionExceptVariable</key>
+	<string>opaqueBufferShade</string>
+	<key>richtextAndSingleton</key>
+	<string>iterativeAsyncHue</string>
+	<key>sizeInterpreterInterval</key>
+	<string>containerStyleMomentum</string>
+	<key>taskFormHead</key>
+	<string>positionPhaseScale</string>
+	<key>transitionFormKind</key>
+	<string>interfaceAgainstAdapter</string>
+	<key>typicalRouteDensity</key>
+	<string>resultAmongBuffer</string>
+</dict>
+</plist>

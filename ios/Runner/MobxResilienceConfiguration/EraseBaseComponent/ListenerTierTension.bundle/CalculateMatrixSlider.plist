@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMovementValidation</key>
+	<string>contractionNearTier</string>
+	<key>cubitJobTransparency</key>
+	<string>callbackUntilObserver</string>
+	<key>deferredSegmentMargin</key>
+	<string>gestureDuringFacade</string>
+	<key>listviewBufferPressure</key>
+	<string>unsortedBitrateDirection</string>
+	<key>stateLikeType</key>
+	<string>permissiveGramTail</string>
+	<key>staticModelDelay</key>
+	<string>mapFrameworkKind</string>
+</dict>
+</plist>

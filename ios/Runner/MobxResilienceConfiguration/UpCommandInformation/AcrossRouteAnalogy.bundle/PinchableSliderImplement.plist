@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionAwaySingleton</key>
+	<string>transitionLikeComposite</string>
+	<key>observerStyleHue</key>
+	<string>queryVariableDensity</string>
+	<key>sceneAtMode</key>
+	<string>fragmentAndPrototype</string>
+	<key>specifyResourceFeedback</key>
+	<string>responseOfForm</string>
+	<key>topicLevelEdge</key>
+	<string>protocolContainLevel</string>
+	<key>uniformTableEdge</key>
+	<string>stampNearMode</string>
+</dict>
+</plist>

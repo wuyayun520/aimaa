@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicMetadataStyle</key>
+	<string>pageviewValueRate</string>
+	<key>fusedHistogramFormat</key>
+	<string>unaryAtStage</string>
+	<key>granularCupertinoTheme</key>
+	<string>featureMementoLocation</string>
+	<key>overlayFunctionBrightness</key>
+	<string>cosineAndCycle</string>
+	<key>singletonForType</key>
+	<string>eagerLayoutContrast</string>
+</dict>
+</plist>

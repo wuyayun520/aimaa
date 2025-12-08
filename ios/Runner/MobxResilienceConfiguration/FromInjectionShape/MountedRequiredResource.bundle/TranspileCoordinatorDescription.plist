@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorPatternAlignment</key>
+	<string>skinFrameworkShape</string>
+	<key>decorationCycleLocation</key>
+	<string>exceptionOperationSpacing</string>
+	<key>eventFromChain</key>
+	<string>channelsAndJob</string>
+	<key>gemCyclePosition</key>
+	<string>heapPerChain</string>
+	<key>mobileGetxScale</key>
+	<string>spineInsideSingleton</string>
+	<key>retainedMemberBound</key>
+	<string>subscriptionCommandForce</string>
+</dict>
+</plist>

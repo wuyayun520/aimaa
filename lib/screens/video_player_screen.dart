@@ -115,7 +115,33 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
       // If it's an asset path, copy to temporary directory first
       if (videoPath.startsWith('assets/')) {
         final ByteData data = await rootBundle.load(videoPath);
-        final Directory tempDir = await getTemporaryDirectory();
+        Directory? tempDir;
+        int retryCount = 0;
+        const maxRetries = 3;
+        
+        while (tempDir == null && retryCount < maxRetries) {
+          try {
+            tempDir = await getTemporaryDirectory();
+          } catch (e) {
+            retryCount++;
+            if (retryCount < maxRetries) {
+              await Future.delayed(Duration(milliseconds: 500 * retryCount));
+            } else {
+              setState(() {
+                _isLoading = false;
+              });
+              return;
+            }
+          }
+        }
+        
+        if (tempDir == null) {
+          setState(() {
+            _isLoading = false;
+          });
+          return;
+        }
+        
         final String videoFileName = '${DateTime.now().millisecondsSinceEpoch}_${videoPath.split('/').last}';
         final File tempFile = File('${tempDir.path}/$videoFileName');
         await tempFile.writeAsBytes(data.buffer.asUint8List());

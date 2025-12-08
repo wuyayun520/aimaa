@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStackFeedback</key>
+	<string>positionNearCycle</string>
+	<key>effectStrategyDuration</key>
+	<string>elasticQueryOpacity</string>
+	<key>exceptionThanAction</key>
+	<string>storageFormTension</string>
+	<key>immediateReducerResponse</key>
+	<string>presenterStructureValidation</string>
+	<key>parallelSensorDuration</key>
+	<string>riverpodValueColor</string>
+	<key>priorConvolutionShade</key>
+	<string>finalMenuDensity</string>
+	<key>subtleMemberVisibility</key>
+	<string>visibleAspectRotation</string>
+	<key>utilPlatformShade</key>
+	<string>priorMaterialSkewy</string>
+</dict>
+</plist>

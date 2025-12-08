@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialDecorationRight</key>
+	<string>listenerWithPlatform</string>
+	<key>inheritedOptimizerVisibility</key>
+	<string>columnBridgeFlags</string>
+	<key>instructionVariableVisibility</key>
+	<string>zoneEnvironmentDelay</string>
+	<key>metadataObserverFrequency</key>
+	<string>canvasDespiteAction</string>
+	<key>mobxPhaseLocation</key>
+	<string>newestReferenceRate</string>
+	<key>observerOutsideAdapter</key>
+	<string>asynchronousModelRotation</string>
+	<key>resourceBesideFacade</key>
+	<string>topicExceptProcess</string>
+</dict>
+</plist>

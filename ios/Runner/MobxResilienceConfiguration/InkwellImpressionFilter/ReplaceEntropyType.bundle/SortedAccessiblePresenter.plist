@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateByOperation</key>
+	<string>presenterShapeFlags</string>
+	<key>blocOutsideShape</key>
+	<string>modelCommandPadding</string>
+	<key>firstGraphTheme</key>
+	<string>lastColumnResponse</string>
+	<key>operationAdapterResponse</key>
+	<string>basicMetadataPadding</string>
+	<key>rectBeyondVisitor</key>
+	<string>labelAgainstShape</string>
+</dict>
+</plist>

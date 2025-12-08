@@ -180,7 +180,30 @@ class _CommunityTabState extends State<CommunityTab> {
 
   Future<String?> _generateThumbnail(String videoPath, String userId) async {
     try {
-      final Directory tempDir = await getTemporaryDirectory();
+      // 等待 Flutter 引擎完全初始化，最多重试 3 次
+      Directory? tempDir;
+      int retryCount = 0;
+      const maxRetries = 3;
+      
+      while (tempDir == null && retryCount < maxRetries) {
+        try {
+          tempDir = await getTemporaryDirectory();
+        } catch (e) {
+          retryCount++;
+          if (retryCount < maxRetries) {
+            // 等待一段时间后重试
+            await Future.delayed(Duration(milliseconds: 500 * retryCount));
+          } else {
+            print('Error getting temporary directory after $maxRetries retries: $e');
+            return null;
+          }
+        }
+      }
+      
+      if (tempDir == null) {
+        return null;
+      }
+      
       final String thumbnailFileName = 'thumbnail_$userId.jpg';
       final String thumbnailPath = '${tempDir.path}/$thumbnailFileName';
       

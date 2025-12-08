@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNodeBehavior</key>
+	<string>particleDecoratorInterval</string>
+	<key>injectionPerAdapter</key>
+	<string>permanentOptimizerShape</string>
+	<key>observerStructureDuration</key>
+	<string>numericalResponseInterval</string>
+	<key>spineStylePressure</key>
+	<string>buttonKindTransparency</string>
+	<key>switchFlyweightRight</key>
+	<string>synchronousDurationFeedback</string>
+	<key>textfieldActionVelocity</key>
+	<string>flexProxyShape</string>
+</dict>
+</plist>

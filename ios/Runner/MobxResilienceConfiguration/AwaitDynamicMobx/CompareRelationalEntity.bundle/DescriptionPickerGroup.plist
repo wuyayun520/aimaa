@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderUntilPattern</key>
+	<string>newestOptimizerVisible</string>
+	<key>diversifiedTabbarIndex</key>
+	<string>draggableBlocTag</string>
+	<key>inactiveSessionSize</key>
+	<string>missionStageDistance</string>
+	<key>sophisticatedIntensityOrigin</key>
+	<string>requiredOperationFlags</string>
+	<key>taskWithoutSingleton</key>
+	<string>routeBridgeFlags</string>
+</dict>
+</plist>

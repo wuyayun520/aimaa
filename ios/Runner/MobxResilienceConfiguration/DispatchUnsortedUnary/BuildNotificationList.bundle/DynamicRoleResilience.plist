@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncKindRight</key>
+	<string>parallelQueryState</string>
+	<key>blocFromDecorator</key>
+	<string>callbackDuringLevel</string>
+	<key>currentListenerName</key>
+	<string>nibNumberShade</string>
+	<key>discardedGesturedetectorCoord</key>
+	<string>notifierChainOffset</string>
+	<key>futureActivityMomentum</key>
+	<string>overlayForInterpreter</string>
+	<key>futureFlyweightValidation</key>
+	<string>lazyPriorityOffset</string>
+	<key>masterContainProcess</key>
+	<string>borderShapeSkewy</string>
+	<key>painterKindOffset</key>
+	<string>dialogsTaskCoord</string>
+	<key>promiseChainEdge</key>
+	<string>agileSignatureHue</string>
+</dict>
+</plist>

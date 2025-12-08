@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRowValidation</key>
+	<string>skinByStyle</string>
+	<key>callbackIncludeActivity</key>
+	<string>descriptionForObserver</string>
+	<key>fixedUtilDistance</key>
+	<string>ignoredLayerName</string>
+	<key>immediateOptionSaturation</key>
+	<string>eagerEventPadding</string>
+	<key>responseFlyweightRotation</key>
+	<string>smartTabbarScale</string>
+	<key>storyboardVariableTheme</key>
+	<string>pinchableResolverDistance</string>
+	<key>utilOrStyle</key>
+	<string>delicateButtonVisible</string>
+</dict>
+</plist>

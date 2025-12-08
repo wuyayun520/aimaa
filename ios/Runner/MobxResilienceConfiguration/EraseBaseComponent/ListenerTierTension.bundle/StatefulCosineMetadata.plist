@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInjectionInset</key>
+	<string>permanentImageFormat</string>
+	<key>listviewVariablePosition</key>
+	<string>resultBesideBuffer</string>
+	<key>priorGraphBottom</key>
+	<string>sliderActivityLocation</string>
+	<key>progressbarAndLayer</key>
+	<string>borderLayerBorder</string>
+	<key>reactiveGraphVisibility</key>
+	<string>borderBesideLevel</string>
+	<key>spriteAroundMethod</key>
+	<string>repositoryWithStrategy</string>
+</dict>
+</plist>

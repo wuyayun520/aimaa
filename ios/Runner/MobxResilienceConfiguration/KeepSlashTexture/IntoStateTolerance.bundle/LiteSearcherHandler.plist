@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredFrameCenter</key>
+	<string>cacheByActivity</string>
+	<key>eventWithoutPlatform</key>
+	<string>signatureCycleRate</string>
+	<key>modelEnvironmentMomentum</key>
+	<string>missedListviewAcceleration</string>
+	<key>seamlessTopicHue</key>
+	<string>dropdownbuttonChainSize</string>
+	<key>webDecorationShade</key>
+	<string>tensorCaptionPadding</string>
+</dict>
+</plist>

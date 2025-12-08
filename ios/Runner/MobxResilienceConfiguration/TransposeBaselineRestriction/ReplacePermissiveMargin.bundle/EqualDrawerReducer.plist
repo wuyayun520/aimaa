@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customBaseSpeed</key>
+	<string>custompaintDuringComposite</string>
+	<key>explicitContainerBehavior</key>
+	<string>checkboxAwayFlyweight</string>
+	<key>inheritedCoordinatorAcceleration</key>
+	<string>sortedOperationOrigin</string>
+	<key>inkwellAsEnvironment</key>
+	<string>layoutEnvironmentOrientation</string>
+	<key>lostSemanticsDepth</key>
+	<string>customInstructionInterval</string>
+	<key>particleThroughTemple</key>
+	<string>requestBeyondType</string>
+	<key>queueFromParameter</key>
+	<string>storeStateState</string>
+	<key>sliderProcessOrigin</key>
+	<string>custompaintTempleDelay</string>
+</dict>
+</plist>

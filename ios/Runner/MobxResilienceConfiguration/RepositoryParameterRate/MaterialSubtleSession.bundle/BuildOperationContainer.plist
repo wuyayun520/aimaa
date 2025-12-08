@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInterfaceOffset</key>
+	<string>usecaseOperationOrigin</string>
+	<key>behaviorObserverShape</key>
+	<string>singletonAndVisitor</string>
+	<key>builderFormPosition</key>
+	<string>isolateAroundAction</string>
+	<key>delegateDespiteMemento</key>
+	<string>handlerFacadeTheme</string>
+	<key>grayscaleStrategyBrightness</key>
+	<string>diffableNavigatorSkewx</string>
+	<key>usagePhaseVisibility</key>
+	<string>lazyStatelessOrientation</string>
+	<key>viewAmongWork</key>
+	<string>activatedNotifierEdge</string>
+</dict>
+</plist>

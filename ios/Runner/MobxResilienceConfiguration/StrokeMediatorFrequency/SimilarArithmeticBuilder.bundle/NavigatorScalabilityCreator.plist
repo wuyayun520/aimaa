@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAsLevel</key>
+	<string>transitionAmongComposite</string>
+	<key>blocPerProcess</key>
+	<string>responseAndTask</string>
+	<key>commonEventFlags</key>
+	<string>queueFormType</string>
+	<key>compositionalMediaAppearance</key>
+	<string>hyperbolicStorageSkewx</string>
+	<key>disabledZoneForce</key>
+	<string>priorTableBound</string>
+	<key>keyUsecaseAcceleration</key>
+	<string>subscriptionAdapterVelocity</string>
+	<key>loopFunctionLeft</key>
+	<string>cubitNumberInset</string>
+	<key>materialCommandSkewy</key>
+	<string>sliderAdapterTension</string>
+	<key>overlayVisitorTail</key>
+	<string>allocatorInsideTask</string>
+	<key>visibleRectOffset</key>
+	<string>layoutAboutPhase</string>
+</dict>
+</plist>

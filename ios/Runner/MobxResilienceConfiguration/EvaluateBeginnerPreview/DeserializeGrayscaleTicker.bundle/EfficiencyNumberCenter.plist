@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAtStage</key>
+	<string>semanticsDespitePlatform</string>
+	<key>clipperProcessShade</key>
+	<string>singletonSystemInset</string>
+	<key>discardedFutureTail</key>
+	<string>checkboxSingletonIndex</string>
+	<key>methodObserverResponse</key>
+	<string>spriteStageSize</string>
+	<key>radiusMediatorShape</key>
+	<string>easyActivityLeft</string>
+	<key>requiredStorePadding</key>
+	<string>statefulTransformerPressure</string>
+	<key>resultFacadeOpacity</key>
+	<string>plateJobShade</string>
+	<key>textfieldAwayOperation</key>
+	<string>asyncRepositoryAppearance</string>
+</dict>
+</plist>

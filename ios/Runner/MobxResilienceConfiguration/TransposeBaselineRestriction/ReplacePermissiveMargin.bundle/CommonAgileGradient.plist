@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directObserverAppearance</key>
+	<string>subtleMetadataState</string>
+	<key>drawerNearInterpreter</key>
+	<string>builderSingletonState</string>
+	<key>layerStructureInteraction</key>
+	<string>desktopInteractorSpacing</string>
+	<key>stampFormAcceleration</key>
+	<string>notificationContainActivity</string>
+</dict>
+</plist>

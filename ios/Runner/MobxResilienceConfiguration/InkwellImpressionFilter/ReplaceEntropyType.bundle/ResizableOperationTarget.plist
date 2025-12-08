@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartUntilAdapter</key>
+	<string>sensorInsideEnvironment</string>
+	<key>checkboxBeyondTask</key>
+	<string>alertStructureInset</string>
+	<key>criticalCompleterMargin</key>
+	<string>precisionFormCoord</string>
+	<key>flexFlyweightAlignment</key>
+	<string>intensityDecoratorVisible</string>
+	<key>flexStageTop</key>
+	<string>richtextBesideProxy</string>
+	<key>gesturedetectorActivityBehavior</key>
+	<string>cellAsCycle</string>
+	<key>protectedTopicState</key>
+	<string>coordinatorCompositeShade</string>
+	<key>sessionIncludeStage</key>
+	<string>usecaseVarPadding</string>
+	<key>substantialInteractorTail</key>
+	<string>decorationScopeSize</string>
+	<key>taskVersusFramework</key>
+	<string>composableSkirtBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPerStructure</key>
+	<string>textureVarLocation</string>
+	<key>normAdapterSkewx</key>
+	<string>boxshadowOutsideKind</string>
+	<key>providerMementoAlignment</key>
+	<string>sceneTempleDelay</string>
+	<key>resourceAlongVar</key>
+	<string>providerSingletonInterval</string>
+	<key>statefulObserverPosition</key>
+	<string>integerAndLayer</string>
+</dict>
+</plist>

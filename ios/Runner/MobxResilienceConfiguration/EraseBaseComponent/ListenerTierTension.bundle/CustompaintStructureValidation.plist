@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureThanPhase</key>
+	<string>getxCompositeTransparency</string>
+	<key>blocShapeRotation</key>
+	<string>concurrentMonsterPressure</string>
+	<key>lastDrawerState</key>
+	<string>eventAsCycle</string>
+	<key>resizableCheckboxBehavior</key>
+	<string>explicitTernaryBound</string>
+</dict>
+</plist>

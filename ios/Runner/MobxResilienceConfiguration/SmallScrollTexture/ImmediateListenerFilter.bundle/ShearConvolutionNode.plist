@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directGraphContrast</key>
+	<string>tappableGroupAppearance</string>
+	<key>gridViaPlatform</key>
+	<string>unactivatedGraphicVisibility</string>
+	<key>independentDimensionBehavior</key>
+	<string>petDecoratorDepth</string>
+	<key>sharedCurvePadding</key>
+	<string>logVisitorCount</string>
+</dict>
+</plist>

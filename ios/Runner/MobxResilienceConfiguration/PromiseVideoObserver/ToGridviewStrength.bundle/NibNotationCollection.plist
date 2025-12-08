@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionByTier</key>
+	<string>persistentTickerDelay</string>
+	<key>configurationActionSpeed</key>
+	<string>consultativeBrushTail</string>
+	<key>customAlphaInset</key>
+	<string>singleOptimizerEdge</string>
+	<key>scrollCommandDelay</key>
+	<string>responsePerBridge</string>
+	<key>subscriptionAtVisitor</key>
+	<string>unaryPerVisitor</string>
+</dict>
+</plist>

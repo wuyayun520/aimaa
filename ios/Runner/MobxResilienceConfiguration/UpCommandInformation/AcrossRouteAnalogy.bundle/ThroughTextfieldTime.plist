@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardContainerBorder</key>
+	<string>scrollableMasterFormat</string>
+	<key>injectionAwayFacade</key>
+	<string>commandFromBridge</string>
+	<key>optionAgainstObserver</key>
+	<string>hashFunctionTheme</string>
+	<key>persistentZoneDepth</key>
+	<string>resolverMediatorDistance</string>
+	<key>sensorOfMemento</key>
+	<string>extensionBeyondContext</string>
+	<key>sineStructureScale</key>
+	<string>materialSpotRotation</string>
+	<key>smallStoryboardFrequency</key>
+	<string>observerForScope</string>
+	<key>stateDespiteMethod</key>
+	<string>appbarStateTag</string>
+	<key>unactivatedRouterState</key>
+	<string>layerMediatorBorder</string>
+</dict>
+</plist>

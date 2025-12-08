@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAsScope</key>
+	<string>prevExtensionDensity</string>
+	<key>greatRouteDensity</key>
+	<string>routeFromCycle</string>
+	<key>injectionCycleDepth</key>
+	<string>sliderBeyondLevel</string>
+	<key>managerTaskInset</key>
+	<string>numericalGraphOffset</string>
+	<key>roleAtScope</key>
+	<string>disparateLoopMargin</string>
+	<key>sliderModeInterval</key>
+	<string>responseAmongObserver</string>
+</dict>
+</plist>

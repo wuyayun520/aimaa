@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionFormAppearance</key>
+	<string>descriptionInMediator</string>
+	<key>firstBuilderAlignment</key>
+	<string>cubeKindDirection</string>
+	<key>positionShapeSpacing</key>
+	<string>cupertinoMarginContrast</string>
+	<key>publicSineTension</key>
+	<string>mobileQueueForce</string>
+	<key>sharedActivityShape</key>
+	<string>listenerOperationDensity</string>
+	<key>usedAssetBottom</key>
+	<string>mainFactoryScale</string>
+</dict>
+</plist>

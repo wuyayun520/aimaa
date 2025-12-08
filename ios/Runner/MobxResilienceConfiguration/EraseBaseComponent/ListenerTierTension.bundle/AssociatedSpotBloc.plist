@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCycleOffset</key>
+	<string>streamLayerVelocity</string>
+	<key>configurationDespiteLevel</key>
+	<string>compositionBufferPosition</string>
+	<key>finalMasterRotation</key>
+	<string>resourceNumberEdge</string>
+	<key>functionalCellSize</key>
+	<string>responsiveMetadataOffset</string>
+	<key>nibAndInterpreter</key>
+	<string>elasticDurationType</string>
+	<key>roleSingletonSize</key>
+	<string>symbolStageMode</string>
+	<key>rowBufferRotation</key>
+	<string>stateFunctionBottom</string>
+	<key>staticGraphCenter</key>
+	<string>presenterStructureOrigin</string>
+	<key>usecaseSingletonInteraction</key>
+	<string>permissiveCurveTension</string>
+</dict>
+</plist>

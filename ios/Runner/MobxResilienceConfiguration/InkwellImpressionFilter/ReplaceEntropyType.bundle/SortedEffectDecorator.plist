@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCycleInset</key>
+	<string>uniqueStackSkewy</string>
+	<key>chapterContainComposite</key>
+	<string>missionWithPhase</string>
+	<key>directSineTension</key>
+	<string>sinkCycleTop</string>
+	<key>hashWorkFormat</key>
+	<string>inactiveZoneStatus</string>
+	<key>lostToolTop</key>
+	<string>modulusMementoFeedback</string>
+	<key>mutableGroupMode</key>
+	<string>arithmeticInsideBuffer</string>
+	<key>popupActionSpeed</key>
+	<string>cupertinoCommandLocation</string>
+	<key>sliderAtState</key>
+	<string>tweenCompositeSpeed</string>
+</dict>
+</plist>

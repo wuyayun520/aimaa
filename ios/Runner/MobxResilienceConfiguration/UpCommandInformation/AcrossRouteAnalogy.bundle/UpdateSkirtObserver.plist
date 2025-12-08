@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAtKind</key>
+	<string>resizableExceptionFormat</string>
+	<key>cacheTierTop</key>
+	<string>decorationStateFeedback</string>
+	<key>cursorJobForce</key>
+	<string>interactiveTouchAppearance</string>
+	<key>directlyObserverType</key>
+	<string>transformerPrototypeSaturation</string>
+	<key>listviewUntilStrategy</key>
+	<string>usedManagerSpacing</string>
+	<key>numericalColumnTag</key>
+	<string>webLayoutStatus</string>
+	<key>radiusAtVar</key>
+	<string>offsetContainStage</string>
+	<key>remainderFormAlignment</key>
+	<string>multiplicationAtPattern</string>
+</dict>
+</plist>

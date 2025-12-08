@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateActionBottom</key>
+	<string>consultativeSessionInteraction</string>
+	<key>denseAlignmentTheme</key>
+	<string>persistentCompletionContrast</string>
+	<key>interactiveCubitKind</key>
+	<string>cubitAboutBridge</string>
+	<key>labelProcessInset</key>
+	<string>queryOfContext</string>
+	<key>menuValueSkewy</key>
+	<string>clipperLikeForm</string>
+	<key>semanticInjectionAcceleration</key>
+	<string>axisScopeCount</string>
+	<key>subpixelContainPhase</key>
+	<string>lastContainerScale</string>
+</dict>
+</plist>

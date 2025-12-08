@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionExceptContext</key>
+	<string>serviceContextSpacing</string>
+	<key>builderFacadeOpacity</key>
+	<string>curveBufferSpeed</string>
+	<key>easyErrorDelay</key>
+	<string>flexibleStatefulBound</string>
+	<key>interactorAdapterTheme</key>
+	<string>dynamicTextFeedback</string>
+	<key>sizeStrategyAppearance</key>
+	<string>rectParameterBorder</string>
+	<key>taskLikeDecorator</key>
+	<string>tappableApertureFrequency</string>
+</dict>
+</plist>

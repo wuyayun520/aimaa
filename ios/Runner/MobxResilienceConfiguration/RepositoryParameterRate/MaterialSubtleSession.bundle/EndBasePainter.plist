@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistWithoutChain</key>
+	<string>criticalOffsetFormat</string>
+	<key>inactiveControllerOrientation</key>
+	<string>interactorDecoratorBehavior</string>
+	<key>localRepositoryIndex</key>
+	<string>transitionPlatformTransparency</string>
+	<key>marginAndPattern</key>
+	<string>effectContainPlatform</string>
+	<key>publicVectorSaturation</key>
+	<string>smartDecorationCount</string>
+	<key>signKindTag</key>
+	<string>channelsPlatformState</string>
+	<key>singletonDecoratorFormat</key>
+	<string>delegateCycleVelocity</string>
+</dict>
+</plist>

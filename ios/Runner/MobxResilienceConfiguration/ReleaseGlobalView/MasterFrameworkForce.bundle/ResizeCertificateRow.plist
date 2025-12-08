@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxIncludeForm</key>
+	<string>arithmeticPresenterForce</string>
+	<key>consultativeBatchBehavior</key>
+	<string>intermediateResolverLocation</string>
+	<key>cubeFlyweightStyle</key>
+	<string>errorAdapterMargin</string>
+	<key>easyMovementDelay</key>
+	<string>positionVariableVisibility</string>
+	<key>isolateCompositeHue</key>
+	<string>transformerSingletonValidation</string>
+	<key>resultShapeState</key>
+	<string>independentCaptionState</string>
+	<key>usedDescriptorOrientation</key>
+	<string>normBesideFlyweight</string>
+</dict>
+</plist>

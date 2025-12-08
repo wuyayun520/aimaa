@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardCycleStatus</key>
+	<string>listviewSingletonLeft</string>
+	<key>deferredBoxshadowSpeed</key>
+	<string>futureVersusFramework</string>
+	<key>effectStateSkewx</key>
+	<string>sessionPlatformFrequency</string>
+	<key>grainPatternDistance</key>
+	<string>synchronousHashVisibility</string>
+	<key>iconVarName</key>
+	<string>statelessExceptionOpacity</string>
+	<key>materialBesidePattern</key>
+	<string>layerBufferMode</string>
+	<key>metadataVersusInterpreter</key>
+	<string>localButtonSkewx</string>
+	<key>sceneForFacade</key>
+	<string>textureParamSpacing</string>
+	<key>signBesideActivity</key>
+	<string>dedicatedReferenceRight</string>
+</dict>
+</plist>

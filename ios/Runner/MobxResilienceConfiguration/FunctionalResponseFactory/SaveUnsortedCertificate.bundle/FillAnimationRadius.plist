@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEqualizationSize</key>
+	<string>stateDuringFlyweight</string>
+	<key>cellForDecorator</key>
+	<string>storageContainFunction</string>
+	<key>delegateWorkStatus</key>
+	<string>queueProxyVelocity</string>
+	<key>exceptionKindSkewy</key>
+	<string>interactiveBoxshadowBottom</string>
+	<key>missedTernaryContrast</key>
+	<string>logStageDensity</string>
+	<key>prevUsageLocation</key>
+	<string>typicalGesturedetectorDelay</string>
+	<key>seamlessTransitionFlags</key>
+	<string>providerStyleTag</string>
+	<key>temporarySceneMode</key>
+	<string>builderPerWork</string>
+	<key>viewOutsidePhase</key>
+	<string>robustTopicFormat</string>
+</dict>
+</plist>

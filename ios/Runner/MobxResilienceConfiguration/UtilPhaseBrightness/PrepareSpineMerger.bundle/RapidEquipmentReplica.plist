@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDecorationEdge</key>
+	<string>standalonePriorityInset</string>
+	<key>coordinatorNearStrategy</key>
+	<string>disabledCosineBehavior</string>
+	<key>decorationDecoratorHue</key>
+	<string>resizableServiceShape</string>
+	<key>deferredCoordinatorMomentum</key>
+	<string>activityAdapterDirection</string>
+	<key>dropdownbuttonMementoTint</key>
+	<string>indicatorInsideFlyweight</string>
+	<key>particleActionFrequency</key>
+	<string>entityPlatformDelay</string>
+	<key>resourceOutsideActivity</key>
+	<string>prevRepositoryBehavior</string>
+	<key>subsequentCompleterIndex</key>
+	<string>webVectorInteraction</string>
+</dict>
+</plist>

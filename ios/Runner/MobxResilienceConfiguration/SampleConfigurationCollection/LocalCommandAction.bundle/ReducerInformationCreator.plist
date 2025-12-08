@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexWithCommand</key>
+	<string>gramProxyDirection</string>
+	<key>methodOrChain</key>
+	<string>controllerStyleTheme</string>
+	<key>playbackChainTail</key>
+	<string>lostTitleMode</string>
+	<key>prevIsolateOrientation</key>
+	<string>retainedAppbarType</string>
+	<key>reducerAsMemento</key>
+	<string>tickerBeyondTask</string>
+</dict>
+</plist>

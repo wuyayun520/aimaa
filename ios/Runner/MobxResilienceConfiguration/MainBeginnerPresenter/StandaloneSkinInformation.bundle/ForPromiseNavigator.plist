@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstBoxMode</key>
+	<string>chapterByTier</string>
+	<key>gestureAsActivity</key>
+	<string>baselineWithoutLayer</string>
+	<key>immutableAlignmentState</key>
+	<string>usedImageForce</string>
+	<key>lossVarInset</key>
+	<string>taskExceptVar</string>
+	<key>rowAroundMemento</key>
+	<string>projectOutsideForm</string>
+	<key>tabbarAsFunction</key>
+	<string>titleInsideProcess</string>
+	<key>threadAlongFunction</key>
+	<string>dropdownbuttonValueHead</string>
+	<key>unactivatedTextPressure</key>
+	<string>substantialSignatureVisible</string>
+</dict>
+</plist>

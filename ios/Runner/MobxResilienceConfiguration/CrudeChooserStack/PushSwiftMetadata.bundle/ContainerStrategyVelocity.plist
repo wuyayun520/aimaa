@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerPhaseInteraction</key>
+	<string>assetInSingleton</string>
+	<key>reducerStateContrast</key>
+	<string>unaryWorkHue</string>
+	<key>sinkVisitorTop</key>
+	<string>spotVisitorState</string>
+	<key>skinFacadeScale</key>
+	<string>associatedLabelStatus</string>
+	<key>subtleEqualizationStatus</key>
+	<string>intuitiveScaleOrigin</string>
+</dict>
+</plist>

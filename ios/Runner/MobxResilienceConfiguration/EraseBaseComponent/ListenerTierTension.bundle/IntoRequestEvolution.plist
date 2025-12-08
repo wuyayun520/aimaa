@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStageForce</key>
+	<string>similarServiceShade</string>
+	<key>batchPatternSpacing</key>
+	<string>requestWithPattern</string>
+	<key>checkboxForOperation</key>
+	<string>uniformServiceTransparency</string>
+	<key>decorationInsideType</key>
+	<string>utilModeSkewy</string>
+	<key>interactiveGroupShade</key>
+	<string>projectionDespiteFacade</string>
+	<key>isolateStyleState</key>
+	<string>batchStyleVelocity</string>
+	<key>managerVariableSpacing</key>
+	<string>visibleImageBrightness</string>
+</dict>
+</plist>

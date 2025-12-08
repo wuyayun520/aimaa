@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:aimaa/theme/app_theme.dart';
 import 'package:aimaa/screens/home_screen.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const AimaaApp());
 }
 

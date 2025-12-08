@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorScopeFlags</key>
+	<string>gateCompositePressure</string>
+	<key>directlyGrainStatus</key>
+	<string>autoLoopSpeed</string>
+	<key>logPerAdapter</key>
+	<string>skirtDuringMediator</string>
+	<key>navigationBesidePattern</key>
+	<string>paddingPrototypeCoord</string>
+	<key>previewThroughInterpreter</key>
+	<string>utilFromFlyweight</string>
+	<key>providerAgainstSingleton</key>
+	<string>callbackFlyweightVisible</string>
+	<key>workflowMethodStyle</key>
+	<string>resultOrSystem</string>
+</dict>
+</plist>

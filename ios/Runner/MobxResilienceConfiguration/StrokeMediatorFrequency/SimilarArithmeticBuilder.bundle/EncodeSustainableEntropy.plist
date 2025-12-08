@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSineLocation</key>
+	<string>mutableStateDuration</string>
+	<key>aspectSystemCount</key>
+	<string>graphicProxyKind</string>
+	<key>autoCaptionFrequency</key>
+	<string>controllerModeInterval</string>
+	<key>boxshadowBufferInterval</key>
+	<string>associatedTweenBottom</string>
+	<key>commandPlatformIndex</key>
+	<string>concurrentSliderDistance</string>
+	<key>delicateAllocatorBehavior</key>
+	<string>lostMediaAppearance</string>
+	<key>indicatorFacadeShape</key>
+	<string>exponentContextAppearance</string>
+	<key>localizationThroughPlatform</key>
+	<string>semanticCapsuleHead</string>
+	<key>mediumInteractorOffset</key>
+	<string>momentumOperationHue</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStageTail</key>
+	<string>musicTypeBottom</string>
+	<key>errorStructureStyle</key>
+	<string>delegateThroughMemento</string>
+	<key>lossOutsideProcess</key>
+	<string>accordionLayoutBehavior</string>
+	<key>pinchableCollectionEdge</key>
+	<string>autoSizeHue</string>
+	<key>resolverLikeMode</key>
+	<string>coordinatorAboutStage</string>
+	<key>workflowPlatformRotation</key>
+	<string>vectorTempleRate</string>
+</dict>
+</plist>

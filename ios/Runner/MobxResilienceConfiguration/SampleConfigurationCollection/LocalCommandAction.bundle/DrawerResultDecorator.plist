@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCubitOrigin</key>
+	<string>subscriptionAgainstJob</string>
+	<key>backwardProgressbarInterval</key>
+	<string>liteInkwellInterval</string>
+	<key>logNumberStyle</key>
+	<string>assetUntilFramework</string>
+	<key>popupPatternFlags</key>
+	<string>imperativeStateInset</string>
+	<key>relationalSpotBottom</key>
+	<string>webStreamDirection</string>
+	<key>topicContextVisible</key>
+	<string>alignmentWorkScale</string>
+</dict>
+</plist>

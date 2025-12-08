@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisStrategySpacing</key>
+	<string>dedicatedGroupStyle</string>
+	<key>displayableDelegateBorder</key>
+	<string>accordionViewFrequency</string>
+	<key>exceptionKindAlignment</key>
+	<string>timerKindOrigin</string>
+	<key>factoryDecoratorAlignment</key>
+	<string>iconOrLevel</string>
+	<key>queryBufferMargin</key>
+	<string>checklistWithStrategy</string>
+	<key>rapidShaderPressure</key>
+	<string>expandedContainContext</string>
+	<key>significantWorkflowFormat</key>
+	<string>bitrateCycleColor</string>
+	<key>smallAsyncFormat</key>
+	<string>mutableTextureBound</string>
+	<key>usageSinceParam</key>
+	<string>draggableInterpolationContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartWithParameter</key>
+	<string>disabledAlphaTint</string>
+	<key>checklistVariableName</key>
+	<string>gemUntilValue</string>
+	<key>commonStoreAcceleration</key>
+	<string>handlerByAction</string>
+	<key>containerDecoratorBound</key>
+	<string>semanticsMethodKind</string>
+	<key>featureDespiteSingleton</key>
+	<string>rectActionStyle</string>
+	<key>reducerMediatorShade</key>
+	<string>storeShapeState</string>
+	<key>synchronousBorderLocation</key>
+	<string>intermediateTaskDuration</string>
+</dict>
+</plist>

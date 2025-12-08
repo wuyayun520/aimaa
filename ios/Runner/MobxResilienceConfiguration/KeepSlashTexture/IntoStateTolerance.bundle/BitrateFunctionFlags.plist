@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNavigatorTheme</key>
+	<string>assetContextStyle</string>
+	<key>getxIncludeObserver</key>
+	<string>anchorInProxy</string>
+	<key>heapKindStyle</key>
+	<string>delegateWithoutType</string>
+	<key>lastProgressbarOpacity</key>
+	<string>featureStrategyBound</string>
+	<key>mainFactoryCount</key>
+	<string>sequentialViewCount</string>
+	<key>opaqueConfigurationBound</key>
+	<string>webLayoutName</string>
+	<key>requestFacadeAcceleration</key>
+	<string>progressbarThroughLevel</string>
+	<key>storageWithoutJob</key>
+	<string>rectValueName</string>
+	<key>storeAmongSingleton</key>
+	<string>significantAsyncLocation</string>
+	<key>utilFlyweightBrightness</key>
+	<string>controllerViaAdapter</string>
+</dict>
+</plist>

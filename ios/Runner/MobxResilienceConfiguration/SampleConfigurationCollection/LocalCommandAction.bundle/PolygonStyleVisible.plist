@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapModeCoord</key>
+	<string>nodeAsPrototype</string>
+	<key>menuSinceParameter</key>
+	<string>spriteInsideFramework</string>
+	<key>primaryRectBehavior</key>
+	<string>roleSinceAdapter</string>
+	<key>taskScopeSpeed</key>
+	<string>reducerPerInterpreter</string>
+</dict>
+</plist>

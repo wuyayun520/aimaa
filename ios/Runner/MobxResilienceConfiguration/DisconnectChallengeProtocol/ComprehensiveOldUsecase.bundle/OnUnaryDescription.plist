@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLayoutKind</key>
+	<string>vectorPatternResponse</string>
+	<key>animatedLoopStatus</key>
+	<string>histogramTierEdge</string>
+	<key>indicatorOrMemento</key>
+	<string>beginnerEntropyRotation</string>
+	<key>notifierFunctionBorder</key>
+	<string>curveBridgeCoord</string>
+	<key>parallelStateStyle</key>
+	<string>variantContextSaturation</string>
+	<key>sceneDuringActivity</key>
+	<string>marginPhaseEdge</string>
+	<key>sortedCollectionShade</key>
+	<string>commandExceptStrategy</string>
+	<key>subscriptionFrameworkAlignment</key>
+	<string>animatedcontainerDuringDecorator</string>
+	<key>unsortedSliderOrigin</key>
+	<string>pinchableSpineName</string>
+</dict>
+</plist>

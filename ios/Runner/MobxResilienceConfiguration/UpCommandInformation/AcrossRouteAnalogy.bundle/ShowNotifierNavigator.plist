@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveResolverPressure</key>
+	<string>listviewInsideSingleton</string>
+	<key>animatedControllerFrequency</key>
+	<string>activityAsMediator</string>
+	<key>completerOrForm</key>
+	<string>overlayStrategyAppearance</string>
+	<key>immutableCustompaintVisible</key>
+	<string>providerOutsideCommand</string>
+	<key>labelStyleShape</key>
+	<string>diversifiedBaselineSaturation</string>
+	<key>menuAmongVisitor</key>
+	<string>independentLayoutBrightness</string>
+	<key>rowShapeValidation</key>
+	<string>positionedOperationShape</string>
+	<key>slashAtVariable</key>
+	<string>globalLoopFormat</string>
+</dict>
+</plist>

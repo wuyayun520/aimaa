@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncResponseVelocity</key>
+	<string>presenterStyleRate</string>
+	<key>gateForMethod</key>
+	<string>draggableCosineVisibility</string>
+	<key>groupActivityBrightness</key>
+	<string>secondChannelColor</string>
+	<key>providerLayerLocation</key>
+	<string>autoMapName</string>
+	<key>rectFromEnvironment</key>
+	<string>litePlaybackCoord</string>
+	<key>smartPositionedContrast</key>
+	<string>cycleInsideStage</string>
+	<key>widgetForValue</key>
+	<string>progressbarActionAlignment</string>
+</dict>
+</plist>

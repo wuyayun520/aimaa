@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectPhaseDensity</key>
+	<string>navigatorAndPhase</string>
+	<key>grainFunctionBehavior</key>
+	<string>entityBufferAlignment</string>
+	<key>invisibleTopicOffset</key>
+	<string>titleSingletonInset</string>
+	<key>layerFormOrigin</key>
+	<string>equipmentStageSize</string>
+	<key>sensorFacadeOrigin</key>
+	<string>asyncObserverResponse</string>
+	<key>singletonFacadeRight</key>
+	<string>segueActionHead</string>
+	<key>textTypeIndex</key>
+	<string>actionAtState</string>
+	<key>webButtonKind</key>
+	<string>smallContainerLocation</string>
+	<key>zoneDuringEnvironment</key>
+	<string>resourceAsCycle</string>
+</dict>
+</plist>

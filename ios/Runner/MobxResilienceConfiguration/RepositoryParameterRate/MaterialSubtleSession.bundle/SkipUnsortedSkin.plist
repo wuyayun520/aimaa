@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeSegueInterval</key>
+	<string>skirtCycleValidation</string>
+	<key>localResourceAppearance</key>
+	<string>streamAndComposite</string>
+	<key>storyboardPatternPadding</key>
+	<string>scrollableViewSkewx</string>
+	<key>subscriptionChainForce</key>
+	<string>threadJobVelocity</string>
+	<key>switchAwayAdapter</key>
+	<string>storageVisitorMomentum</string>
+	<key>titleAgainstLevel</key>
+	<string>roleOfMode</string>
+</dict>
+</plist>

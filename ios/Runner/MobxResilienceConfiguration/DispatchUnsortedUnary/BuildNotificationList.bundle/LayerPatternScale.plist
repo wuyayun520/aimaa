@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderWithBuffer</key>
+	<string>entityAndMediator</string>
+	<key>cellAgainstPattern</key>
+	<string>firstMaterialRate</string>
+	<key>cubitParamShape</key>
+	<string>gestureCyclePadding</string>
+	<key>effectOutsideJob</key>
+	<string>modulusVersusKind</string>
+	<key>oldConfigurationOffset</key>
+	<string>largeScrollTail</string>
+	<key>scrollableHeroVelocity</key>
+	<string>textFormHue</string>
+	<key>skinBeyondLayer</key>
+	<string>serviceAgainstContext</string>
+	<key>spotProxyFrequency</key>
+	<string>intuitiveBinaryTint</string>
+	<key>webFutureFeedback</key>
+	<string>priorScreenStyle</string>
+</dict>
+</plist>

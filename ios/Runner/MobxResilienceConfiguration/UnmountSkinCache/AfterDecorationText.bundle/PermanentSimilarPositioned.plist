@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStateOrientation</key>
+	<string>uniqueSymbolMode</string>
+	<key>cellFacadeKind</key>
+	<string>inkwellViaComposite</string>
+	<key>durationAtBridge</key>
+	<string>priorityStateLeft</string>
+	<key>independentConstraintSpeed</key>
+	<string>robustContractionInset</string>
+	<key>sequentialTaskMomentum</key>
+	<string>curveAwayStyle</string>
+	<key>zoneAndVariable</key>
+	<string>compositionalDelegateInset</string>
+</dict>
+</plist>

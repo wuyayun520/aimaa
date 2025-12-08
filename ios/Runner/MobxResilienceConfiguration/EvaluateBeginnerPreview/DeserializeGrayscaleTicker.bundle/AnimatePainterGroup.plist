@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedGroupColor</key>
+	<string>cartesianCubitShape</string>
+	<key>monsterViaEnvironment</key>
+	<string>positionAsParameter</string>
+	<key>roleDuringStrategy</key>
+	<string>adaptiveMaterialSkewy</string>
+	<key>workflowEnvironmentRight</key>
+	<string>interfaceCyclePadding</string>
+</dict>
+</plist>

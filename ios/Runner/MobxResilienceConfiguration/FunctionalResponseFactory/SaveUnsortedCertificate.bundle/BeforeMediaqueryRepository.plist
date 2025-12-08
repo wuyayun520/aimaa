@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousListenerSpeed</key>
+	<string>getxPhasePressure</string>
+	<key>borderVersusDecorator</key>
+	<string>layoutCycleDensity</string>
+	<key>collectionActivityBound</key>
+	<string>tappableTaskKind</string>
+	<key>dynamicMovementSkewy</key>
+	<string>managerPhasePressure</string>
+	<key>futureInScope</key>
+	<string>builderEnvironmentSpacing</string>
+	<key>logPlatformLeft</key>
+	<string>notificationKindOpacity</string>
+	<key>logUntilMode</key>
+	<string>momentumContainStyle</string>
+	<key>seamlessSizeRotation</key>
+	<string>protectedAnchorOpacity</string>
+</dict>
+</plist>

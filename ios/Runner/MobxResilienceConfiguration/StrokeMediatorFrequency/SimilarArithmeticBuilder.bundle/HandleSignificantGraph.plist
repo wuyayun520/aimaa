@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTierSaturation</key>
+	<string>persistentMissionPosition</string>
+	<key>cartesianTechniqueVisible</key>
+	<string>disabledRepositoryMode</string>
+	<key>graphViaAdapter</key>
+	<string>navigatorAdapterBehavior</string>
+	<key>previewContainMemento</key>
+	<string>finalMasterTag</string>
+	<key>widgetPrototypeDistance</key>
+	<string>masterSystemName</string>
+</dict>
+</plist>

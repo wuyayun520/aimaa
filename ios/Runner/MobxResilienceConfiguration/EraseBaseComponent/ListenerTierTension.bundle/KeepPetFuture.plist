@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDecorationVelocity</key>
+	<string>specifyRectDuration</string>
+	<key>associatedCompletionEdge</key>
+	<string>routeSinceAction</string>
+	<key>blocUntilStage</key>
+	<string>specifyOffsetValidation</string>
+	<key>commandModeDelay</key>
+	<string>interfaceCommandTheme</string>
+	<key>customizedScaffoldSpacing</key>
+	<string>fixedSceneCoord</string>
+	<key>dialogsChainBottom</key>
+	<string>delegateAtEnvironment</string>
+	<key>eventFlyweightVisible</key>
+	<string>routeVariableSkewy</string>
+	<key>gestureFrameworkName</key>
+	<string>utilThroughForm</string>
+	<key>intermediateSwiftOrigin</key>
+	<string>lostTernaryForce</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerProxyType</key>
+	<string>sineTempleFrequency</string>
+	<key>finalCursorScale</key>
+	<string>groupDecoratorLeft</string>
+	<key>ignoredSignBound</key>
+	<string>alertByTemple</string>
+	<key>originalIndicatorEdge</key>
+	<string>themeAwayLayer</string>
+	<key>projectAndKind</key>
+	<string>normWithFlyweight</string>
+	<key>rowTaskValidation</key>
+	<string>promiseExceptMode</string>
+	<key>tangentActionKind</key>
+	<string>handlerBeyondMode</string>
+</dict>
+</plist>

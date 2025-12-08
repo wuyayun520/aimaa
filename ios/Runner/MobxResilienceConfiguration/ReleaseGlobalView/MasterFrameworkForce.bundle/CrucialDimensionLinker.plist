@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAndParam</key>
+	<string>scrollAroundFlyweight</string>
+	<key>delegateStageShade</key>
+	<string>usageLevelRate</string>
+	<key>lazyNibForce</key>
+	<string>geometricMapBorder</string>
+</dict>
+</plist>

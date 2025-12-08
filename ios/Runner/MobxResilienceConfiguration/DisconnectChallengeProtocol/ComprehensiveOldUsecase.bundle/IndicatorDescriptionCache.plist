@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listviewAboutStrategy</key>
+	<string>fragmentStrategyDepth</string>
+	<key>routeBeyondPlatform</key>
+	<string>autoRowSize</string>
+	<key>sizeNearProcess</key>
+	<string>commandAboutLayer</string>
+	<key>usedIntensityType</key>
+	<string>localTextfieldRight</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapPerStage</key>
+	<string>beginnerFragmentCoord</string>
+	<key>methodSingletonMargin</key>
+	<string>alphaVisitorTop</string>
+	<key>spinePrototypeRotation</key>
+	<string>statelessMenuVisible</string>
+	<key>uniqueSpineHue</key>
+	<string>singleActionPressure</string>
+</dict>
+</plist>

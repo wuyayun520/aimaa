@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFlyweightBrightness</key>
+	<string>agileAnimationBrightness</string>
+	<key>callbackPlatformSaturation</key>
+	<string>tickerTierResponse</string>
+	<key>gradientInContext</key>
+	<string>nativeDimensionBottom</string>
+	<key>pageviewTaskIndex</key>
+	<string>spineWithInterpreter</string>
+	<key>providerWithMode</key>
+	<string>gesturedetectorIncludeVariable</string>
+	<key>scaleAtDecorator</key>
+	<string>ignoredLocalizationOpacity</string>
+	<key>sceneOfFunction</key>
+	<string>operationSinceScope</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStatefulDensity</key>
+	<string>equipmentFlyweightDensity</string>
+	<key>errorProcessRight</key>
+	<string>mobileChecklistTransparency</string>
+	<key>movementFromFunction</key>
+	<string>popupActionBound</string>
+	<key>primaryAspectratioMargin</key>
+	<string>timerAsCommand</string>
+	<key>sinkShapeVisibility</key>
+	<string>futureFrameworkInterval</string>
+	<key>symmetricReducerRate</key>
+	<string>gateMediatorDistance</string>
+	<key>toolBesideFlyweight</key>
+	<string>basicDecorationStatus</string>
+</dict>
+</plist>

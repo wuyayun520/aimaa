@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyIncludeKind</key>
+	<string>stateAsBridge</string>
+	<key>modalFromCycle</key>
+	<string>alphaCompositeLeft</string>
+	<key>otherTernaryShade</key>
+	<string>interactiveVariantRate</string>
+	<key>radiusPerCommand</key>
+	<string>anchorLikeValue</string>
+	<key>spriteStrategyResponse</key>
+	<string>primaryParticlePosition</string>
+	<key>stateBySystem</key>
+	<string>primaryQueueVisibility</string>
+</dict>
+</plist>

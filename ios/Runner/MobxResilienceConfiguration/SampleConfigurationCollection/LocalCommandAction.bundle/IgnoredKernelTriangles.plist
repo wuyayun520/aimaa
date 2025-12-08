@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerProgressbarHue</key>
+	<string>directNibVisible</string>
+	<key>exceptionOperationTop</key>
+	<string>observerPhaseInteraction</string>
+	<key>keyConsumerStyle</key>
+	<string>flexWorkOpacity</string>
+	<key>navigatorWithStyle</key>
+	<string>directlyTransformerBehavior</string>
+</dict>
+</plist>

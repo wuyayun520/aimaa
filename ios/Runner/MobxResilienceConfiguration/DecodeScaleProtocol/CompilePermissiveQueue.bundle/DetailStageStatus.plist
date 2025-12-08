@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorShapeRight</key>
+	<string>rectSingletonValidation</string>
+	<key>lostExceptionValidation</key>
+	<string>draggableGroupAppearance</string>
+	<key>permanentSliderDepth</key>
+	<string>heapBeyondVariable</string>
+	<key>popupStyleDepth</key>
+	<string>presenterValueCount</string>
+	<key>transformerForObserver</key>
+	<string>injectionMementoTransparency</string>
+	<key>unactivatedTransitionDuration</key>
+	<string>factoryLikeForm</string>
+	<key>unaryAboutJob</key>
+	<string>autoShaderState</string>
+</dict>
+</plist>

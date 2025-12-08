@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerByValue</key>
+	<string>sinkFacadeCenter</string>
+	<key>fixedCurveState</key>
+	<string>accordionTimerFeedback</string>
+	<key>methodAndTier</key>
+	<string>decorationVariableSpeed</string>
+	<key>themeStructureLeft</key>
+	<string>localizationMethodIndex</string>
+</dict>
+</plist>

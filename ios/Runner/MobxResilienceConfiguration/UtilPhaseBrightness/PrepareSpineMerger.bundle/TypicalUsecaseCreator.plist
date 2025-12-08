@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureDecoratorBehavior</key>
+	<string>graphicSystemShade</string>
+	<key>explicitSubscriptionMargin</key>
+	<string>associatedStreamType</string>
+	<key>fusedViewTheme</key>
+	<string>utilBridgeShape</string>
+	<key>navigationContainEnvironment</key>
+	<string>entityAdapterMode</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorVarInterval</key>
+	<string>screenInsideComposite</string>
+	<key>isolateThroughPlatform</key>
+	<string>numericalDecorationName</string>
+	<key>logarithmObserverAppearance</key>
+	<string>indicatorOutsideEnvironment</string>
+	<key>sceneAroundWork</key>
+	<string>mobileTitleAlignment</string>
+	<key>zoneCompositeHead</key>
+	<string>statelessExceptActivity</string>
+</dict>
+</plist>

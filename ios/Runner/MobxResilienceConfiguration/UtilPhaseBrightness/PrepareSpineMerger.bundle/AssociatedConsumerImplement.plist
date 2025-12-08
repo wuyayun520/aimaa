@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorUntilFramework</key>
+	<string>offsetWithoutFacade</string>
+	<key>callbackVisitorTransparency</key>
+	<string>intermediateStoryboardOrigin</string>
+	<key>descriptionFacadeName</key>
+	<string>temporaryPrecisionDistance</string>
+	<key>invisibleMatrixTag</key>
+	<string>mediaqueryNumberCount</string>
+	<key>painterWithJob</key>
+	<string>textureStateInterval</string>
+	<key>sampleInAction</key>
+	<string>reactiveSceneMode</string>
+	<key>subpixelOutsideComposite</key>
+	<string>interfacePrototypeLeft</string>
+	<key>textByOperation</key>
+	<string>lostTweenSpacing</string>
+</dict>
+</plist>

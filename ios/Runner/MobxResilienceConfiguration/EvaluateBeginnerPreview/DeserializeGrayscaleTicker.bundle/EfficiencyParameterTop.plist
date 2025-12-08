@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentContractionSpacing</key>
+	<string>greatViewLocation</string>
+	<key>parallelBuilderAcceleration</key>
+	<string>spineAgainstObserver</string>
+	<key>positionedVisitorBottom</key>
+	<string>completerAmongParameter</string>
+	<key>spriteActionType</key>
+	<string>statefulResourceBrightness</string>
+	<key>widgetPlatformMode</key>
+	<string>isolateObserverFrequency</string>
+</dict>
+</plist>

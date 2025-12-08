@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSinceOperation</key>
+	<string>constCosineMomentum</string>
+	<key>materialBatchDuration</key>
+	<string>sampleFromLayer</string>
+</dict>
+</plist>

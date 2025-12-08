@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTypeSkewy</key>
+	<string>sizeUntilState</string>
+	<key>gridviewAmongStrategy</key>
+	<string>subpixelProcessOrientation</string>
+	<key>interfaceUntilEnvironment</key>
+	<string>specifierBufferMargin</string>
+	<key>statefulTransitionSpacing</key>
+	<string>sliderBufferEdge</string>
+	<key>streamTierInteraction</key>
+	<string>frameFlyweightBehavior</string>
+</dict>
+</plist>

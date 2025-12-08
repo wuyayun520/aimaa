@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledStreamDuration</key>
+	<string>progressbarAlongOperation</string>
+	<key>keyMapValidation</key>
+	<string>staticStoryboardTransparency</string>
+	<key>listviewUntilLayer</key>
+	<string>constraintStructureOffset</string>
+	<key>mediaqueryDespiteEnvironment</key>
+	<string>rapidPresenterLeft</string>
+	<key>nativeTextfieldStyle</key>
+	<string>cubitParamForce</string>
+	<key>offsetViaTier</key>
+	<string>grainLevelShade</string>
+	<key>robustSubpixelDensity</key>
+	<string>flexNumberStyle</string>
+	<key>subscriptionDecoratorInterval</key>
+	<string>builderPlatformMomentum</string>
+</dict>
+</plist>

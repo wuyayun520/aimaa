@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitProxyStatus</key>
+	<string>animationObserverTail</string>
+	<key>futureSystemRate</key>
+	<string>binaryByMode</string>
+	<key>opaqueQueueFeedback</key>
+	<string>iconFrameworkTransparency</string>
+	<key>popupOrComposite</key>
+	<string>tickerLikeCommand</string>
+	<key>resourceInsideStage</key>
+	<string>expandedAroundStage</string>
+	<key>tensorGraphDistance</key>
+	<string>checklistOperationSpeed</string>
+	<key>widgetCompositeVisibility</key>
+	<string>sortedWorkflowInset</string>
+</dict>
+</plist>

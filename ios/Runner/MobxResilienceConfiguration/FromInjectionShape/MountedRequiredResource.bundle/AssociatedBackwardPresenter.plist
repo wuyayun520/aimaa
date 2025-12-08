@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintOrPrototype</key>
+	<string>mobileMediatorBrightness</string>
+	<key>lossPrototypeRotation</key>
+	<string>durationOutsideLayer</string>
+	<key>petThroughAdapter</key>
+	<string>adaptivePreviewState</string>
+	<key>progressbarParameterShape</key>
+	<string>particleFunctionBrightness</string>
+</dict>
+</plist>

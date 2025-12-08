@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAsInterpreter</key>
+	<string>cubitActivityIndex</string>
+	<key>futureAgainstForm</key>
+	<string>chartInNumber</string>
+	<key>popupCommandOrientation</key>
+	<string>sequentialPriorityContrast</string>
+	<key>queryPrototypeFormat</key>
+	<string>containerAgainstFramework</string>
+	<key>slashByTask</key>
+	<string>optimizerExceptVar</string>
+	<key>stackAroundFramework</key>
+	<string>statefulConstraintSpeed</string>
+</dict>
+</plist>

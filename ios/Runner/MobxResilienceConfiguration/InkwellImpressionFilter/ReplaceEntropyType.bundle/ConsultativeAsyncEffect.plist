@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemBufferFlags</key>
+	<string>semanticNavigatorMode</string>
+	<key>mediaqueryStructureTension</key>
+	<string>buttonOutsideDecorator</string>
+	<key>metadataAboutChain</key>
+	<string>buttonPlatformSize</string>
+	<key>prevFeatureMargin</key>
+	<string>containerLayerInterval</string>
+	<key>relationalSegueOrientation</key>
+	<string>sensorLikeEnvironment</string>
+	<key>taskInEnvironment</key>
+	<string>euclideanEventPosition</string>
+	<key>ternaryTypeDirection</key>
+	<string>disabledUsecaseBottom</string>
+</dict>
+</plist>

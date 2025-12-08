@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheInKind</key>
+	<string>tickerPhaseRotation</string>
+	<key>dependencyForTask</key>
+	<string>getxChainBrightness</string>
+	<key>disparateViewContrast</key>
+	<string>priorHashHead</string>
+	<key>extensionViaVar</key>
+	<string>cubitFromMethod</string>
+	<key>sizedboxOutsideMode</key>
+	<string>builderOrMethod</string>
+</dict>
+</plist>

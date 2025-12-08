@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistObserverTint</key>
+	<string>explicitProviderTint</string>
+	<key>groupTempleTail</key>
+	<string>resourceContainDecorator</string>
+	<key>listviewContextDepth</key>
+	<string>cardBesideMemento</string>
+	<key>observerSinceMemento</key>
+	<string>advancedAspectDuration</string>
+	<key>painterProxyTail</key>
+	<string>gateShapeDistance</string>
+	<key>routerProxyCount</key>
+	<string>prevSineTag</string>
+	<key>singletonWorkTransparency</key>
+	<string>cartesianRouterFrequency</string>
+</dict>
+</plist>

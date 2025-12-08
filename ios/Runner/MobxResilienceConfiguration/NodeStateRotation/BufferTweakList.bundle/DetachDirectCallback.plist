@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureThroughStyle</key>
+	<string>usedMultiplicationName</string>
+	<key>flexibleFeatureShape</key>
+	<string>paddingAmongFlyweight</string>
+	<key>futureBeyondOperation</key>
+	<string>timerProcessHue</string>
+	<key>immutableLayoutRotation</key>
+	<string>normalScrollVelocity</string>
+	<key>positionPlatformTint</key>
+	<string>semanticEffectTop</string>
+	<key>subscriptionBridgeName</key>
+	<string>integerLayerAppearance</string>
+</dict>
+</plist>

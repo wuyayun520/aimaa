@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAndMethod</key>
+	<string>synchronousSineBorder</string>
+	<key>brushBufferLeft</key>
+	<string>chapterProcessBorder</string>
+	<key>delicateResourceSkewy</key>
+	<string>enabledBatchVisibility</string>
+	<key>dynamicTaskAlignment</key>
+	<string>singleAnimationDepth</string>
+	<key>labelAtActivity</key>
+	<string>graphFunctionDuration</string>
+	<key>localSegueOrientation</key>
+	<string>eagerAnimationOffset</string>
+	<key>observerBesideComposite</key>
+	<string>cupertinoAtScope</string>
+	<key>queryWithoutVar</key>
+	<string>globalLabelSpeed</string>
+	<key>textureCommandShade</key>
+	<string>taskAmongFunction</string>
+</dict>
+</plist>

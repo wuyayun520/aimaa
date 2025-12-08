@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedCubitBrightness</key>
+	<string>cubeModeValidation</string>
+	<key>futureFromCommand</key>
+	<string>protectedApertureSize</string>
+	<key>groupEnvironmentOpacity</key>
+	<string>immutableListenerSkewx</string>
+	<key>imperativeBufferScale</key>
+	<string>largeLossVelocity</string>
+	<key>materialRouteRate</key>
+	<string>tensorOperationEdge</string>
+	<key>opaqueFragmentBrightness</key>
+	<string>sequentialSubscriptionDensity</string>
+	<key>responseDecoratorBehavior</key>
+	<string>controllerViaSystem</string>
+	<key>routerPerInterpreter</key>
+	<string>cartesianCardPosition</string>
+	<key>usecaseLikeBridge</key>
+	<string>arithmeticEntityBrightness</string>
+</dict>
+</plist>

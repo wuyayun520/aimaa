@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAgainstEnvironment</key>
+	<string>presenterOfBuffer</string>
+	<key>boxExceptStrategy</key>
+	<string>hierarchicalTimerOffset</string>
+	<key>inactivePreviewSpacing</key>
+	<string>sceneMediatorVisible</string>
+	<key>missedBuilderFeedback</key>
+	<string>resizableModalBottom</string>
+	<key>painterProxyMargin</key>
+	<string>serviceMementoDelay</string>
+	<key>relationalTextDensity</key>
+	<string>exceptionByShape</string>
+	<key>requiredRouteResponse</key>
+	<string>labelMediatorShape</string>
+	<key>streamAsTier</key>
+	<string>associatedAllocatorFormat</string>
+	<key>tickerIncludeAction</key>
+	<string>directNavigatorContrast</string>
+</dict>
+</plist>

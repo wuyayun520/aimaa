@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeChainOrientation</key>
+	<string>usecaseAsVariable</string>
+	<key>dependencyPhasePosition</key>
+	<string>constraintAmongOperation</string>
+	<key>ephemeralSubpixelEdge</key>
+	<string>secondRouterOrigin</string>
+	<key>menuExceptState</key>
+	<string>asyncStateEdge</string>
+	<key>methodLevelOrigin</key>
+	<string>normInterpreterPressure</string>
+	<key>sessionAroundPattern</key>
+	<string>localStoryboardResponse</string>
+	<key>tickerOrChain</key>
+	<string>usecaseFrameworkVisibility</string>
+	<key>usageIncludeChain</key>
+	<string>denseScreenColor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicReducerSaturation</key>
+	<string>compositionalEventRotation</string>
+	<key>coordinatorByType</key>
+	<string>concurrentControllerStatus</string>
+	<key>declarativeTitleStatus</key>
+	<string>builderFlyweightRate</string>
+	<key>independentMemberBrightness</key>
+	<string>progressbarFlyweightCenter</string>
+	<key>listviewFacadePosition</key>
+	<string>positionDuringVariable</string>
+	<key>normalQueueHue</key>
+	<string>layerScopeSkewx</string>
+	<key>permissiveStatelessShape</key>
+	<string>futureInType</string>
+	<key>routeOutsideTier</key>
+	<string>richtextIncludeOperation</string>
+	<key>serviceIncludeCommand</key>
+	<string>uniqueAwaitShape</string>
+</dict>
+</plist>

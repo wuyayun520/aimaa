@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesByMode</key>
+	<string>storyboardFromPrototype</string>
+	<key>dependencyNearOperation</key>
+	<string>delicateStreamTransparency</string>
+	<key>gemNearShape</key>
+	<string>subpixelDecoratorSkewy</string>
+	<key>injectionStrategyDepth</key>
+	<string>subscriptionAsParam</string>
+	<key>largeScrollOffset</key>
+	<string>frameCompositeSaturation</string>
+	<key>managerAndStrategy</key>
+	<string>singletonBufferOrigin</string>
+	<key>newestUtilDensity</key>
+	<string>nativeContainerRight</string>
+	<key>resilientScaleSaturation</key>
+	<string>dependencyOutsideMediator</string>
+	<key>tangentFormShade</key>
+	<string>cubitOrBuffer</string>
+</dict>
+</plist>

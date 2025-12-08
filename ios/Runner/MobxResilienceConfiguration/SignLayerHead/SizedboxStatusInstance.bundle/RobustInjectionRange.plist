@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturePatternShape</key>
+	<string>radiusBesideCycle</string>
+	<key>baselineEnvironmentOrientation</key>
+	<string>widgetWorkCenter</string>
+	<key>directPresenterDelay</key>
+	<string>multiplicationValueLeft</string>
+	<key>gridviewBesideDecorator</key>
+	<string>scenePlatformValidation</string>
+	<key>pointFacadeRight</key>
+	<string>delegateKindTension</string>
+</dict>
+</plist>

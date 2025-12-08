@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVectorValidation</key>
+	<string>delicateAlphaTag</string>
+	<key>isolateAdapterSpeed</key>
+	<string>spineStyleRate</string>
+	<key>loopScopeShade</key>
+	<string>allocatorBeyondFacade</string>
+	<key>providerContextInterval</key>
+	<string>rectBufferOrigin</string>
+	<key>stackAsContext</key>
+	<string>cardDecoratorAcceleration</string>
+	<key>usedCustompaintKind</key>
+	<string>managerContainVisitor</string>
+</dict>
+</plist>

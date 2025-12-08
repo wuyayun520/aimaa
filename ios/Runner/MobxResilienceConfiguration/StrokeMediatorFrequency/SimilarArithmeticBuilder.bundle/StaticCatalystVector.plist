@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAmongActivity</key>
+	<string>grainTaskDelay</string>
+	<key>commandFrameworkAppearance</key>
+	<string>tabviewShapeOffset</string>
+	<key>persistentWidgetAlignment</key>
+	<string>flexParamVelocity</string>
+	<key>scrollableObserverOpacity</key>
+	<string>popupAwayDecorator</string>
+	<key>sinkOperationLeft</key>
+	<string>mobileSceneIndex</string>
+	<key>stateAgainstAdapter</key>
+	<string>constraintStyleAppearance</string>
+</dict>
+</plist>

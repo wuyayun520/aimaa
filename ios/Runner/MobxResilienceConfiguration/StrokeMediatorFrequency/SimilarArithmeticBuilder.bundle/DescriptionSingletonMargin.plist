@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateStrategyMode</key>
+	<string>sharedStatefulFlags</string>
+	<key>easyRemainderTag</key>
+	<string>lastButtonPosition</string>
+	<key>featureOrShape</key>
+	<string>activeDimensionOpacity</string>
+	<key>layoutModeOpacity</key>
+	<string>typicalChannelLocation</string>
+	<key>pivotalGesturedetectorResponse</key>
+	<string>containerInMediator</string>
+	<key>requiredPlaybackHue</key>
+	<string>variantBeyondFacade</string>
+	<key>resilientRouteTransparency</key>
+	<string>widgetAtLayer</string>
+	<key>semanticCoordinatorVisibility</key>
+	<string>providerWithVariable</string>
+	<key>widgetMementoTransparency</key>
+	<string>persistentTimerRate</string>
+</dict>
+</plist>

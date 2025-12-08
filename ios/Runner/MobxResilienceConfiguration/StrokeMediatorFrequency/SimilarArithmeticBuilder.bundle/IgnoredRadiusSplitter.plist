@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorValueSpacing</key>
+	<string>gradientUntilLevel</string>
+	<key>descriptionCommandType</key>
+	<string>resizableGrainScale</string>
+	<key>indicatorTaskDistance</key>
+	<string>durationMediatorScale</string>
+	<key>optimizerProcessOrientation</key>
+	<string>factoryNumberInset</string>
+	<key>resizableRadiusSpeed</key>
+	<string>paddingShapeVisible</string>
+	<key>skirtStateScale</key>
+	<string>sharedZoneTransparency</string>
+	<key>streamVariableFeedback</key>
+	<string>swiftShapeOpacity</string>
+	<key>unsortedCurveTag</key>
+	<string>rowExceptLayer</string>
+</dict>
+</plist>

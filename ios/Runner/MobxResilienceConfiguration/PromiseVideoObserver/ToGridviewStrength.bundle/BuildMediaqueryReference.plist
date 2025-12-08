@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalGridPressure</key>
+	<string>independentTextfieldVisibility</string>
+	<key>grainVersusParameter</key>
+	<string>keyCompletionAcceleration</string>
+	<key>hierarchicalRowType</key>
+	<string>tweenMediatorScale</string>
+	<key>inactiveProgressbarPosition</key>
+	<string>singleExceptionBehavior</string>
+	<key>interactorBeyondFlyweight</key>
+	<string>independentSampleMargin</string>
+	<key>publicMediaScale</key>
+	<string>usedOffsetOrigin</string>
+	<key>referenceProxySpeed</key>
+	<string>widgetAndJob</string>
+	<key>smartMissionScale</key>
+	<string>flexibleIconIndex</string>
+	<key>sophisticatedTextSize</key>
+	<string>originalConvolutionShade</string>
+	<key>topicWithoutVariable</key>
+	<string>primaryCoordinatorInset</string>
+</dict>
+</plist>

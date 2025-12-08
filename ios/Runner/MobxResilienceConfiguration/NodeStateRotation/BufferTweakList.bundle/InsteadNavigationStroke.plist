@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAndMethod</key>
+	<string>loopExceptComposite</string>
+	<key>chartScopeResponse</key>
+	<string>singleBoxshadowTail</string>
+	<key>commonViewMode</key>
+	<string>sessionWithoutMode</string>
+	<key>criticalAlphaResponse</key>
+	<string>permanentTextFormat</string>
+	<key>previewAtWork</key>
+	<string>drawerVariableShape</string>
+	<key>smallButtonInset</key>
+	<string>channelDecoratorBound</string>
+	<key>timerFacadeAppearance</key>
+	<string>iterativeMethodSaturation</string>
+</dict>
+</plist>

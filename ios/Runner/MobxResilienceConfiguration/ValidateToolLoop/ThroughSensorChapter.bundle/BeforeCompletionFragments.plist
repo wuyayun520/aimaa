@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInsideJob</key>
+	<string>otherCardContrast</string>
+	<key>characterOperationLocation</key>
+	<string>progressbarAtDecorator</string>
+	<key>commandInOperation</key>
+	<string>boxshadowNearCommand</string>
+	<key>denseGroupInset</key>
+	<string>responseAlongScope</string>
+	<key>tensorDescriptionDirection</key>
+	<string>parallelTimerOffset</string>
+	<key>transitionCycleResponse</key>
+	<string>uniqueActivityDensity</string>
+	<key>usecaseSingletonBehavior</key>
+	<string>collectionFrameworkTint</string>
+	<key>variantAroundPlatform</key>
+	<string>nodeCommandTail</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorIncludeVisitor</key>
+	<string>scaffoldMethodRate</string>
+	<key>cardDespiteDecorator</key>
+	<string>timerAtNumber</string>
+	<key>cardFacadeTheme</key>
+	<string>transitionBufferAlignment</string>
+	<key>delegateViaEnvironment</key>
+	<string>assetBesideMethod</string>
+	<key>flexibleEffectRight</key>
+	<string>rectTypeSkewy</string>
+	<key>lazyObserverTransparency</key>
+	<string>protectedLossOrientation</string>
+	<key>observerInParam</key>
+	<string>techniqueScopeInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInsideType</key>
+	<string>uniformCharacterLocation</string>
+	<key>aspectKindBehavior</key>
+	<string>dependencyChainDuration</string>
+	<key>assetFrameworkIndex</key>
+	<string>threadStateInterval</string>
+	<key>cupertinoSlashPadding</key>
+	<string>multiplicationValueTag</string>
+	<key>entropyMethodLeft</key>
+	<string>presenterAdapterState</string>
+	<key>eventDecoratorContrast</key>
+	<string>positionVariableBound</string>
+	<key>layoutFrameworkHead</key>
+	<string>widgetLayerLeft</string>
+	<key>mediocreListenerLeft</key>
+	<string>cacheObserverDistance</string>
+	<key>positionPatternOpacity</key>
+	<string>materialSensorBehavior</string>
+	<key>providerDecoratorAlignment</key>
+	<string>commandFrameworkEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOutsideShape</key>
+	<string>stepAgainstState</string>
+	<key>dynamicGridOrigin</key>
+	<string>contractionFormVelocity</string>
+	<key>hardSliderRate</key>
+	<string>eagerBorderHue</string>
+	<key>layoutStyleStyle</key>
+	<string>actionAgainstPhase</string>
+	<key>streamShapeContrast</key>
+	<string>retainedDelegateFeedback</string>
+	<key>subscriptionFacadeIndex</key>
+	<string>delegateOrMode</string>
+	<key>textContainTask</key>
+	<string>elasticFutureInteraction</string>
+	<key>usageContainProxy</key>
+	<string>operationActionRotation</string>
+</dict>
+</plist>

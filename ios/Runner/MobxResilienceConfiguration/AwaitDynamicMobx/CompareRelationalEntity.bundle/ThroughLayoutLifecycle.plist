@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandWithEnvironment</key>
+	<string>presenterActionTension</string>
+	<key>enabledStreamAlignment</key>
+	<string>seamlessFeatureFormat</string>
+	<key>extensionFunctionCount</key>
+	<string>clipperMementoHue</string>
+	<key>globalTopicTheme</key>
+	<string>statefulDecoratorOffset</string>
+	<key>interactorInsideBuffer</key>
+	<string>allocatorForStage</string>
+	<key>pinchableCurveColor</key>
+	<string>semanticsBridgeDelay</string>
+	<key>temporaryTextSkewx</key>
+	<string>fixedNodePressure</string>
+	<key>textBesideComposite</key>
+	<string>titleMethodMomentum</string>
+	<key>variantFormDensity</key>
+	<string>composableRouterScale</string>
+	<key>viewPatternOffset</key>
+	<string>priorityNearContext</string>
+</dict>
+</plist>

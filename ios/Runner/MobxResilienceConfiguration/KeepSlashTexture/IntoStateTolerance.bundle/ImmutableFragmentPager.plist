@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushParamFeedback</key>
+	<string>checklistChainPosition</string>
+	<key>bufferAdapterName</key>
+	<string>axisExceptPrototype</string>
+	<key>decorationStrategyType</key>
+	<string>materialCurveSkewy</string>
+	<key>greatMovementVisible</key>
+	<string>overlayAlongMode</string>
+	<key>normBeyondState</key>
+	<string>spriteBesideContext</string>
+	<key>requestMementoOrientation</key>
+	<string>synchronousExceptionVisible</string>
+	<key>topicFormDirection</key>
+	<string>functionalTextOrigin</string>
+</dict>
+</plist>

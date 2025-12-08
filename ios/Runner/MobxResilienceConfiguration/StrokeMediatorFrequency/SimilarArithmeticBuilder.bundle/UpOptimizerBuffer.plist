@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitStrategyDelay</key>
+	<string>navigatorStyleSkewy</string>
+	<key>delegateFromFlyweight</key>
+	<string>actionOperationAppearance</string>
+	<key>diversifiedPositionDistance</key>
+	<string>activityStyleDuration</string>
+	<key>groupJobBehavior</key>
+	<string>reusableMovementLocation</string>
+	<key>queryStateSpeed</key>
+	<string>grayscaleCommandVelocity</string>
+	<key>semanticPreviewTint</key>
+	<string>hashActionBorder</string>
+</dict>
+</plist>

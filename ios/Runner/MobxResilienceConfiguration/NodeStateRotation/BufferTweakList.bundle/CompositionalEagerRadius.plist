@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalInterpolationOrigin</key>
+	<string>factoryObserverCoord</string>
+	<key>comprehensiveClipperBound</key>
+	<string>commandVariableBound</string>
+	<key>dynamicRadiusStatus</key>
+	<string>nextSineValidation</string>
+	<key>extensionFrameworkTint</key>
+	<string>mediaqueryForVisitor</string>
+	<key>hardStateScale</key>
+	<string>queryVarVisibility</string>
+	<key>particleVariableKind</key>
+	<string>hashInsideVar</string>
+	<key>scrollShapeMode</key>
+	<string>immutableDurationMargin</string>
+</dict>
+</plist>

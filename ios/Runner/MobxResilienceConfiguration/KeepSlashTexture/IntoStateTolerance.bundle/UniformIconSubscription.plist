@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableFutureTint</key>
+	<string>scaffoldAgainstPrototype</string>
+	<key>durationBeyondShape</key>
+	<string>canvasMediatorContrast</string>
+	<key>imageValueEdge</key>
+	<string>easyCosineDistance</string>
+	<key>modelTempleScale</key>
+	<string>awaitAgainstCycle</string>
+	<key>sessionOrTask</key>
+	<string>usecaseVisitorType</string>
+</dict>
+</plist>

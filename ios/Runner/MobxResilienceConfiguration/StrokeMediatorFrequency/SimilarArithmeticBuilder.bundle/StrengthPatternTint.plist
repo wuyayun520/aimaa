@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionProcessBrightness</key>
+	<string>titleContextOpacity</string>
+	<key>giftJobOrigin</key>
+	<string>allocatorViaEnvironment</string>
+	<key>iconIncludeObserver</key>
+	<string>mobxJobFlags</string>
+	<key>inactiveSizeDensity</key>
+	<string>tappableGrainHead</string>
+	<key>newestManagerDepth</key>
+	<string>criticalManagerPressure</string>
+	<key>opaqueAsyncSpeed</key>
+	<string>repositoryAtMemento</string>
+	<key>projectionViaChain</key>
+	<string>primaryContractionCoord</string>
+	<key>transformerShapeInset</key>
+	<string>flexibleLayoutType</string>
+	<key>workflowMementoRight</key>
+	<string>hashDuringFacade</string>
+</dict>
+</plist>

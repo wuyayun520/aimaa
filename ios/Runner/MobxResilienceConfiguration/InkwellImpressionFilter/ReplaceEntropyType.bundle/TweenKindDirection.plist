@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheUntilWork</key>
+	<string>dimensionWithComposite</string>
+	<key>entityExceptObserver</key>
+	<string>themeTaskEdge</string>
+	<key>frameAtFlyweight</key>
+	<string>instructionInChain</string>
+	<key>queryFrameworkBehavior</key>
+	<string>baselineOfBridge</string>
+	<key>resolverMediatorSkewy</key>
+	<string>containerForObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentOverlayTransparency</key>
+	<string>positionOrState</string>
+	<key>dependencyTierInset</key>
+	<string>columnVariableDuration</string>
+	<key>discardedCheckboxDepth</key>
+	<string>retainedReducerLeft</string>
+	<key>grainCompositeOrigin</key>
+	<string>layoutBridgeAcceleration</string>
+	<key>navigatorStructureRight</key>
+	<string>descriptionAndAdapter</string>
+	<key>radioPhaseCenter</key>
+	<string>convolutionIncludeValue</string>
+	<key>viewPhaseResponse</key>
+	<string>navigatorAlongObserver</string>
+</dict>
+</plist>

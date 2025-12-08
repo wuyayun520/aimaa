@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleStateScale</key>
+	<string>seamlessSkinEdge</string>
+	<key>permissiveSingletonTag</key>
+	<string>activatedViewLeft</string>
+	<key>presenterMediatorOrientation</key>
+	<string>inkwellValueStatus</string>
+	<key>sampleIncludeInterpreter</key>
+	<string>unactivatedEventOrigin</string>
+	<key>sequentialRequestDepth</key>
+	<string>customDescriptorMode</string>
+</dict>
+</plist>

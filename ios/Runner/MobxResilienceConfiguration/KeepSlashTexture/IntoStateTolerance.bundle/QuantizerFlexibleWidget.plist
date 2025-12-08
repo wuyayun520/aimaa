@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledAwaitBehavior</key>
+	<string>nextCollectionHue</string>
+	<key>getxDuringTier</key>
+	<string>smartCapacitiesBottom</string>
+	<key>signatureTypeInterval</key>
+	<string>controllerTierVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentByFlyweight</key>
+	<string>fusedProviderSkewx</string>
+	<key>catalystExceptMethod</key>
+	<string>streamContainProxy</string>
+	<key>dependencyInsideTask</key>
+	<string>normalRequestTag</string>
+	<key>directlyAlertIndex</key>
+	<string>blocInsideActivity</string>
+	<key>finalSinkSpacing</key>
+	<string>coordinatorOrSystem</string>
+	<key>missionWithInterpreter</key>
+	<string>rowParameterOffset</string>
+	<key>resilientBlocOffset</key>
+	<string>alphaStyleCenter</string>
+	<key>storageNumberInterval</key>
+	<string>sequentialNodeLocation</string>
+	<key>uniqueSliderOpacity</key>
+	<string>batchParameterLocation</string>
+</dict>
+</plist>

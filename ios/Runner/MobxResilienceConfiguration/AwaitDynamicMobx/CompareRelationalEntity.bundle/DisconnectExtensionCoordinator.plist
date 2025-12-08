@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateAsPlatform</key>
+	<string>customizedNotificationResponse</string>
+	<key>intermediateQueueBehavior</key>
+	<string>explicitRouteLocation</string>
+	<key>normUntilNumber</key>
+	<string>entityAsTask</string>
+	<key>permanentTopicBehavior</key>
+	<string>captionAndCycle</string>
+	<key>routeForNumber</key>
+	<string>frameSystemIndex</string>
+	<key>tangentAndCommand</key>
+	<string>liteSinkDelay</string>
+</dict>
+</plist>

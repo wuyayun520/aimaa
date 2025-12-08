@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>priorityAlongCycle</key>
+	<string>subsequentEntitySize</string>
+	<key>protectedTexturePadding</key>
+	<string>buttonFunctionTint</string>
+	<key>resizableDependencyPosition</key>
+	<string>previewIncludeVar</string>
+	<key>routerForAction</key>
+	<string>interfaceStrategySaturation</string>
+	<key>sizeFunctionSpeed</key>
+	<string>managerTempleDelay</string>
+	<key>tickerParameterOpacity</key>
+	<string>accessibleLossBrightness</string>
+</dict>
+</plist>

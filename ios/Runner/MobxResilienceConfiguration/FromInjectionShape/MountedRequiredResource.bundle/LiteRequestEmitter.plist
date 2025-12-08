@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>oldDelegatePadding</key>
+	<string>storageNearStage</string>
+	<key>rapidGridInterval</key>
+	<string>parallelScreenSaturation</string>
+	<key>robustShaderDelay</key>
+	<string>protectedInkwellTail</string>
+	<key>segmentStageInset</key>
+	<string>asynchronousClipperInset</string>
+	<key>spineSinceStyle</key>
+	<string>criticalSliderAcceleration</string>
+	<key>titleAboutVar</key>
+	<string>constraintAsLayer</string>
+</dict>
+</plist>

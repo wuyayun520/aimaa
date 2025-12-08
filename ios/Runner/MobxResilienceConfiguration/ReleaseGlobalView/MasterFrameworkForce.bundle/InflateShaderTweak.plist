@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBridgeFormat</key>
+	<string>drawerStageTheme</string>
+	<key>aspectLayerTension</key>
+	<string>draggableModalTheme</string>
+	<key>dynamicAppbarValidation</key>
+	<string>symmetricMethodVisibility</string>
+	<key>groupWithVisitor</key>
+	<string>oldTableOrigin</string>
+	<key>ignoredToolBound</key>
+	<string>allocatorFrameworkTension</string>
+	<key>resultNearType</key>
+	<string>commandMethodAlignment</string>
+	<key>toolScopeCenter</key>
+	<string>widgetProxyInterval</string>
+</dict>
+</plist>

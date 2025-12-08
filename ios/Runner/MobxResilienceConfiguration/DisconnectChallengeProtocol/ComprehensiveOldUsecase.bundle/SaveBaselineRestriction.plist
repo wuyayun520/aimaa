@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobxModeBorder</key>
+	<string>integerCycleShade</string>
+	<key>navigatorBeyondSingleton</key>
+	<string>tweenAgainstMediator</string>
+	<key>viewStructureLeft</key>
+	<string>protectedAccessoryDelay</string>
+	<key>webToolName</key>
+	<string>painterWithFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoHandlerKind</key>
+	<string>particleChainVisible</string>
+	<key>compositionBufferSkewx</key>
+	<string>channelCommandVisible</string>
+	<key>nextBuilderOpacity</key>
+	<string>reductionPhaseStatus</string>
+	<key>resourcePrototypeFeedback</key>
+	<string>reusableCycleFeedback</string>
+	<key>shaderFunctionInset</key>
+	<string>frameInsidePrototype</string>
+	<key>specifyTextLeft</key>
+	<string>responseCommandFormat</string>
+	<key>uniqueGroupSkewx</key>
+	<string>otherSkirtTop</string>
+</dict>
+</plist>

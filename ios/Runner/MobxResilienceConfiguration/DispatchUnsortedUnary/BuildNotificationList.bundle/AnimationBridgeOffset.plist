@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureInsideTask</key>
+	<string>modalFlyweightValidation</string>
+	<key>granularTimerVisible</key>
+	<string>buttonActionRight</string>
+	<key>mediaParamTag</key>
+	<string>diffableResolverHead</string>
+	<key>providerDecoratorShade</key>
+	<string>otherProviderOpacity</string>
+	<key>resilientRouteTheme</key>
+	<string>oldExpandedScale</string>
+	<key>sineActivityRotation</key>
+	<string>dependencyFunctionBottom</string>
+	<key>transformerBeyondMediator</key>
+	<string>animationIncludeContext</string>
+</dict>
+</plist>
