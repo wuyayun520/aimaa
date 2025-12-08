@@ -1,0 +1,1355 @@
+{
+    "fitnessPrograms": [
+      {
+        "id": "1",
+        "title": "🔥 Newbie Fitness Starter Camp",
+        "subtitle": "Beginner Fitness Training Camp",
+        "coverImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+        
+        "description": {
+          "overview": "A 5-day beginner-friendly training camp designed for fitness newcomers. Start from zero and systematically learn proper exercise techniques and training methods. Through progressive training plans, help beginners establish good exercise habits, avoid sports injuries, and start a healthy lifestyle journey.",
+          "highlights": [
+            "Beginner-friendly, no fitness experience required",
+            "Professional one-on-one coaching to correct movements",
+            "Scientific training plan, progressive approach",
+            "Nutrition and diet guidance, comprehensive health management",
+            "Small class size with personalized attention"
+          ]
+        },
+        
+        "details": {
+          "duration": "5 days",
+          "dailyTime": "2 hours daily (9:00 AM - 11:00 AM)",
+          "location": "4.6km away",
+          "address": "Downtown Fitness Center",
+          "maxParticipants": 20,
+          "currentParticipants": 20
+        },
+        
+        "curriculum": [
+          {
+            "day": 1,
+            "title": "Basic Fitness Assessment & Introduction",
+            "content": [
+              "Body composition analysis (body fat percentage, muscle mass, etc.)",
+              "Basic movement instruction: squats, push-ups, planks",
+              "Cardio introduction: walking and running techniques",
+              "Pre-workout warm-up and post-workout stretching"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          },
+          {
+            "day": 2,
+            "title": "Strength Training Basics",
+            "content": [
+              "Dumbbell basics: curls, presses, rows",
+              "Core strength training: crunches, Russian twists",
+              "Proper breathing techniques",
+              "Training intensity control"
+            ],
+            "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&h=600&fit=crop"
+          },
+          {
+            "day": 3,
+            "title": "Cardio & Flexibility",
+            "content": [
+              "Advanced cardio: HIIT introduction",
+              "Basic yoga stretching movements",
+              "Flexibility improvement training",
+              "Exercise recovery methods"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "day": 4,
+            "title": "Full Body Comprehensive Training",
+            "content": [
+              "Full body circuit training",
+              "Movement combination exercises",
+              "Training plan development",
+              "Common mistake corrections"
+            ],
+            "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=600&fit=crop"
+          },
+          {
+            "day": 5,
+            "title": "Results Showcase & Future Planning",
+            "content": [
+              "Fitness test comparison",
+              "Personal training plan development",
+              "Nutrition and diet guidance",
+              "Long-term fitness planning"
+            ],
+            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop"
+          }
+        ],
+        
+        "instructor": {
+          "name": "Coach Li",
+          "title": "Senior Fitness Coach",
+          "experience": "8 years of teaching experience",
+          "specialty": "Beginner guidance, movement correction",
+          "certifications": ["National Level 1 Fitness Coach", "Sports Nutritionist"],
+          "avatar": "https://images.unsplash.com/photo-1594381898411-846e7d193883?w=400&h=400&fit=crop",
+          "description": "Specializes in helping fitness beginners establish correct exercise habits, expert in personalized training program development."
+        },
+        
+        "suitableFor": [
+          "Complete beginners with no fitness experience",
+          "People who want to systematically learn fitness knowledge",
+          "Those who want to establish healthy lifestyle habits",
+          "Beginners who want to avoid sports injuries"
+        ],
+        
+        "equipment": [
+          "Dumbbells (various weights)",
+          "Yoga mats",
+          "Resistance bands",
+          "Foam rollers",
+          "Other basic equipment"
+        ],
+        
+        "gallery": [
+          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+        ],
+        
+        "location": {
+          "distance": "4.6km",
+          "address": "Downtown Fitness Center",
+          "facilities": [
+            "Free parking",
+            "Locker room",
+            "Shower facilities",
+            "Rest area",
+            "Water fountain"
+          ]
+        },
+        
+        "participants": {
+          "count": 20,
+          "avatars": [
+            "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&h=100&fit=crop"
+          ],
+          "genderRatio": {
+            "male": 30,
+            "female": 70
+          },
+          "ageRange": "18-45 years old"
+        },
+        
+        "actionButton": {
+          "text": "Join",
+          "icon": "star_jump",
+          "status": "available"
+        }
+      },
+      
+      {
+        "id": "2",
+        "title": "Fitness Expert Development Journey",
+        "subtitle": "Advanced Fitness Training Program",
+        "coverImage": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=600&fit=crop",
+        
+        "description": {
+          "overview": "An advanced training camp for those with existing fitness experience. Through 5 days of intensive training, systematically improve strength, endurance, explosiveness, and overall fitness. Uses advanced training methods to help fitness enthusiasts break through plateaus and reach higher training levels.",
+          "highlights": [
+            "Advanced training methods to break through plateaus",
+            "High-Intensity Interval Training (HIIT)",
+            "Functional training and strength improvement",
+            "Sports performance optimization",
+            "Professional fitness testing and assessment"
+          ]
+        },
+        
+        "details": {
+          "duration": "5 days",
+          "dailyTime": "3 hours daily (2:00 PM - 5:00 PM)",
+          "location": "4.6km away",
+          "address": "Professional Training Center",
+          "maxParticipants": 20,
+          "currentParticipants": 20
+        },
+        
+        "curriculum": [
+          {
+            "day": 1,
+            "title": "Fitness Assessment & Training Plan Development",
+            "content": [
+              "Comprehensive fitness testing (strength, endurance, flexibility, explosiveness)",
+              "Personal training goal setting",
+              "Advanced training plan development",
+              "Training periodization theory"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          },
+          {
+            "day": 2,
+            "title": "High-Intensity Strength Training",
+            "content": [
+              "Advanced compound movements: deadlifts, squats, bench press",
+              "Explosive training: box jumps, medicine ball throws",
+              "Strength training periodization",
+              "Recovery and supercompensation"
+            ],
+            "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&h=600&fit=crop"
+          },
+          {
+            "day": 3,
+            "title": "HIIT & Metabolic Training",
+            "content": [
+              "HIIT program design",
+              "Metabolic training methods",
+              "Cardiovascular function improvement",
+              "Training intensity monitoring"
+            ],
+            "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&h=600&fit=crop"
+          },
+          {
+            "day": 4,
+            "title": "Functional Training",
+            "content": [
+              "Functional movement pattern training",
+              "Advanced core stability",
+              "Balance and coordination training",
+              "Kinetic chain integration"
+            ],
+            "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=800&h=600&fit=crop"
+          },
+          {
+            "day": 5,
+            "title": "Comprehensive Testing & Long-term Planning",
+            "content": [
+              "Fitness test comparison analysis",
+              "Personal advanced training program",
+              "Nutrition and supplement strategies",
+              "Long-term training planning"
+            ],
+            "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=600&fit=crop"
+          }
+        ],
+        
+        "instructor": {
+          "name": "Coach Chen",
+          "title": "Senior Fitness Coach",
+          "experience": "12 years of teaching experience",
+          "specialty": "Strength training, sports performance enhancement",
+          "certifications": ["Internationally Certified Fitness Coach", "Master of Sports Science", "Powerlifting Certification"],
+          "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+          "description": "Specializes in helping fitness enthusiasts break through training bottlenecks and improve sports performance, with extensive competitive sports training experience."
+        },
+        
+        "suitableFor": [
+          "People with 6+ months of fitness experience",
+          "Fitness enthusiasts who want to break through training plateaus",
+          "Those who want to improve sports performance",
+          "Athletes preparing for fitness competitions"
+        ],
+        
+        "prerequisites": [
+          "At least 6 months of regular training experience",
+          "Ability to perform basic movements like standard squats and push-ups",
+          "No serious sports injuries",
+          "Good health, no exercise contraindications"
+        ],
+        
+        "equipment": [
+          "Free weights (barbells, dumbbells)",
+          "Functional training equipment",
+          "TRX suspension training straps",
+          "Kettlebells",
+          "Battle ropes",
+          "Professional testing equipment"
+        ],
+        
+        "gallery": [
+          "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=800&h=600&fit=crop"
+        ],
+        
+        "location": {
+          "distance": "4.6km",
+          "address": "Professional Training Center",
+          "facilities": [
+            "Professional training equipment",
+            "Free parking",
+            "Locker room",
+            "Shower facilities",
+            "Rest area",
+            "Nutrition station"
+          ]
+        },
+        
+        "participants": {
+          "count": 20,
+          "avatars": [
+            "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100&h=100&fit=crop"
+          ],
+          "genderRatio": {
+            "male": 50,
+            "female": 50
+          },
+          "ageRange": "22-50 years old"
+        },
+        
+        "actionButton": {
+          "text": "Join",
+          "icon": "star_jump",
+          "status": "available"
+        }
+      },
+      
+      {
+        "id": "3",
+        "title": "Weekend Vitality Fitness Session",
+        "subtitle": "Weekend Fitness Course",
+        "coverImage": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop",
+        
+        "description": {
+          "overview": "A weekend fitness course designed specifically for working professionals. Use weekend time for efficient training, release work stress from the week, and boost physical vitality. Flexible schedule, perfect for busy urbanites.",
+          "highlights": [
+            "Weekend exclusive, flexible timing",
+            "Efficient training to release stress",
+            "Perfect for working professionals",
+            "Relaxed and enjoyable training atmosphere",
+            "Quick recovery of physical vitality"
+          ]
+        },
+        
+        "details": {
+          "duration": "Weekend course",
+          "dailyTime": "1.5 hours per session (10:00 AM - 11:30 AM)",
+          "location": "TBD",
+          "address": "Multiple locations available",
+          "maxParticipants": 15,
+          "currentParticipants": 30
+        },
+        
+        "curriculum": [
+          {
+            "session": "Saturday Morning",
+            "title": "Vitality Awakening Training",
+            "content": [
+              "Dynamic warm-up and activation",
+              "Full body functional training",
+              "Cardio exercise combinations",
+              "Relaxation stretching"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "session": "Sunday Morning",
+            "title": "Strength & Flexibility",
+            "content": [
+              "Basic strength training",
+              "Yoga stretching",
+              "Core stability training",
+              "Meditation and relaxation"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          }
+        ],
+        
+        "instructor": {
+          "name": "Coach Wang",
+          "title": "Fitness Coach",
+          "experience": "5 years of teaching experience",
+          "specialty": "Functional training, stress relief",
+          "certifications": ["National Fitness Coach", "Yoga Certification"],
+          "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop",
+          "description": "Specializes in helping working professionals release stress through exercise and improve quality of life, with extensive group training experience."
+        },
+        
+        "suitableFor": [
+          "Busy working professionals",
+          "People who want to exercise on weekends",
+          "Those who want to release work stress",
+          "Urbanites who want to maintain vitality"
+        ],
+        
+        "equipment": [
+          "Yoga mats",
+          "Resistance bands",
+          "Light dumbbells",
+          "Foam rollers",
+          "Other portable equipment"
+        ],
+        
+        "gallery": [
+          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+        ],
+        
+        "location": {
+          "distance": null,
+          "address": "Multiple locations available",
+          "facilities": [
+            "Convenient transportation",
+            "Locker room",
+            "Rest area"
+          ]
+        },
+        
+        "participants": {
+          "count": 30,
+          "avatars": [
+            "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100&h=100&fit=crop"
+          ],
+          "genderRatio": {
+            "male": 50,
+            "female": 50
+          },
+          "ageRange": "20-50 years old"
+        },
+        
+        "actionButton": {
+          "text": "Join",
+          "icon": "star_jump",
+          "status": "available"
+        }
+      },
+      
+      {
+        "id": "4",
+        "title": "🧘 Yoga & Meditation Wellness Program",
+        "subtitle": "Mind-Body Balance Training",
+        "coverImage": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop",
+        
+        "description": {
+          "overview": "A comprehensive yoga and meditation program designed to improve flexibility, reduce stress, and enhance mental well-being. Through systematic yoga postures, breathing techniques, and meditation practices, help participants achieve physical and mental balance, improve body posture, and cultivate inner peace.",
+          "highlights": [
+            "Professional yoga instruction for all levels",
+            "Meditation and mindfulness training",
+            "Stress relief and relaxation techniques",
+            "Flexibility and posture improvement",
+            "Peaceful and supportive environment"
+          ]
+        },
+        
+        "details": {
+          "duration": "4 weeks",
+          "dailyTime": "1.5 hours per session (6:00 PM - 7:30 PM)",
+          "location": "3.2km away",
+          "address": "Zen Yoga Studio",
+          "maxParticipants": 25,
+          "currentParticipants": 18
+        },
+        
+        "curriculum": [
+          {
+            "week": 1,
+            "title": "Foundation & Basic Postures",
+            "content": [
+              "Introduction to yoga philosophy and principles",
+              "Basic yoga postures: mountain pose, downward dog, warrior poses",
+              "Breathing techniques (Pranayama) basics",
+              "Body alignment and posture correction"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 2,
+            "title": "Intermediate Poses & Flow",
+            "content": [
+              "Sun salutation sequences",
+              "Intermediate standing and seated poses",
+              "Core strengthening through yoga",
+              "Balance and stability training"
+            ],
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 3,
+            "title": "Advanced Practice & Meditation",
+            "content": [
+              "Advanced yoga sequences",
+              "Deep stretching and flexibility",
+              "Meditation techniques and practice",
+              "Mindfulness and awareness training"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 4,
+            "title": "Integration & Personal Practice",
+            "content": [
+              "Personalized yoga sequence development",
+              "Home practice guidance",
+              "Stress management through yoga",
+              "Long-term wellness planning"
+            ],
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+          }
+        ],
+        
+        "instructor": {
+          "name": "Coach Lin",
+          "title": "Senior Yoga Instructor",
+          "experience": "10 years of teaching experience",
+          "specialty": "Hatha yoga, meditation, stress relief",
+          "certifications": ["International Yoga Alliance Certified", "Meditation Teacher Certification", "Yoga Wellness Certification"],
+          "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop",
+          "description": "Dedicated to helping people find balance and peace through yoga and meditation, with extensive experience in restorative yoga and stress management."
+        },
+        
+        "suitableFor": [
+          "People seeking stress relief and relaxation",
+          "Those wanting to improve flexibility and posture",
+          "Beginners interested in yoga and meditation",
+          "Anyone looking for mind-body wellness"
+        ],
+        
+        "equipment": [
+          "Yoga mats",
+          "Yoga blocks",
+          "Yoga straps",
+          "Bolsters and cushions",
+          "Meditation cushions"
+        ],
+        
+        "gallery": [
+          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+        ],
+        
+        "location": {
+          "distance": "3.2km",
+          "address": "Zen Yoga Studio",
+          "facilities": [
+            "Peaceful practice space",
+            "Changing rooms",
+            "Shower facilities",
+            "Meditation room",
+            "Equipment storage"
+          ]
+        },
+        
+        "participants": {
+          "count": 18,
+          "avatars": [
+            "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&h=100&fit=crop"
+          ],
+          "genderRatio": {
+            "male": 20,
+            "female": 80
+          },
+          "ageRange": "25-60 years old"
+        },
+        
+        "actionButton": {
+          "text": "Join",
+          "icon": "star_jump",
+          "status": "available"
+        }
+      },
+      
+      {
+        "id": "5",
+        "title": "💪 Fat Loss & Body Shaping Bootcamp",
+        "subtitle": "Intensive Weight Loss Training",
+        "coverImage": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&h=600&fit=crop",
+        
+        "description": {
+          "overview": "An intensive 6-week fat loss and body shaping bootcamp designed for those who want to lose weight and sculpt their body. Through high-intensity training, metabolic conditioning, and nutritional guidance, help participants achieve significant weight loss and body transformation goals.",
+          "highlights": [
+            "Intensive fat-burning training",
+            "Metabolic conditioning workouts",
+            "Personalized nutrition guidance",
+            "Body composition tracking",
+            "Motivational group training atmosphere"
+          ]
+        },
+        
+        "details": {
+          "duration": "6 weeks",
+          "dailyTime": "2 hours daily (7:00 AM - 9:00 AM)",
+          "location": "5.1km away",
+          "address": "Elite Fitness Bootcamp",
+          "maxParticipants": 30,
+          "currentParticipants": 28
+        },
+        
+        "curriculum": [
+          {
+            "week": 1,
+            "title": "Assessment & Foundation Building",
+            "content": [
+              "Body composition analysis and goal setting",
+              "Cardio endurance building",
+              "Basic strength training introduction",
+              "Nutritional assessment and meal planning"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 2,
+            "title": "High-Intensity Fat Burning",
+            "content": [
+              "HIIT training protocols",
+              "Circuit training for fat loss",
+              "Metabolic conditioning",
+              "Interval running and sprinting"
+            ],
+            "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 3,
+            "title": "Strength & Cardio Combination",
+            "content": [
+              "Full body strength circuits",
+              "Cardio and strength supersets",
+              "Functional movement training",
+              "Core strengthening for stability"
+            ],
+            "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 4,
+            "title": "Advanced Metabolic Training",
+            "content": [
+              "Advanced HIIT variations",
+              "Plyometric training",
+              "Battle rope and functional circuits",
+              "Endurance challenge training"
+            ],
+            "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 5,
+            "title": "Body Sculpting & Toning",
+            "content": [
+              "Targeted muscle group training",
+              "Bodyweight and resistance training",
+              "Core and abs specialization",
+              "Flexibility and recovery"
+            ],
+            "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 6,
+            "title": "Final Push & Maintenance",
+            "content": [
+              "Final body composition assessment",
+              "Maintenance training program",
+              "Long-term nutrition strategy",
+              "Lifestyle habit formation"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          }
+        ],
+        
+        "instructor": {
+          "name": "Coach Zhang",
+          "title": "Senior Bootcamp Trainer",
+          "experience": "9 years of teaching experience",
+          "specialty": "Fat loss, metabolic training, body transformation",
+          "certifications": ["Certified Personal Trainer", "Nutrition Coach", "HIIT Specialist"],
+          "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+          "description": "Expert in fat loss and body transformation, helping hundreds of participants achieve their weight loss goals through proven training methods."
+        },
+        
+        "suitableFor": [
+          "People wanting to lose weight and burn fat",
+          "Those seeking body transformation",
+          "Individuals ready for intensive training",
+          "Anyone committed to lifestyle change"
+        ],
+        
+        "prerequisites": [
+          "Basic fitness level required",
+          "No serious health conditions",
+          "Commitment to 6-week program",
+          "Willingness to follow nutrition plan"
+        ],
+        
+        "equipment": [
+          "Battle ropes",
+          "Kettlebells",
+          "Medicine balls",
+          "Resistance bands",
+          "TRX suspension trainers",
+          "Cardio machines"
+        ],
+        
+        "gallery": [
+          "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&h=600&fit=crop"
+        ],
+        
+        "location": {
+          "distance": "5.1km",
+          "address": "Elite Fitness Bootcamp",
+          "facilities": [
+            "Outdoor training area",
+            "Indoor training space",
+            "Locker rooms",
+            "Shower facilities",
+            "Water stations",
+            "Equipment storage"
+          ]
+        },
+        
+        "participants": {
+          "count": 28,
+          "avatars": [
+            "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop"
+          ],
+          "genderRatio": {
+            "male": 40,
+            "female": 60
+          },
+          "ageRange": "20-55 years old"
+        },
+        
+        "actionButton": {
+          "text": "Join",
+          "icon": "star_jump",
+          "status": "available"
+        }
+      },
+      
+      {
+        "id": "6",
+        "title": "🏃 Youth Athletic Development Program",
+        "subtitle": "Teen Fitness & Sports Training",
+        "coverImage": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=800&h=600&fit=crop",
+        
+        "description": {
+          "overview": "A specialized fitness program designed for teenagers aged 13-18. Focus on developing fundamental movement skills, improving athletic performance, building healthy exercise habits, and promoting physical and mental growth. Safe, age-appropriate training methods support healthy development.",
+          "highlights": [
+            "Age-appropriate training for teenagers",
+            "Fundamental movement skill development",
+            "Athletic performance enhancement",
+            "Healthy lifestyle habit formation",
+            "Safe and supervised training environment"
+          ]
+        },
+        
+        "details": {
+          "duration": "8 weeks",
+          "dailyTime": "1.5 hours per session (4:00 PM - 5:30 PM)",
+          "location": "2.8km away",
+          "address": "Youth Sports Academy",
+          "maxParticipants": 20,
+          "currentParticipants": 15
+        },
+        
+        "curriculum": [
+          {
+            "week": 1,
+            "title": "Fitness Assessment & Movement Basics",
+            "content": [
+              "Physical fitness assessment",
+              "Fundamental movement patterns",
+              "Proper form and technique",
+              "Safety and injury prevention"
+            ],
+            "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 2,
+            "title": "Strength & Coordination",
+            "content": [
+              "Bodyweight strength training",
+              "Coordination and agility drills",
+              "Balance and stability exercises",
+              "Movement pattern refinement"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 3,
+            "title": "Speed & Agility",
+            "content": [
+              "Speed development training",
+              "Agility ladder drills",
+              "Plyometric basics",
+              "Reaction time improvement"
+            ],
+            "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 4,
+            "title": "Endurance & Conditioning",
+            "content": [
+              "Cardiovascular endurance training",
+              "Interval training for youth",
+              "Stamina building exercises",
+              "Recovery and hydration"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 5,
+            "title": "Sports-Specific Skills",
+            "content": [
+              "Multi-sport skill development",
+              "Team coordination exercises",
+              "Competitive game scenarios",
+              "Sports strategy basics"
+            ],
+            "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 6,
+            "title": "Advanced Movement Patterns",
+            "content": [
+              "Complex movement combinations",
+              "Advanced coordination drills",
+              "Functional strength development",
+              "Performance optimization"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 7,
+            "title": "Power & Explosiveness",
+            "content": [
+              "Explosive power training",
+              "Jump and landing mechanics",
+              "Speed-strength development",
+              "Athletic performance testing"
+            ],
+            "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 8,
+            "title": "Integration & Long-term Development",
+            "content": [
+              "Comprehensive fitness assessment",
+              "Personal development plan",
+              "Long-term training guidance",
+              "Healthy lifestyle maintenance"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          }
+        ],
+        
+        "instructor": {
+          "name": "Coach Liu",
+          "title": "Youth Fitness Specialist",
+          "experience": "7 years of teaching experience",
+          "specialty": "Youth athletic development, movement education",
+          "certifications": ["Youth Fitness Specialist", "Sports Performance Coach", "Child Development Certification"],
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+          "description": "Passionate about youth development, specializing in safe and effective training methods for teenagers to build athleticism and healthy habits."
+        },
+        
+        "suitableFor": [
+          "Teenagers aged 13-18",
+          "Youth interested in sports and fitness",
+          "Students wanting to improve athletic performance",
+          "Teens seeking healthy lifestyle habits"
+        ],
+        
+        "equipment": [
+          "Agility ladders",
+          "Cones and markers",
+          "Medicine balls (lightweight)",
+          "Resistance bands",
+          "Balance equipment",
+          "Sports equipment"
+        ],
+        
+        "gallery": [
+          "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+        ],
+        
+        "location": {
+          "distance": "2.8km",
+          "address": "Youth Sports Academy",
+          "facilities": [
+            "Indoor sports facility",
+            "Outdoor training field",
+            "Locker rooms",
+            "Parent waiting area",
+            "First aid station",
+            "Equipment storage"
+          ]
+        },
+        
+        "participants": {
+          "count": 15,
+          "avatars": [
+            "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop"
+          ],
+          "genderRatio": {
+            "male": 55,
+            "female": 45
+          },
+          "ageRange": "13-18 years old"
+        },
+        
+        "actionButton": {
+          "text": "Join",
+          "icon": "star_jump",
+          "status": "available"
+        }
+      },
+      
+      {
+        "id": "7",
+        "title": "🤱 Postpartum Recovery & Fitness",
+        "subtitle": "Postnatal Exercise Program",
+        "coverImage": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop",
+        
+        "description": {
+          "overview": "A specialized fitness program designed for new mothers to safely recover and regain strength after childbirth. Through gentle, progressive exercises, help restore core strength, improve posture, and rebuild fitness while considering the unique needs of postpartum bodies.",
+          "highlights": [
+            "Safe postpartum exercise protocols",
+            "Core and pelvic floor recovery",
+            "Gentle progressive training",
+            "Posture and alignment correction",
+            "Supportive community of new mothers"
+          ]
+        },
+        
+        "details": {
+          "duration": "10 weeks",
+          "dailyTime": "1 hour per session (10:00 AM - 11:00 AM)",
+          "location": "3.5km away",
+          "address": "Mom & Baby Wellness Center",
+          "maxParticipants": 12,
+          "currentParticipants": 10
+        },
+        
+        "curriculum": [
+          {
+            "week": 1,
+            "title": "Assessment & Gentle Introduction",
+            "content": [
+              "Postpartum fitness assessment",
+              "Pelvic floor awareness",
+              "Gentle breathing exercises",
+              "Basic posture correction"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 2,
+            "title": "Core Foundation Building",
+            "content": [
+              "Deep core activation",
+              "Gentle abdominal exercises",
+              "Pelvic floor strengthening",
+              "Safe movement patterns"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 3,
+            "title": "Posture & Alignment",
+            "content": [
+              "Upper body strengthening",
+              "Back and shoulder exercises",
+              "Posture correction techniques",
+              "Stretching for tight muscles"
+            ],
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 4,
+            "title": "Lower Body Strength",
+            "content": [
+              "Leg and glute strengthening",
+              "Hip stability exercises",
+              "Gentle squats and lunges",
+              "Balance and coordination"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 5,
+            "title": "Cardio & Endurance",
+            "content": [
+              "Low-impact cardio introduction",
+              "Walking and gentle jogging",
+              "Endurance building",
+              "Energy management"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 6,
+            "title": "Full Body Integration",
+            "content": [
+              "Full body circuit training",
+              "Functional movement patterns",
+              "Strength and cardio combination",
+              "Progressive intensity"
+            ],
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 7,
+            "title": "Advanced Core & Stability",
+            "content": [
+              "Advanced core exercises",
+              "Stability and balance training",
+              "Functional strength",
+              "Movement quality improvement"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 8,
+            "title": "Strength Building",
+            "content": [
+              "Progressive strength training",
+              "Resistance band exercises",
+              "Bodyweight strength",
+              "Muscle tone improvement"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 9,
+            "title": "Flexibility & Recovery",
+            "content": [
+              "Yoga and stretching",
+              "Relaxation techniques",
+              "Recovery and self-care",
+              "Stress management"
+            ],
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 10,
+            "title": "Maintenance & Long-term Plan",
+            "content": [
+              "Final assessment and progress review",
+              "Home exercise program",
+              "Long-term fitness planning",
+              "Lifestyle integration"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          }
+        ],
+        
+        "instructor": {
+          "name": "Coach Yang",
+          "title": "Postnatal Fitness Specialist",
+          "experience": "8 years of teaching experience",
+          "specialty": "Postpartum recovery, women's health, core restoration",
+          "certifications": ["Postnatal Fitness Specialist", "Pelvic Floor Restoration", "Women's Health Coach"],
+          "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop",
+          "description": "Specialized in helping new mothers safely recover and regain strength after childbirth, with extensive knowledge in postpartum recovery and women's health."
+        },
+        
+        "suitableFor": [
+          "New mothers 6+ weeks postpartum",
+          "Women recovering from childbirth",
+          "Mothers wanting to regain fitness",
+          "Those seeking postpartum support"
+        ],
+        
+        "prerequisites": [
+          "At least 6 weeks postpartum",
+          "Doctor's clearance for exercise",
+          "No complications from delivery",
+          "Commitment to gentle progression"
+        ],
+        
+        "equipment": [
+          "Yoga mats",
+          "Resistance bands",
+          "Light dumbbells",
+          "Exercise balls",
+          "Foam rollers",
+          "Baby-friendly space"
+        ],
+        
+        "gallery": [
+          "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+        ],
+        
+        "location": {
+          "distance": "3.5km",
+          "address": "Mom & Baby Wellness Center",
+          "facilities": [
+            "Baby-friendly training space",
+            "Nursing room",
+            "Changing facilities",
+            "Comfortable seating area",
+            "Childcare support available"
+          ]
+        },
+        
+        "participants": {
+          "count": 10,
+          "avatars": [
+            "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&h=100&fit=crop"
+          ],
+          "genderRatio": {
+            "male": 0,
+            "female": 100
+          },
+          "ageRange": "25-40 years old"
+        },
+        
+        "actionButton": {
+          "text": "Join",
+          "icon": "star_jump",
+          "status": "available"
+        }
+      },
+      
+      {
+        "id": "8",
+        "title": "🌿 Senior Health & Mobility Program",
+        "subtitle": "Gentle Exercise for Active Aging",
+        "coverImage": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop",
+        
+        "description": {
+          "overview": "A gentle, safe fitness program designed specifically for seniors aged 60 and above. Focus on maintaining mobility, improving balance, strengthening muscles, and enhancing overall health. Low-impact exercises help prevent falls, maintain independence, and promote active aging.",
+          "highlights": [
+            "Age-appropriate gentle exercises",
+            "Balance and fall prevention",
+            "Joint mobility and flexibility",
+            "Strength maintenance",
+            "Social and supportive environment"
+          ]
+        },
+        
+        "details": {
+          "duration": "12 weeks",
+          "dailyTime": "1 hour per session (9:00 AM - 10:00 AM)",
+          "location": "1.5km away",
+          "address": "Community Senior Center",
+          "maxParticipants": 15,
+          "currentParticipants": 12
+        },
+        
+        "curriculum": [
+          {
+            "week": 1,
+            "title": "Health Assessment & Gentle Start",
+            "content": [
+              "Health and fitness assessment",
+              "Range of motion evaluation",
+              "Gentle warm-up exercises",
+              "Basic movement patterns"
+            ],
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 2,
+            "title": "Balance & Stability",
+            "content": [
+              "Balance training exercises",
+              "Standing stability drills",
+              "Fall prevention techniques",
+              "Confidence building"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 3,
+            "title": "Joint Mobility",
+            "content": [
+              "Gentle joint range of motion",
+              "Flexibility exercises",
+              "Stretching routines",
+              "Comfortable movement"
+            ],
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 4,
+            "title": "Strength Building",
+            "content": [
+              "Light resistance training",
+              "Bodyweight exercises",
+              "Muscle maintenance",
+              "Functional strength"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 5,
+            "title": "Cardiovascular Health",
+            "content": [
+              "Low-impact cardio exercises",
+              "Walking programs",
+              "Heart health improvement",
+              "Endurance building"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 6,
+            "title": "Posture & Alignment",
+            "content": [
+              "Posture correction exercises",
+              "Back strengthening",
+              "Core stability",
+              "Alignment improvement"
+            ],
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 7,
+            "title": "Coordination & Agility",
+            "content": [
+              "Coordination exercises",
+              "Gentle agility drills",
+              "Reaction time training",
+              "Movement quality"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 8,
+            "title": "Flexibility & Stretching",
+            "content": [
+              "Comprehensive stretching",
+              "Yoga-inspired movements",
+              "Relaxation techniques",
+              "Stress relief"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 9,
+            "title": "Functional Movement",
+            "content": [
+              "Daily activity simulation",
+              "Functional strength training",
+              "Real-world movement patterns",
+              "Independence maintenance"
+            ],
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 10,
+            "title": "Endurance & Stamina",
+            "content": [
+              "Progressive endurance training",
+              "Stamina improvement",
+              "Energy level enhancement",
+              "Activity tolerance"
+            ],
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 11,
+            "title": "Integration & Practice",
+            "content": [
+              "Combined exercise routines",
+              "Full body integration",
+              "Movement flow",
+              "Exercise variety"
+            ],
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop"
+          },
+          {
+            "week": 12,
+            "title": "Maintenance & Home Program",
+            "content": [
+              "Final assessment and progress review",
+              "Home exercise program",
+              "Long-term maintenance plan",
+              "Community support resources"
+            ],
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop"
+          }
+        ],
+        
+        "instructor": {
+          "name": "Coach Wu",
+          "title": "Senior Fitness Specialist",
+          "experience": "11 years of teaching experience",
+          "specialty": "Senior fitness, fall prevention, active aging",
+          "certifications": ["Senior Fitness Specialist", "Fall Prevention Certification", "Exercise for Special Populations"],
+          "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+          "description": "Dedicated to helping seniors maintain independence and vitality through safe, effective exercise programs tailored to their unique needs."
+        },
+        
+        "suitableFor": [
+          "Adults aged 60 and above",
+          "Seniors wanting to maintain mobility",
+          "Those seeking fall prevention",
+          "Anyone wanting active aging support"
+        ],
+        
+        "prerequisites": [
+          "Medical clearance for exercise",
+          "Ability to stand and move independently",
+          "No serious medical contraindications",
+          "Commitment to regular attendance"
+        ],
+        
+        "equipment": [
+          "Chairs for seated exercises",
+          "Light resistance bands",
+          "Balance aids",
+          "Yoga mats",
+          "Stability balls",
+          "Walking aids if needed"
+        ],
+        
+        "gallery": [
+          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop"
+        ],
+        
+        "location": {
+          "distance": "1.5km",
+          "address": "Community Senior Center",
+          "facilities": [
+            "Accessible facility",
+            "Comfortable seating",
+            "Rest areas",
+            "Handrails and safety equipment",
+            "Parking nearby",
+            "Easy access entrance"
+          ]
+        },
+        
+        "participants": {
+          "count": 12,
+          "avatars": [
+            "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+            "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100&h=100&fit=crop"
+          ],
+          "genderRatio": {
+            "male": 45,
+            "female": 55
+          },
+          "ageRange": "60-80 years old"
+        },
+        
+        "actionButton": {
+          "text": "Join",
+          "icon": "star_jump",
+          "status": "available"
+        }
+      }
+    ]
+  }

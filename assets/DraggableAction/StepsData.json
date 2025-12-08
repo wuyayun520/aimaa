@@ -1,0 +1,1191 @@
+{
+  "trainingItems": [
+    {
+      "id": "running",
+      "title": "Running",
+      "imageUrl": "assets/DraggableAction/training_images/running.jpg",
+      "duration": "3 weeks' training",
+      "isFavorite": false,
+      "category": "Cardio",
+      "difficulty": "Beginner",
+      "description": "Running is a fundamental cardiovascular exercise that effectively improves heart and lung function, burns calories, and strengthens leg muscles.",
+      "benefits": [
+        "Improves cardiovascular health",
+        "Burns calories and aids weight loss",
+        "Strengthens leg muscles",
+        "Improves mood and reduces stress",
+        "Enhances physical endurance"
+      ],
+      "trainingMethod": {
+        "frequency": "3-4 times per week",
+        "duration": "20-45 minutes per session",
+        "intensity": "Moderate intensity",
+        "warmUp": "5-10 minutes of light walking or jogging",
+        "coolDown": "5-10 minutes of light walking and stretching"
+      },
+      "trainingSteps": {
+        "week1": {
+          "title": "Week 1: Building Foundation",
+          "description": "Adapt to running rhythm and build basic endurance",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Jog 10 minutes + brisk walk 5 minutes, repeat 2 times",
+              "tips": "Maintain a comfortable pace, don't overexert yourself"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Allow your body to fully recover"
+            },
+            {
+              "day": 3,
+              "content": "Jog 15 minutes + brisk walk 5 minutes",
+              "tips": "Gradually increase running time"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Jog 12 minutes + brisk walk 3 minutes, repeat 2 times",
+              "tips": "Maintain rhythm, focus on breathing"
+            },
+            {
+              "day": 6,
+              "content": "Easy jog 20 minutes",
+              "tips": "Enjoy the running process"
+            },
+            {
+              "day": 7,
+              "content": "Rest",
+              "tips": "Week summary, prepare for next week"
+            }
+          ]
+        },
+        "week2": {
+          "title": "Week 2: Increasing Endurance",
+          "description": "Increase running time and intensity to improve cardiovascular endurance",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Jog 20 minutes + brisk walk 3 minutes, repeat 2 times",
+              "tips": "Maintain a steady pace"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Recovery day"
+            },
+            {
+              "day": 3,
+              "content": "Continuous jog 25 minutes",
+              "tips": "Challenge continuous running time"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Interval run: fast run 2 minutes + slow jog 3 minutes, repeat 4 times",
+              "tips": "Improve speed and endurance"
+            },
+            {
+              "day": 6,
+              "content": "Easy jog 30 minutes",
+              "tips": "Long slow distance run to build endurance base"
+            },
+            {
+              "day": 7,
+              "content": "Rest",
+              "tips": "Week summary"
+            }
+          ]
+        },
+        "week3": {
+          "title": "Week 3: Consolidation and Improvement",
+          "description": "Consolidate training results and further improve running ability",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Continuous jog 30 minutes",
+              "tips": "Maintain steady rhythm"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Recovery day"
+            },
+            {
+              "day": 3,
+              "content": "Interval run: fast run 3 minutes + slow jog 2 minutes, repeat 5 times",
+              "tips": "Improve speed and cardiovascular function"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Continuous jog 35 minutes",
+              "tips": "Challenge longer continuous running time"
+            },
+            {
+              "day": 6,
+              "content": "Easy jog 25 minutes + stretching",
+              "tips": "Recovery training"
+            },
+            {
+              "day": 7,
+              "content": "Test: continuous jog 40 minutes",
+              "tips": "Test three weeks of training results"
+            }
+          ]
+        }
+      },
+      "equipment": [
+        "Running shoes",
+        "Sportswear",
+        "Sports watch (optional)"
+      ],
+      "precautions": [
+        "Choose appropriate running shoes to protect your feet",
+        "Warm up thoroughly before running",
+        "Pay attention to running posture to avoid injury",
+        "Adjust intensity according to physical condition",
+        "Maintain adequate hydration"
+      ]
+    },
+    {
+      "id": "strength_training",
+      "title": "Strength Training",
+      "imageUrl": "assets/DraggableAction/training_images/strength_training.jpg",
+      "duration": "3 weeks' training",
+      "isFavorite": true,
+      "category": "Strength",
+      "difficulty": "Intermediate",
+      "description": "Strength training can enhance muscle strength, improve body shape, increase basal metabolic rate, and is an important component of comprehensive fitness.",
+      "benefits": [
+        "Increases muscle strength and size",
+        "Raises basal metabolic rate",
+        "Improves body shape and posture",
+        "Enhances bone density",
+        "Boosts daily activity capacity"
+      ],
+      "trainingMethod": {
+        "frequency": "3-4 times per week",
+        "duration": "45-60 minutes per session",
+        "intensity": "Moderate to high intensity",
+        "warmUp": "10 minutes of dynamic warm-up and joint mobility",
+        "coolDown": "10-15 minutes of stretching and relaxation"
+      },
+      "trainingSteps": {
+        "week1": {
+          "title": "Week 1: Building Basic Strength",
+          "description": "Learn correct movements and build basic strength",
+          "sessions": [
+            {
+              "day": 1,
+              "title": "Upper Body Strength Training",
+              "content": "Dumbbell Press 3 sets × 12 reps\nDumbbell Flyes 3 sets × 12 reps\nPush-ups 3 sets × 10 reps\nTricep Extensions 3 sets × 12 reps",
+              "tips": "Choose appropriate weight, maintain proper form"
+            },
+            {
+              "day": 2,
+              "title": "Rest",
+              "content": "Full rest to allow muscle recovery",
+              "tips": "Light stretching is optional"
+            },
+            {
+              "day": 3,
+              "title": "Lower Body Strength Training",
+              "content": "Squats 3 sets × 15 reps\nLunges 3 sets × 12 reps (each leg)\nDeadlifts 3 sets × 12 reps\nCalf Raises 3 sets × 15 reps",
+              "tips": "Keep core stable"
+            },
+            {
+              "day": 4,
+              "title": "Rest",
+              "content": "Recovery day",
+              "tips": "Allow body to fully recover"
+            },
+            {
+              "day": 5,
+              "title": "Core Strength Training",
+              "content": "Plank 3 sets × 30 seconds\nCrunches 3 sets × 15 reps\nRussian Twists 3 sets × 20 reps\nLeg Raises 3 sets × 12 reps",
+              "tips": "Maintain breathing rhythm"
+            },
+            {
+              "day": 6,
+              "title": "Full Body Strength Training",
+              "content": "Squats 3 sets × 12 reps\nPush-ups 3 sets × 10 reps\nRows 3 sets × 12 reps\nPlank 3 sets × 30 seconds",
+              "tips": "Full body coordination training"
+            },
+            {
+              "day": 7,
+              "title": "Rest",
+              "content": "Week summary, prepare for next week",
+              "tips": "Evaluate this week's training results"
+            }
+          ]
+        },
+        "week2": {
+          "title": "Week 2: Increasing Intensity",
+          "description": "Increase training intensity and weight to improve muscle strength",
+          "sessions": [
+            {
+              "day": 1,
+              "title": "Upper Body Strength Training (Advanced)",
+              "content": "Dumbbell Press 4 sets × 10 reps\nDumbbell Flyes 4 sets × 10 reps\nPush-ups 4 sets × 12 reps\nTricep Extensions 4 sets × 10 reps\nPull-ups (assisted) 3 sets × 8 reps",
+              "tips": "Appropriately increase weight or reps"
+            },
+            {
+              "day": 2,
+              "title": "Rest",
+              "content": "Recovery day",
+              "tips": "Full rest"
+            },
+            {
+              "day": 3,
+              "title": "Lower Body Strength Training (Advanced)",
+              "content": "Squats 4 sets × 12 reps\nLunges 4 sets × 12 reps (each leg)\nDeadlifts 4 sets × 10 reps\nSingle Leg Squats 3 sets × 8 reps (each leg)\nCalf Raises 4 sets × 15 reps",
+              "tips": "Challenge heavier weights"
+            },
+            {
+              "day": 4,
+              "title": "Rest",
+              "content": "Recovery day",
+              "tips": "Allow muscles to recover"
+            },
+            {
+              "day": 5,
+              "title": "Core Strength Training (Advanced)",
+              "content": "Plank 4 sets × 45 seconds\nCrunches 4 sets × 20 reps\nRussian Twists 4 sets × 25 reps\nLeg Raises 4 sets × 15 reps\nSide Plank 3 sets × 30 seconds (each side)",
+              "tips": "Increase core stability training"
+            },
+            {
+              "day": 6,
+              "title": "Full Body Strength Training (Advanced)",
+              "content": "Squats 4 sets × 12 reps\nPush-ups 4 sets × 12 reps\nRows 4 sets × 12 reps\nPlank 4 sets × 45 seconds\nBurpees 3 sets × 10 reps",
+              "tips": "Improve overall strength"
+            },
+            {
+              "day": 7,
+              "title": "Rest",
+              "content": "Week summary",
+              "tips": "Evaluate progress"
+            }
+          ]
+        },
+        "week3": {
+          "title": "Week 3: Consolidation and Improvement",
+          "description": "Consolidate training results and challenge higher intensity",
+          "sessions": [
+            {
+              "day": 1,
+              "title": "Upper Body Strength Training (Expert)",
+              "content": "Dumbbell Press 4 sets × 12 reps\nDumbbell Flyes 4 sets × 12 reps\nPush-ups 4 sets × 15 reps\nTricep Extensions 4 sets × 12 reps\nPull-ups 3 sets × 10 reps\nShoulder Press 3 sets × 12 reps",
+              "tips": "Challenge maximum weight and reps"
+            },
+            {
+              "day": 2,
+              "title": "Rest",
+              "content": "Recovery day",
+              "tips": "Full rest"
+            },
+            {
+              "day": 3,
+              "title": "Lower Body Strength Training (Expert)",
+              "content": "Squats 4 sets × 15 reps\nLunges 4 sets × 15 reps (each leg)\nDeadlifts 4 sets × 12 reps\nSingle Leg Squats 4 sets × 10 reps (each leg)\nBulgarian Split Squats 3 sets × 12 reps (each leg)\nCalf Raises 4 sets × 20 reps",
+              "tips": "Comprehensively improve lower body strength"
+            },
+            {
+              "day": 4,
+              "title": "Rest",
+              "content": "Recovery day",
+              "tips": "Allow body to recover"
+            },
+            {
+              "day": 5,
+              "title": "Core Strength Training (Expert)",
+              "content": "Plank 4 sets × 60 seconds\nCrunches 4 sets × 25 reps\nRussian Twists 4 sets × 30 reps\nLeg Raises 4 sets × 20 reps\nSide Plank 4 sets × 45 seconds (each side)\nHanging Leg Raises 3 sets × 12 reps",
+              "tips": "Strengthen core stability"
+            },
+            {
+              "day": 6,
+              "title": "Full Body Strength Training (Expert)",
+              "content": "Squats 4 sets × 15 reps\nPush-ups 4 sets × 15 reps\nRows 4 sets × 15 reps\nPlank 4 sets × 60 seconds\nBurpees 4 sets × 12 reps\nKettlebell Swings 3 sets × 15 reps",
+              "tips": "Comprehensive strength training"
+            },
+            {
+              "day": 7,
+              "title": "Test Day",
+              "content": "Maximum strength test:\nSquat max weight test\nPush-up max reps test\nPlank max time test",
+              "tips": "Test three weeks of training results"
+            }
+          ]
+        }
+      },
+      "equipment": [
+        "Dumbbells",
+        "Barbell (optional)",
+        "Exercise mat",
+        "Resistance bands (optional)"
+      ],
+      "precautions": [
+        "Warm up thoroughly before training",
+        "Choose appropriate weight and progress gradually",
+        "Maintain correct movement posture",
+        "Stretch fully after training",
+        "Ensure adequate rest and nutrition",
+        "Stop immediately if feeling unwell"
+      ]
+    },
+    {
+      "id": "yoga",
+      "title": "Yoga",
+      "imageUrl": "assets/DraggableAction/training_images/yoga.jpg",
+      "duration": "3 weeks' training",
+      "isFavorite": false,
+      "category": "Flexibility",
+      "difficulty": "Beginner",
+      "description": "Yoga is a comprehensive mind-body practice that improves flexibility, balance, and mental calm through postures, breathing, and meditation.",
+      "benefits": [
+        "Improves flexibility and balance",
+        "Strengthens core muscles",
+        "Improves posture and alignment",
+        "Reduces stress and anxiety",
+        "Enhances body awareness"
+      ],
+      "trainingMethod": {
+        "frequency": "4-5 times per week",
+        "duration": "30-60 minutes per session",
+        "intensity": "Low to moderate intensity",
+        "warmUp": "5 minutes of gentle movement and breathing",
+        "coolDown": "10 minutes of relaxation and meditation"
+      },
+      "trainingSteps": {
+        "week1": {
+          "title": "Week 1: Foundation and Basics",
+          "description": "Learn basic poses and breathing techniques",
+          "sessions": [
+            {
+              "day": 1,
+              "title": "Basic Standing Poses",
+              "content": "Mountain Pose (Tadasana) 5 breaths\nWarrior I (Virabhadrasana I) 5 breaths each side\nWarrior II (Virabhadrasana II) 5 breaths each side\nTree Pose (Vrikshasana) 5 breaths each side\nDownward Dog (Adho Mukha Svanasana) 10 breaths",
+              "tips": "Focus on alignment and breathing"
+            },
+            {
+              "day": 2,
+              "title": "Seated Poses and Flexibility",
+              "content": "Easy Pose (Sukhasana) 5 minutes\nSeated Forward Fold (Paschimottanasana) 10 breaths\nButterfly Pose (Baddha Konasana) 10 breaths\nSpinal Twist (Ardha Matsyendrasana) 5 breaths each side",
+              "tips": "Move slowly and mindfully"
+            },
+            {
+              "day": 3,
+              "title": "Core and Balance",
+              "content": "Plank Pose 30 seconds\nBoat Pose (Navasana) 5 breaths\nBridge Pose (Setu Bandhasana) 10 breaths\nChild's Pose (Balasana) 10 breaths",
+              "tips": "Engage your core throughout"
+            },
+            {
+              "day": 4,
+              "title": "Restorative Practice",
+              "content": "Legs Up the Wall (Viparita Karani) 5 minutes\nReclining Twist 3 minutes each side\nCorpse Pose (Savasana) 10 minutes",
+              "tips": "Focus on relaxation and recovery"
+            },
+            {
+              "day": 5,
+              "title": "Full Body Flow",
+              "content": "Sun Salutation A - 3 rounds\nWarrior sequence\nTriangle Pose (Trikonasana) 5 breaths each side\nFinal relaxation 5 minutes",
+              "tips": "Connect movement with breath"
+            },
+            {
+              "day": 6,
+              "title": "Hip Opening and Flexibility",
+              "content": "Pigeon Pose (Eka Pada Rajakapotasana) 10 breaths each side\nLizard Pose 5 breaths each side\nHappy Baby Pose (Ananda Balasana) 10 breaths\nSeated Forward Fold 10 breaths",
+              "tips": "Be gentle with your body"
+            },
+            {
+              "day": 7,
+              "title": "Rest and Reflection",
+              "content": "Gentle stretching\nMeditation 10 minutes\nWeek reflection",
+              "tips": "Rest and prepare for next week"
+            }
+          ]
+        },
+        "week2": {
+          "title": "Week 2: Deepening Practice",
+          "description": "Deepen poses and explore more challenging sequences",
+          "sessions": [
+            {
+              "day": 1,
+              "title": "Advanced Standing Poses",
+              "content": "Warrior III (Virabhadrasana III) 5 breaths each side\nHalf Moon Pose (Ardha Chandrasana) 5 breaths each side\nExtended Side Angle (Utthita Parsvakonasana) 5 breaths each side\nStanding Forward Fold (Uttanasana) 10 breaths",
+              "tips": "Focus on balance and stability"
+            },
+            {
+              "day": 2,
+              "title": "Backbends and Heart Openers",
+              "content": "Cobra Pose (Bhujangasana) 10 breaths\nUpward Dog (Urdhva Mukha Svanasana) 5 breaths\nBow Pose (Dhanurasana) 5 breaths\nBridge Pose 10 breaths\nWheel Pose (Urdhva Dhanurasana) - preparation",
+              "tips": "Open your heart and chest"
+            },
+            {
+              "day": 3,
+              "title": "Core Strength and Balance",
+              "content": "Plank variations 3 sets × 30 seconds\nSide Plank 30 seconds each side\nBoat Pose 10 breaths\nCrow Pose (Bakasana) - practice",
+              "tips": "Build strength and stability"
+            },
+            {
+              "day": 4,
+              "title": "Hip and Hamstring Flexibility",
+              "content": "Pigeon Pose 15 breaths each side\nLizard Pose 10 breaths each side\nSeated Forward Fold 15 breaths\nReclining Hand-to-Big-Toe Pose (Supta Padangusthasana) 10 breaths each side",
+              "tips": "Deepen flexibility gradually"
+            },
+            {
+              "day": 5,
+              "title": "Sun Salutation Flow",
+              "content": "Sun Salutation A - 5 rounds\nSun Salutation B - 3 rounds\nWarrior sequence flow\nFinal relaxation 10 minutes",
+              "tips": "Flow with your breath"
+            },
+            {
+              "day": 6,
+              "title": "Inversions and Arm Balances",
+              "content": "Downward Dog variations\nDolphin Pose 10 breaths\nHeadstand preparation\nCrow Pose practice\nShoulderstand (Sarvangasana) 10 breaths",
+              "tips": "Practice with caution and support"
+            },
+            {
+              "day": 7,
+              "title": "Restorative and Meditation",
+              "content": "Restorative poses 20 minutes\nPranayama (breathing exercises) 10 minutes\nMeditation 15 minutes",
+              "tips": "Deep relaxation and reflection"
+            }
+          ]
+        },
+        "week3": {
+          "title": "Week 3: Mastery and Integration",
+          "description": "Master poses and integrate all elements into a complete practice",
+          "sessions": [
+            {
+              "day": 1,
+              "title": "Complete Standing Sequence",
+              "content": "Sun Salutation A & B - 5 rounds each\nWarrior I, II, III sequence\nHalf Moon Pose\nExtended Triangle Pose\nStanding Split\nFinal relaxation",
+              "tips": "Integrate all standing poses"
+            },
+            {
+              "day": 2,
+              "title": "Advanced Backbends",
+              "content": "Wheel Pose (Urdhva Dhanurasana) 5 breaths\nBow Pose 10 breaths\nCamel Pose (Ustrasana) 10 breaths\nFish Pose (Matsyasana) 10 breaths\nCounter poses and relaxation",
+              "tips": "Open your heart fully"
+            },
+            {
+              "day": 3,
+              "title": "Arm Balances and Inversions",
+              "content": "Crow Pose (Bakasana) 5 breaths\nSide Crow Pose 5 breaths each side\nHeadstand (Sirsasana) 10 breaths\nHandstand preparation\nShoulderstand 15 breaths",
+              "tips": "Build confidence in inversions"
+            },
+            {
+              "day": 4,
+              "title": "Deep Hip Opening",
+              "content": "Pigeon Pose variations 15 breaths each side\nLizard Pose 10 breaths each side\nFire Log Pose (Agnistambhasana) 10 breaths each side\nButterfly Pose 15 breaths\nSeated Forward Fold 15 breaths",
+              "tips": "Release tension in hips"
+            },
+            {
+              "day": 5,
+              "title": "Complete Vinyasa Flow",
+              "content": "Full Sun Salutation sequence\nWarrior flow series\nBalance poses\nBackbends\nFinal relaxation 15 minutes",
+              "tips": "Complete integrated practice"
+            },
+            {
+              "day": 6,
+              "title": "Restorative and Yin Practice",
+              "content": "Yin poses: Dragon Pose, Sphinx Pose, Seal Pose\nLegs Up the Wall 10 minutes\nReclining poses 15 minutes\nMeditation 20 minutes",
+              "tips": "Deep relaxation and recovery"
+            },
+            {
+              "day": 7,
+              "title": "Final Practice and Reflection",
+              "content": "Your choice of favorite poses\nComplete flow sequence\nPranayama 15 minutes\nMeditation 20 minutes\nThree weeks reflection",
+              "tips": "Celebrate your progress and journey"
+            }
+          ]
+        }
+      },
+      "equipment": [
+        "Yoga mat",
+        "Yoga blocks (optional)",
+        "Yoga strap (optional)",
+        "Bolster (optional)"
+      ],
+      "precautions": [
+        "Listen to your body and don't push beyond your limits",
+        "Warm up before practice",
+        "Maintain proper alignment in poses",
+        "Breathe deeply and consistently",
+        "Stay hydrated",
+        "Avoid practicing on a full stomach",
+        "Consult a doctor if you have injuries or medical conditions"
+      ]
+    },
+    {
+      "id": "hiit",
+      "title": "HIIT",
+      "imageUrl": "assets/DraggableAction/training_images/hiit.jpg",
+      "duration": "3 weeks' training",
+      "isFavorite": true,
+      "category": "Cardio",
+      "difficulty": "Intermediate",
+      "description": "High-Intensity Interval Training (HIIT) alternates between short bursts of intense exercise and brief recovery periods, maximizing calorie burn and improving cardiovascular fitness in minimal time.",
+      "benefits": [
+        "Burns calories efficiently",
+        "Improves cardiovascular fitness",
+        "Increases metabolism",
+        "Builds endurance",
+        "Time-efficient workout"
+      ],
+      "trainingMethod": {
+        "frequency": "3-4 times per week",
+        "duration": "20-30 minutes per session",
+        "intensity": "High intensity",
+        "warmUp": "5 minutes of dynamic warm-up",
+        "coolDown": "5-10 minutes of light stretching"
+      },
+      "trainingSteps": {
+        "week1": {
+          "title": "Week 1: Introduction to HIIT",
+          "description": "Learn basic HIIT patterns and build endurance",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Warm-up 5 min\n30 sec high knees + 30 sec rest, repeat 8 times\n30 sec jumping jacks + 30 sec rest, repeat 8 times\nCool-down 5 min",
+              "tips": "Focus on form, intensity will come with practice"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Allow body to recover"
+            },
+            {
+              "day": 3,
+              "content": "Warm-up 5 min\n30 sec burpees + 30 sec rest, repeat 6 times\n30 sec mountain climbers + 30 sec rest, repeat 6 times\nCool-down 5 min",
+              "tips": "Maintain steady breathing"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Warm-up 5 min\n40 sec squat jumps + 20 sec rest, repeat 8 times\n40 sec plank + 20 sec rest, repeat 6 times\nCool-down 5 min",
+              "tips": "Push yourself but maintain form"
+            },
+            {
+              "day": 6,
+              "content": "Warm-up 5 min\n20 sec sprint + 40 sec walk, repeat 10 times\nCool-down 5 min",
+              "tips": "Recovery day with light intensity"
+            },
+            {
+              "day": 7,
+              "content": "Rest",
+              "tips": "Week summary, prepare for next week"
+            }
+          ]
+        },
+        "week2": {
+          "title": "Week 2: Increasing Intensity",
+          "description": "Increase work intervals and reduce rest time",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Warm-up 5 min\n45 sec high knees + 15 sec rest, repeat 10 times\n45 sec jumping jacks + 15 sec rest, repeat 10 times\nCool-down 5 min",
+              "tips": "Shorter rest periods increase intensity"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Recovery day"
+            },
+            {
+              "day": 3,
+              "content": "Warm-up 5 min\n45 sec burpees + 15 sec rest, repeat 8 times\n45 sec mountain climbers + 15 sec rest, repeat 8 times\n45 sec plank jacks + 15 sec rest, repeat 6 times\nCool-down 5 min",
+              "tips": "Challenge yourself with longer work periods"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Warm-up 5 min\n50 sec squat jumps + 10 sec rest, repeat 10 times\n50 sec push-ups + 10 sec rest, repeat 8 times\nCool-down 5 min",
+              "tips": "Maximize effort in work periods"
+            },
+            {
+              "day": 6,
+              "content": "Warm-up 5 min\n30 sec sprint + 30 sec jog, repeat 12 times\nCool-down 5 min",
+              "tips": "Active recovery between sprints"
+            },
+            {
+              "day": 7,
+              "content": "Rest",
+              "tips": "Week summary"
+            }
+          ]
+        },
+        "week3": {
+          "title": "Week 3: Advanced HIIT",
+          "description": "Master advanced HIIT patterns and maximize performance",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Warm-up 5 min\n60 sec high knees + 20 sec rest, repeat 8 times\n60 sec jumping jacks + 20 sec rest, repeat 8 times\n60 sec burpees + 20 sec rest, repeat 6 times\nCool-down 5 min",
+              "tips": "Longer work intervals for advanced training"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Recovery day"
+            },
+            {
+              "day": 3,
+              "content": "Warm-up 5 min\nTabata: 20 sec work + 10 sec rest, repeat 8 rounds\nExercise 1: Burpees\nExercise 2: Mountain climbers\nExercise 3: Squat jumps\nExercise 4: Push-ups\nCool-down 5 min",
+              "tips": "Classic Tabata protocol for maximum intensity"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Warm-up 5 min\n60 sec squat jumps + 15 sec rest, repeat 10 times\n60 sec plank + 15 sec rest, repeat 8 times\n60 sec jumping lunges + 15 sec rest, repeat 8 times\nCool-down 5 min",
+              "tips": "Push to your maximum capacity"
+            },
+            {
+              "day": 6,
+              "content": "Warm-up 5 min\n45 sec sprint + 15 sec walk, repeat 15 times\nCool-down 5 min",
+              "tips": "Maximum sprint intervals"
+            },
+            {
+              "day": 7,
+              "content": "Test: Complete 20-minute HIIT circuit\n5 exercises, 4 rounds each\nTest your three weeks of progress",
+              "tips": "Test three weeks of training results"
+            }
+          ]
+        }
+      },
+      "equipment": [
+        "Exercise mat",
+        "Timer or stopwatch",
+        "Water bottle",
+        "Comfortable workout clothes"
+      ],
+      "precautions": [
+        "Warm up thoroughly before starting",
+        "Start with lower intensity if you're a beginner",
+        "Stay hydrated throughout the workout",
+        "Listen to your body and rest if needed",
+        "Maintain proper form to prevent injury",
+        "Cool down and stretch after each session",
+        "Consult a doctor if you have heart conditions"
+      ]
+    },
+    {
+      "id": "pilates",
+      "title": "Pilates",
+      "imageUrl": "assets/DraggableAction/training_images/pilates.jpg",
+      "duration": "3 weeks' training",
+      "isFavorite": false,
+      "category": "Flexibility",
+      "difficulty": "Beginner",
+      "description": "Pilates is a low-impact exercise method that focuses on core strength, flexibility, and body alignment through controlled movements and breathing techniques.",
+      "benefits": [
+        "Strengthens core muscles",
+        "Improves flexibility and posture",
+        "Enhances body awareness",
+        "May help with back support",
+        "Improves balance and coordination"
+      ],
+      "trainingMethod": {
+        "frequency": "4-5 times per week",
+        "duration": "30-45 minutes per session",
+        "intensity": "Low to moderate intensity",
+        "warmUp": "5 minutes of gentle movement",
+        "coolDown": "5 minutes of relaxation"
+      },
+      "trainingSteps": {
+        "week1": {
+          "title": "Week 1: Foundation and Core",
+          "description": "Learn basic Pilates principles and core exercises",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Hundred 10 breaths × 3 sets\nRoll Up 8 reps\nSingle Leg Stretch 10 reps each leg\nDouble Leg Stretch 10 reps\nCriss Cross 10 reps each side",
+              "tips": "Focus on breathing and core engagement"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Allow body to recover"
+            },
+            {
+              "day": 3,
+              "content": "Spine Stretch Forward 8 reps\nSaw 8 reps each side\nSwan Prep 8 reps\nSingle Leg Kick 10 reps each leg\nDouble Leg Kick 10 reps",
+              "tips": "Maintain spinal alignment"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Hundred 10 breaths × 3 sets\nRoll Up 10 reps\nScissors 10 reps each leg\nBicycle 10 reps each side\nShoulder Bridge 10 reps",
+              "tips": "Connect movement with breath"
+            },
+            {
+              "day": 6,
+              "content": "Spine Twist 10 reps each side\nSide Kick Series 10 reps each side\nLeg Circles 10 reps each direction\nTeaser Prep 5 reps",
+              "tips": "Focus on control and precision"
+            },
+            {
+              "day": 7,
+              "content": "Rest",
+              "tips": "Week summary, prepare for next week"
+            }
+          ]
+        },
+        "week2": {
+          "title": "Week 2: Building Strength",
+          "description": "Increase repetitions and add more challenging exercises",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Hundred 10 breaths × 4 sets\nRoll Up 12 reps\nSingle Leg Stretch 12 reps each leg\nDouble Leg Stretch 12 reps\nCriss Cross 12 reps each side\nTeaser 8 reps",
+              "tips": "Increase core strength"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Recovery day"
+            },
+            {
+              "day": 3,
+              "content": "Spine Stretch Forward 12 reps\nSaw 12 reps each side\nSwan 10 reps\nSingle Leg Kick 12 reps each leg\nDouble Leg Kick 12 reps\nSwimming 10 reps",
+              "tips": "Strengthen back extensors"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Hundred 10 breaths × 4 sets\nRoll Up 12 reps\nScissors 12 reps each leg\nBicycle 12 reps each side\nShoulder Bridge 12 reps\nLeg Pull Front 8 reps each side",
+              "tips": "Build full body strength"
+            },
+            {
+              "day": 6,
+              "content": "Spine Twist 12 reps each side\nSide Kick Series 12 reps each side\nLeg Circles 12 reps each direction\nTeaser 10 reps\nSide Plank 30 seconds each side",
+              "tips": "Improve balance and stability"
+            },
+            {
+              "day": 7,
+              "content": "Rest",
+              "tips": "Week summary"
+            }
+          ]
+        },
+        "week3": {
+          "title": "Week 3: Advanced Practice",
+          "description": "Master advanced movements and create flowing sequences",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Hundred 10 breaths × 5 sets\nRoll Up 15 reps\nSingle Leg Stretch 15 reps each leg\nDouble Leg Stretch 15 reps\nCriss Cross 15 reps each side\nTeaser 12 reps\nCorkscrew 10 reps each direction",
+              "tips": "Advanced core sequence"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Recovery day"
+            },
+            {
+              "day": 3,
+              "content": "Spine Stretch Forward 15 reps\nSaw 15 reps each side\nSwan 12 reps\nSingle Leg Kick 15 reps each leg\nDouble Leg Kick 15 reps\nSwimming 12 reps\nRocking 10 reps",
+              "tips": "Complete back extension series"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Hundred 10 breaths × 5 sets\nRoll Up 15 reps\nScissors 15 reps each leg\nBicycle 15 reps each side\nShoulder Bridge 15 reps\nLeg Pull Front 12 reps each side\nLeg Pull Back 10 reps each side",
+              "tips": "Full body integration"
+            },
+            {
+              "day": 6,
+              "content": "Spine Twist 15 reps each side\nSide Kick Series 15 reps each side\nLeg Circles 15 reps each direction\nTeaser 12 reps\nSide Plank 45 seconds each side\nStar 8 reps",
+              "tips": "Master balance and control"
+            },
+            {
+              "day": 7,
+              "content": "Complete Pilates flow sequence\nAll favorite exercises\nTest your three weeks of progress",
+              "tips": "Test three weeks of training results"
+            }
+          ]
+        }
+      },
+      "equipment": [
+        "Pilates mat",
+        "Resistance band (optional)",
+        "Pilates ball (optional)",
+        "Small weights (optional)"
+      ],
+      "precautions": [
+        "Focus on quality over quantity",
+        "Maintain proper alignment throughout",
+        "Breathe deeply and consistently",
+        "Move slowly and with control",
+        "Stop if you feel pain",
+        "Consult a doctor if you have back problems"
+      ]
+    },
+    {
+      "id": "cycling",
+      "title": "Cycling",
+      "imageUrl": "assets/DraggableAction/training_images/cycling.jpg",
+      "duration": "3 weeks' training",
+      "isFavorite": false,
+      "category": "Cardio",
+      "difficulty": "Beginner",
+      "description": "Cycling is an excellent low-impact cardiovascular exercise that strengthens leg muscles, improves endurance, and can be done both indoors and outdoors.",
+      "benefits": [
+        "Low-impact on joints",
+        "Improves cardiovascular health",
+        "Strengthens leg muscles",
+        "Burns calories effectively",
+        "Improves mental well-being"
+      ],
+      "trainingMethod": {
+        "frequency": "3-4 times per week",
+        "duration": "30-60 minutes per session",
+        "intensity": "Moderate intensity",
+        "warmUp": "5-10 minutes of easy pedaling",
+        "coolDown": "5-10 minutes of easy pedaling and stretching"
+      },
+      "trainingSteps": {
+        "week1": {
+          "title": "Week 1: Building Base",
+          "description": "Establish cycling rhythm and build basic endurance",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Easy ride 20 minutes at comfortable pace\nFocus on smooth pedaling technique",
+              "tips": "Maintain steady cadence, don't push too hard"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Allow body to recover"
+            },
+            {
+              "day": 3,
+              "content": "Easy ride 25 minutes\nInclude 3 × 2-minute moderate efforts with 2-minute recovery",
+              "tips": "Introduce light intervals"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Easy ride 30 minutes at steady pace\nFocus on maintaining consistent speed",
+              "tips": "Build endurance gradually"
+            },
+            {
+              "day": 6,
+              "content": "Easy ride 20 minutes\nInclude gentle hills or resistance changes",
+              "tips": "Recovery ride with light variation"
+            },
+            {
+              "day": 7,
+              "content": "Rest",
+              "tips": "Week summary, prepare for next week"
+            }
+          ]
+        },
+        "week2": {
+          "title": "Week 2: Increasing Distance",
+          "description": "Increase ride duration and add more intervals",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Moderate ride 35 minutes\nInclude 4 × 3-minute moderate efforts with 2-minute recovery",
+              "tips": "Increase interval duration"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Recovery day"
+            },
+            {
+              "day": 3,
+              "content": "Easy ride 40 minutes at steady pace\nFocus on maintaining cadence",
+              "tips": "Build aerobic base"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Interval ride 30 minutes\n5 × 2-minute hard efforts with 3-minute easy recovery",
+              "tips": "Higher intensity intervals"
+            },
+            {
+              "day": 6,
+              "content": "Long easy ride 45 minutes\nMaintain comfortable pace throughout",
+              "tips": "Endurance building"
+            },
+            {
+              "day": 7,
+              "content": "Rest",
+              "tips": "Week summary"
+            }
+          ]
+        },
+        "week3": {
+          "title": "Week 3: Advanced Training",
+          "description": "Challenge with longer rides and varied intensity",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Interval ride 35 minutes\n6 × 3-minute hard efforts with 2-minute recovery\nFocus on maintaining power",
+              "tips": "Advanced interval training"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Recovery day"
+            },
+            {
+              "day": 3,
+              "content": "Tempo ride 45 minutes\n20 minutes at moderate-hard pace in the middle",
+              "tips": "Sustained effort training"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Hill intervals 40 minutes\n8 × 1-minute hill efforts with 2-minute recovery\nOr resistance intervals if indoors",
+              "tips": "Power and strength building"
+            },
+            {
+              "day": 6,
+              "content": "Long ride 50-60 minutes\nMaintain steady pace, enjoy the ride",
+              "tips": "Maximum endurance challenge"
+            },
+            {
+              "day": 7,
+              "content": "Test: 30-minute time trial\nRide at your best effort for 30 minutes\nTest your three weeks of progress",
+              "tips": "Test three weeks of training results"
+            }
+          ]
+        }
+      },
+      "equipment": [
+        "Bicycle (road, mountain, or stationary)",
+        "Helmet (for outdoor cycling)",
+        "Cycling shorts (optional)",
+        "Water bottle",
+        "Cycling shoes (optional)"
+      ],
+      "precautions": [
+        "Always wear a helmet when cycling outdoors",
+        "Check your bike before each ride",
+        "Start with shorter distances",
+        "Stay hydrated during long rides",
+        "Be aware of traffic and road conditions",
+        "Adjust bike seat height properly",
+        "Warm up and cool down properly"
+      ]
+    },
+    {
+      "id": "boxing",
+      "title": "Boxing",
+      "imageUrl": "assets/DraggableAction/training_images/boxing.jpg",
+      "duration": "3 weeks' training",
+      "isFavorite": true,
+      "category": "Cardio",
+      "difficulty": "Intermediate",
+      "description": "Boxing training combines cardiovascular exercise with strength training, improving coordination, agility, and overall fitness through punching combinations and footwork.",
+      "benefits": [
+        "Improves cardiovascular fitness",
+        "Enhances coordination and agility",
+        "Builds upper body strength",
+        "Releases stress and tension",
+        "Improves reflexes and reaction time"
+      ],
+      "trainingMethod": {
+        "frequency": "3-4 times per week",
+        "duration": "30-45 minutes per session",
+        "intensity": "High intensity",
+        "warmUp": "10 minutes of light movement and shadow boxing",
+        "coolDown": "10 minutes of stretching"
+      },
+      "trainingSteps": {
+        "week1": {
+          "title": "Week 1: Fundamentals",
+          "description": "Learn basic boxing stance, punches, and footwork",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Warm-up 10 min\nBasic stance and footwork 10 min\nJab practice 5 min\nCross practice 5 min\nShadow boxing 5 min\nCool-down 10 min",
+              "tips": "Focus on proper form and technique"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Allow body to recover"
+            },
+            {
+              "day": 3,
+              "content": "Warm-up 10 min\nHook practice 5 min\nUppercut practice 5 min\nJab-Cross combination 10 min\nShadow boxing 5 min\nCool-down 10 min",
+              "tips": "Master basic punches"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Warm-up 10 min\nFootwork drills 10 min\nJab-Cross-Hook combination 10 min\nBag work (if available) 5 min\nShadow boxing 5 min\nCool-down 10 min",
+              "tips": "Combine punches with movement"
+            },
+            {
+              "day": 6,
+              "content": "Warm-up 10 min\nDefensive movements 10 min\nAll basic combinations 10 min\nShadow boxing 10 min\nCool-down 10 min",
+              "tips": "Practice defense and offense"
+            },
+            {
+              "day": 7,
+              "content": "Rest",
+              "tips": "Week summary, prepare for next week"
+            }
+          ]
+        },
+        "week2": {
+          "title": "Week 2: Building Combinations",
+          "description": "Develop punch combinations and increase intensity",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Warm-up 10 min\nAdvanced footwork 10 min\nJab-Cross-Hook-Uppercut combo 10 min\nBag work 10 min\nShadow boxing 5 min\nCool-down 10 min",
+              "tips": "Increase combination complexity"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Recovery day"
+            },
+            {
+              "day": 3,
+              "content": "Warm-up 10 min\nSpeed bag or pad work 10 min\nMultiple combinations 15 min\nDefensive drills 5 min\nShadow boxing 5 min\nCool-down 10 min",
+              "tips": "Improve speed and accuracy"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Warm-up 10 min\nInterval bag work: 3 min work, 1 min rest × 5 rounds\nShadow boxing 5 min\nCool-down 10 min",
+              "tips": "Build endurance and power"
+            },
+            {
+              "day": 6,
+              "content": "Warm-up 10 min\nFootwork and movement drills 10 min\nComplex combinations 15 min\nDefensive and counter-attack practice 5 min\nCool-down 10 min",
+              "tips": "Advanced technique practice"
+            },
+            {
+              "day": 7,
+              "content": "Rest",
+              "tips": "Week summary"
+            }
+          ]
+        },
+        "week3": {
+          "title": "Week 3: Advanced Training",
+          "description": "Master advanced combinations and maximize performance",
+          "sessions": [
+            {
+              "day": 1,
+              "content": "Warm-up 10 min\nAdvanced footwork patterns 10 min\nComplex 6-8 punch combinations 15 min\nHeavy bag work 10 min\nShadow boxing 5 min\nCool-down 10 min",
+              "tips": "Master advanced techniques"
+            },
+            {
+              "day": 2,
+              "content": "Rest or light stretching",
+              "tips": "Recovery day"
+            },
+            {
+              "day": 3,
+              "content": "Warm-up 10 min\nSpeed and agility drills 10 min\nInterval training: 3 min rounds × 6 with 1 min rest\nShadow boxing 5 min\nCool-down 10 min",
+              "tips": "Maximum intensity intervals"
+            },
+            {
+              "day": 4,
+              "content": "Rest",
+              "tips": "Full rest day"
+            },
+            {
+              "day": 5,
+              "content": "Warm-up 10 min\nDefensive and counter-attack combinations 15 min\nPower punching drills 10 min\nBag work 10 min\nCool-down 10 min",
+              "tips": "Complete boxing skills"
+            },
+            {
+              "day": 6,
+              "content": "Warm-up 10 min\nFull boxing circuit: combinations, footwork, defense 20 min\nShadow boxing 10 min\nCool-down 10 min",
+              "tips": "Complete integrated practice"
+            },
+            {
+              "day": 7,
+              "content": "Test: 3-minute rounds × 5\nFull intensity boxing rounds\nTest your three weeks of progress",
+              "tips": "Test three weeks of training results"
+            }
+          ]
+        }
+      },
+      "equipment": [
+        "Boxing gloves",
+        "Hand wraps",
+        "Punching bag (optional)",
+        "Jump rope (optional)",
+        "Focus mitts (optional)"
+      ],
+      "precautions": [
+        "Always wrap your hands before training",
+        "Warm up thoroughly",
+        "Start with light intensity",
+        "Maintain proper form to prevent injury",
+        "Stay hydrated",
+        "Use proper equipment",
+        "Consult a doctor if you have hand or wrist injuries"
+      ]
+    }
+  ]
+}
