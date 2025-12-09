@@ -7,11 +7,24 @@
 
 
 import UIKit
+import SafariServices
 
 public class VerificationCodeVC: UIViewController {
     
     public var Login1EndBlock: (() -> Void)?
     public var Login2EndBlock: (() -> Void)?
+    
+    // 协议同意状态
+    private var isAgreedToTerms: Bool = false {
+        didSet {
+            updateAgreementCheckbox()
+            updateButtonStates()
+        }
+    }
+    
+    // 协议链接
+    private let privacyPolicyURL = "https://www.privacypolicies.com/live/e25fe7ca-87e2-47dc-bc69-e603e7a2cfa0"
+    private let termsOfServiceURL = "https://www.privacypolicies.com/live/c274586a-e42b-418b-bb48-e26cc5fe26f2"
     public init() {
         super.init(nibName: nil, bundle: nil)
     }
@@ -108,20 +121,139 @@ public class VerificationCodeVC: UIViewController {
         btn.addTarget(self, action: #selector(skiyBtnClick), for: .touchUpInside)
         return btn
     }()
+    
+    // 协议同意复选框
+    lazy var agreementCheckbox: UIButton = {
+        let btn = UIButton(type: .custom)
+        btn.frame = CGRect(x: 0, y: 0, width: 24, height: 24)
+        btn.layer.borderWidth = 2
+        btn.layer.borderColor = UIColor.init(red: 200/255.0, green: 200/255.0, blue: 200/255.0, alpha: 1.0).cgColor
+        btn.layer.cornerRadius = 12
+        btn.backgroundColor = .clear
+        btn.addTarget(self, action: #selector(agreementCheckboxTapped), for: .touchUpInside)
+        return btn
+    }()
+    
+    // 协议文本视图
+    lazy var agreementTextView: UITextView = {
+        let textView = UITextView()
+        textView.isEditable = false
+        textView.isScrollEnabled = false
+        textView.backgroundColor = .clear
+        textView.textContainerInset = UIEdgeInsets.zero
+        textView.textContainer.lineFragmentPadding = 0
+        textView.delegate = self
+        
+        // 创建可点击的协议文本
+        let normalText = "I have read and agree "
+        let termsText = "Terms of Service"
+        let andText = " and "
+        let privacyText = "Privacy Policy"
+        
+        let fullText = normalText + termsText + andText + privacyText
+        let attributedString = NSMutableAttributedString(string: fullText)
+        
+        // 设置基础样式
+        let baseFont = UIFont.init(name: "PingFangSC-Regular", size: 12) ?? UIFont.systemFont(ofSize: 12)
+        let baseColor = UIColor.init(red: 150/255.0, green: 150/255.0, blue: 150/255.0, alpha: 1.0)
+        attributedString.addAttributes([
+            .font: baseFont,
+            .foregroundColor: baseColor
+        ], range: NSRange(location: 0, length: fullText.count))
+        
+        // 设置 Terms of Service 链接样式
+        let termsRange = (fullText as NSString).range(of: termsText)
+        attributedString.addAttributes([
+            .foregroundColor: UIColor.systemBlue,
+            .underlineStyle: NSUnderlineStyle.single.rawValue,
+            .link: termsOfServiceURL
+        ], range: termsRange)
+        
+        // 设置 Privacy Policy 链接样式
+        let privacyRange = (fullText as NSString).range(of: privacyText)
+        attributedString.addAttributes([
+            .foregroundColor: UIColor.systemBlue,
+            .underlineStyle: NSUnderlineStyle.single.rawValue,
+            .link: privacyPolicyURL
+        ], range: privacyRange)
+        
+        textView.attributedText = attributedString
+        return textView
+    }()
 }
 
 extension VerificationCodeVC {
     
     @objc private func skiyBtnClick() {
+        // 检查是否同意协议
+        guard isAgreedToTerms else {
+            showAgreementRequiredAlert()
+            return
+        }
         self.Login1EndBlock?()
     }
     
     @objc private func commitButtonClick() {
+        // 检查是否同意协议
+        guard isAgreedToTerms else {
+            showAgreementRequiredAlert()
+            return
+        }
+        
         if inviteCodeInputView.text?.count ?? 0 <= 6 && UIDevice.current.userInterfaceIdiom != .pad {
             
         } else {
             self.Login1EndBlock?()
         }
+    }
+    
+    @objc private func agreementCheckboxTapped() {
+        isAgreedToTerms.toggle()
+    }
+    
+    private func updateAgreementCheckbox() {
+        if isAgreedToTerms {
+            agreementCheckbox.backgroundColor = UIColor.init(red: 185/255.0, green: 122/255.0, blue: 248/255.0, alpha: 1.0)
+            agreementCheckbox.layer.borderColor = UIColor.init(red: 185/255.0, green: 122/255.0, blue: 248/255.0, alpha: 1.0).cgColor
+            
+            // 添加勾选标记
+            let checkmark = UIImageView(image: UIImage(systemName: "checkmark"))
+            checkmark.tintColor = .white
+            checkmark.frame = CGRect(x: 4, y: 4, width: 16, height: 16)
+            checkmark.tag = 999
+            agreementCheckbox.subviews.forEach { if $0.tag == 999 { $0.removeFromSuperview() } }
+            agreementCheckbox.addSubview(checkmark)
+        } else {
+            agreementCheckbox.backgroundColor = .clear
+            agreementCheckbox.layer.borderColor = UIColor.init(red: 200/255.0, green: 200/255.0, blue: 200/255.0, alpha: 1.0).cgColor
+            agreementCheckbox.subviews.forEach { if $0.tag == 999 { $0.removeFromSuperview() } }
+        }
+    }
+    
+    private func updateButtonStates() {
+        // 如果已同意协议，根据输入框内容更新按钮状态
+        if isAgreedToTerms {
+            func__checkFinishBtnState()
+        } else {
+            commitButton.isEnabled = false
+        }
+    }
+    
+    private func showAgreementRequiredAlert() {
+        let alert = UIAlertController(
+            title: "Agreement Required",
+            message: "Please read and agree to the Terms of Service and Privacy Policy to continue.",
+            preferredStyle: .alert
+        )
+        alert.addAction(UIAlertAction(title: "OK", style: .default))
+        present(alert, animated: true)
+    }
+    
+    private func openURL(_ urlString: String) {
+        guard let url = URL(string: urlString) else { return }
+        let safariVC = SFSafariViewController(url: url)
+        safariVC.preferredControlTintColor = UIColor.init(red: 185/255.0, green: 122/255.0, blue: 248/255.0, alpha: 1.0)
+        present(safariVC, animated: true)
     }
 }
 
@@ -143,12 +275,22 @@ extension VerificationCodeVC: UITextFieldDelegate {
     }
 }
 
+// MARK: - UITextViewDelegate
+extension VerificationCodeVC: UITextViewDelegate {
+    public func textView(_ textView: UITextView, shouldInteractWith URL: URL, in characterRange: NSRange, interaction: UITextItemInteraction) -> Bool {
+        // 打开链接
+        openURL(URL.absoluteString)
+        return false
+    }
+}
+
 // MARK: - Public Event
 extension VerificationCodeVC {
 
     private func func__checkFinishBtnState() {
-        
-        self.commitButton.isEnabled = inviteCodeInputView.text?.count ?? 0 > 1
+        // 必须同时满足：已同意协议 且 输入框有内容
+        let hasText = inviteCodeInputView.text?.count ?? 0 > 1
+        self.commitButton.isEnabled = isAgreedToTerms && hasText
     }
     
     @objc func keyboardWillShow(notification: Notification) {
@@ -181,24 +323,39 @@ extension VerificationCodeVC {
         bootomView.addSubview(inviteCodeInputView)
         bootomView.addSubview(commitButton)
         bootomView.addSubview(skiyBtn)
+        bootomView.addSubview(agreementCheckbox)
+        bootomView.addSubview(agreementTextView)
         
     }
     // 添加约束
     private func setupSubViewsConstraint() {
+        let screenWidth = UIScreen.main.bounds.size.width
+        let screenHeight = UIScreen.main.bounds.size.height
         
-        logoBGView.frame = CGRect(x: 0, y: 0, width: UIScreen.main.bounds.size.width, height: UIScreen.main.bounds.size.height)
+        logoBGView.frame = CGRect(x: 0, y: 0, width: screenWidth, height: screenHeight)
       
-        logoView.frame = CGRect(x: (UIScreen.main.bounds.size.width-77)/2, y: 120, width: 77, height: 77)
+        logoView.frame = CGRect(x: (screenWidth-77)/2, y: 120, width: 77, height: 77)
         
-        bootomView.frame = CGRect(x: 0, y: UIScreen.main.bounds.size.height-314, width: UIScreen.main.bounds.size.width, height: 314)
+        // 增加底部视图高度以容纳协议同意区域
+        bootomView.frame = CGRect(x: 0, y: screenHeight-364, width: screenWidth, height: 364)
        
         titleLB.frame = CGRect(x: 29, y: 24, width: 200, height: 21)
        
-        inviteCodeInputView.frame = CGRect(x: 30, y: 61, width: (UIScreen.main.bounds.size.width-60), height: 50)
+        inviteCodeInputView.frame = CGRect(x: 30, y: 61, width: (screenWidth-60), height: 50)
         
-        commitButton.frame = CGRect(x: 30, y: 135, width: (UIScreen.main.bounds.size.width-60), height: 50)
+        commitButton.frame = CGRect(x: 30, y: 135, width: (screenWidth-60), height: 50)
        
-        skiyBtn.frame = CGRect(x: 30, y: 201, width: (UIScreen.main.bounds.size.width-60), height: 50)
+        skiyBtn.frame = CGRect(x: 30, y: 201, width: (screenWidth-60), height: 50)
+        
+        // 协议复选框位置
+        agreementCheckbox.frame = CGRect(x: 30, y: 267, width: 24, height: 24)
+        
+        // 协议文本视图位置（在复选框右侧）
+        let agreementTextX: CGFloat = 62
+        let agreementTextY: CGFloat = 265
+        let agreementTextWidth: CGFloat = screenWidth - agreementTextX - 30
+        let agreementTextHeight: CGFloat = 50
+        agreementTextView.frame = CGRect(x: agreementTextX, y: agreementTextY, width: agreementTextWidth, height: agreementTextHeight)
 
     }
     

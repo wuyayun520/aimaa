@@ -13,12 +13,6 @@ import AppTrackingTransparency
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
     ) -> Bool {
         
-        DispatchQueue.main.asyncAfter(deadline: .now() + 5.66) {
-            if #available(iOS 14, *) {
-                ATTrackingManager.requestTrackingAuthorization { status in
-                }
-            }
-        }
         if Int(Date().timeIntervalSince1970) < 862 {
             ExtendGetxGeometricModel()
         }
@@ -46,6 +40,12 @@ import AppTrackingTransparency
             let flutterViewController = FlutterViewController(engine: flutterEngine, nibName: nil, bundle: nil)
             self.window.rootViewController = flutterViewController
             self.window.makeKeyAndVisible()
+            
+            // 在 Flutter 视图显示后立即请求 App Tracking Transparency 权限
+            // 这确保权限请求在应用主界面显示后立即出现，符合 Apple 审核要求
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+                self.requestTrackingAuthorization()
+            }
         }
         //: vc.Login2EndBlock = { [weak self] in
 //        vc.Login2EndBlock = { [weak self] in
@@ -61,6 +61,33 @@ import AppTrackingTransparency
         return true
         
         
+    }
+    
+    // MARK: - App Tracking Transparency
+    /// 请求 App Tracking Transparency 权限
+    /// 根据 Apple 指南，权限请求应该在应用启动后尽快显示，在收集任何可用于跟踪的数据之前
+    private func requestTrackingAuthorization() {
+        if #available(iOS 14, *) {
+            // 检查授权状态，只有在未确定状态时才请求
+            let status = ATTrackingManager.trackingAuthorizationStatus
+            if status == .notDetermined {
+                ATTrackingManager.requestTrackingAuthorization { status in
+                    // 处理授权结果（可选）
+                    switch status {
+                    case .authorized:
+                        print("App Tracking Transparency: Authorized")
+                    case .denied:
+                        print("App Tracking Transparency: Denied")
+                    case .restricted:
+                        print("App Tracking Transparency: Restricted")
+                    case .notDetermined:
+                        print("App Tracking Transparency: Not Determined")
+                    @unknown default:
+                        print("App Tracking Transparency: Unknown status")
+                    }
+                }
+            }
+        }
     }
     
 }
