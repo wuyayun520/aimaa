@@ -128,35 +128,42 @@ class _TrainingDetailScreenState extends State<TrainingDetailScreen> {
     
     final trainingSteps = training['trainingSteps'] as Map<String, dynamic>?;
     if (trainingSteps != null) {
-      buffer.writeln('Training Plan:');
-      trainingSteps.forEach((weekKey, weekData) {
-        final week = weekData as Map<String, dynamic>;
-        buffer.writeln('${week['title']}');
-        if (week['description'] != null) {
-          buffer.writeln('${week['description']}');
-        }
+      buffer.writeln('Training Steps:');
+      final sortedSteps = trainingSteps.entries.toList()
+        ..sort((a, b) {
+          final stepA = a.value as Map<String, dynamic>;
+          final stepB = b.value as Map<String, dynamic>;
+          final numA = stepA['stepNumber'] as int? ?? 0;
+          final numB = stepB['stepNumber'] as int? ?? 0;
+          return numA.compareTo(numB);
+        });
+      
+      for (var entry in sortedSteps) {
+        final step = entry.value as Map<String, dynamic>;
+        final stepNumber = step['stepNumber'] ?? '';
+        final title = step['title'] ?? '';
+        final description = step['description'] ?? '';
+        final duration = step['duration'] ?? '';
+        final instructions = step['instructions'] as List<dynamic>?;
         
-        final sessions = week['sessions'] as List<dynamic>?;
-        if (sessions != null) {
-          for (var session in sessions) {
-            final sessionData = session as Map<String, dynamic>;
-            final day = sessionData['day'] ?? '';
-            final title = sessionData['title'] ?? '';
-            final content = sessionData['content'] ?? '';
-            
-            if (day != '') {
-              buffer.writeln('Day $day');
-            }
-            if (title != '') {
-              buffer.writeln('$title');
-            }
-            if (content != '') {
-              buffer.writeln('$content');
-            }
-            buffer.writeln('');
+        if (stepNumber != '') {
+          buffer.writeln('Step $stepNumber: $title');
+        } else {
+          buffer.writeln('$title');
+        }
+        if (duration != '') {
+          buffer.writeln('Duration: $duration');
+        }
+        if (description != '') {
+          buffer.writeln('$description');
+        }
+        if (instructions != null && instructions.isNotEmpty) {
+          for (var instruction in instructions) {
+            buffer.writeln('• $instruction');
           }
         }
-      });
+        buffer.writeln('');
+      }
     }
     
     return buffer.toString();
@@ -165,8 +172,7 @@ class _TrainingDetailScreenState extends State<TrainingDetailScreen> {
   Future<void> _loadTrainingDetail() async {
     try {
       final String jsonString = await rootBundle.loadString('assets/DraggableAction/StepsData.json');
-      final Map<String, dynamic> jsonData = json.decode(jsonString);
-      final List<dynamic> itemsJson = jsonData['trainingItems'] as List<dynamic>;
+      final List<dynamic> itemsJson = json.decode(jsonString) as List<dynamic>;
       
       final training = itemsJson.firstWhere(
         (item) => (item as Map<String, dynamic>)['id'] == widget.trainingId,
@@ -246,6 +252,66 @@ class _TrainingDetailScreenState extends State<TrainingDetailScreen> {
     if (result != null) {
       await _submitReport(result);
     }
+  }
+
+  void _showImagePreview(String imageUrl) {
+    showDialog(
+      context: context,
+      barrierColor: Colors.black87,
+      builder: (BuildContext context) {
+        return Dialog(
+          backgroundColor: Colors.transparent,
+          insetPadding: EdgeInsets.zero,
+          child: Stack(
+            children: [
+              Center(
+                child: InteractiveViewer(
+                  minScale: 0.5,
+                  maxScale: 3.0,
+                  child: Image.asset(
+                    imageUrl,
+                    fit: BoxFit.contain,
+                    errorBuilder: (context, error, stackTrace) {
+                      return Container(
+                        width: 300,
+                        height: 300,
+                        color: Colors.grey[800],
+                        child: const Center(
+                          child: Icon(
+                            Icons.error_outline,
+                            color: Colors.white,
+                            size: 50,
+                          ),
+                        ),
+                      );
+                    },
+                  ),
+                ),
+              ),
+              Positioned(
+                top: MediaQuery.of(context).padding.top + 10,
+                right: 10,
+                child: IconButton(
+                  icon: Container(
+                    padding: const EdgeInsets.all(8),
+                    decoration: BoxDecoration(
+                      color: Colors.black54,
+                      shape: BoxShape.circle,
+                    ),
+                    child: const Icon(
+                      Icons.close,
+                      color: Colors.white,
+                      size: 24,
+                    ),
+                  ),
+                  onPressed: () => Navigator.of(context).pop(),
+                ),
+              ),
+            ],
+          ),
+        );
+      },
+    );
   }
 
   Future<void> _submitReport(String reason) async {
@@ -459,18 +525,14 @@ class _TrainingDetailScreenState extends State<TrainingDetailScreen> {
                   ],
                   if (trainingSteps != null && trainingSteps.isNotEmpty) ...[
                     const Text(
-                      'Training Plan',
+                      'Training Steps',
                       style: TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
                     const SizedBox(height: 12),
-                    ...trainingSteps.entries.map((entry) {
-                      final weekKey = entry.key;
-                      final weekData = entry.value as Map<String, dynamic>;
-                      return _buildWeekCard(weekKey, weekData);
-                    }),
+                    ..._buildTrainingSteps(trainingSteps),
                     const SizedBox(height: 20),
                   ],
                   if (equipment != null && equipment.isNotEmpty) ...[
@@ -631,154 +693,204 @@ class _TrainingDetailScreenState extends State<TrainingDetailScreen> {
     );
   }
 
-  Widget _buildWeekCard(String weekKey, Map<String, dynamic> weekData) {
-    final title = weekData['title'] as String? ?? '';
-    final description = weekData['description'] as String? ?? '';
-    final sessions = weekData['sessions'] as List<dynamic>?;
+  List<Widget> _buildTrainingSteps(Map<String, dynamic> trainingSteps) {
+    final sortedSteps = trainingSteps.entries.toList()
+      ..sort((a, b) {
+        final stepA = a.value as Map<String, dynamic>;
+        final stepB = b.value as Map<String, dynamic>;
+        final numA = stepA['stepNumber'] as int? ?? 0;
+        final numB = stepB['stepNumber'] as int? ?? 0;
+        return numA.compareTo(numB);
+      });
+    
+    return sortedSteps.map((entry) {
+      final step = entry.value as Map<String, dynamic>;
+      return _buildStepCard(step);
+    }).toList();
+  }
+
+  Widget _buildStepCard(Map<String, dynamic> step) {
+    final stepNumber = step['stepNumber'] as int? ?? 0;
+    final title = step['title'] as String? ?? '';
+    final description = step['description'] as String? ?? '';
+    final duration = step['duration'] as String?;
+    final imageUrl = step['imageUrl'] as String?;
+    final instructions = step['instructions'] as List<dynamic>?;
 
     return Container(
       margin: const EdgeInsets.only(bottom: 16),
-      padding: const EdgeInsets.all(16),
-      decoration: BoxDecoration(
-        color: Colors.grey[50],
-        borderRadius: BorderRadius.circular(12),
-        border: Border.all(color: Colors.grey[200]!),
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Text(
-            title,
-            style: const TextStyle(
-              fontSize: 18,
-              fontWeight: FontWeight.bold,
-            ),
-          ),
-          if (description.isNotEmpty) ...[
-            const SizedBox(height: 8),
-            Text(
-              description,
-              style: TextStyle(
-                fontSize: 14,
-                color: Colors.grey[600],
-              ),
-            ),
-          ],
-          if (sessions != null && sessions.isNotEmpty) ...[
-            const SizedBox(height: 16),
-            ...sessions.asMap().entries.map((entry) {
-              final index = entry.key;
-              final session = entry.value as Map<String, dynamic>;
-              return _buildSessionItem(index + 1, session);
-            }),
-          ],
-        ],
-      ),
-    );
-  }
-
-  Widget _buildSessionItem(int day, Map<String, dynamic> session) {
-    final title = session['title'] as String?;
-    final content = session['content'] as String? ?? '';
-    final tips = session['tips'] as String?;
-
-    return Container(
-      margin: const EdgeInsets.only(bottom: 12),
-      padding: const EdgeInsets.all(12),
       decoration: BoxDecoration(
         color: Colors.white,
-        borderRadius: BorderRadius.circular(8),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.grey[200]!),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(0.05),
+            blurRadius: 4,
+            offset: const Offset(0, 2),
+          ),
+        ],
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Row(
-            children: [
-              Container(
-                width: 50,
-                height: 50,
-                decoration: BoxDecoration(
-                  color: Theme.of(context).colorScheme.primary,
-                  shape: BoxShape.circle,
+          // Step image
+          if (imageUrl != null && imageUrl.isNotEmpty)
+            GestureDetector(
+              onTap: () => _showImagePreview(imageUrl),
+              child: ClipRRect(
+                borderRadius: const BorderRadius.only(
+                  topLeft: Radius.circular(12),
+                  topRight: Radius.circular(12),
                 ),
-                child: Center(
-                  child: Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: [
-                      const Text(
-                        'Day',
-                        style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 10,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                      Text(
-                        '$day',
-                        style: const TextStyle(
-                          color: Colors.white,
-                          fontSize: 18,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                    ],
-                  ),
-                ),
-              ),
-              if (title != null) ...[
-                const SizedBox(width: 12),
-                Expanded(
-                  child: Text(
-                    title,
-                    style: const TextStyle(
-                      fontSize: 16,
-                      fontWeight: FontWeight.bold,
+                child: Stack(
+                  children: [
+                    Image.asset(
+                      imageUrl,
+                      width: double.infinity,
+                      height: 200,
+                      fit: BoxFit.cover,
+                      errorBuilder: (context, error, stackTrace) {
+                        return Container(
+                          height: 200,
+                          color: Colors.grey[200],
+                          child: const Center(
+                            child: Icon(Icons.fitness_center, color: Colors.grey, size: 40),
+                          ),
+                        );
+                      },
                     ),
-                  ),
-                ),
-              ],
-            ],
-          ),
-          const SizedBox(height: 8),
-          Text(
-            content,
-            style: TextStyle(
-              fontSize: 14,
-              color: Colors.grey[700],
-              height: 1.5,
-            ),
-          ),
-          if (tips != null && tips.isNotEmpty) ...[
-            const SizedBox(height: 8),
-            Container(
-              padding: const EdgeInsets.all(8),
-              decoration: BoxDecoration(
-                color: Theme.of(context).colorScheme.primary.withOpacity(0.1),
-                borderRadius: BorderRadius.circular(6),
-              ),
-              child: Row(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Icon(
-                    Icons.lightbulb_outline,
-                    size: 16,
-                    color: Theme.of(context).colorScheme.primary,
-                  ),
-                  const SizedBox(width: 8),
-                  Expanded(
-                    child: Text(
-                      tips,
-                      style: TextStyle(
-                        fontSize: 12,
-                        color: Theme.of(context).colorScheme.primary,
-                        fontStyle: FontStyle.italic,
+                    Positioned.fill(
+                      child: Container(
+                        decoration: BoxDecoration(
+                          gradient: LinearGradient(
+                            begin: Alignment.topCenter,
+                            end: Alignment.bottomCenter,
+                            colors: [
+                              Colors.transparent,
+                              Colors.black.withOpacity(0.1),
+                            ],
+                          ),
+                        ),
+                        child: const Center(
+                          child: Icon(
+                            Icons.zoom_in,
+                            color: Colors.white,
+                            size: 32,
+                          ),
+                        ),
                       ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          Padding(
+            padding: const EdgeInsets.all(16),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  children: [
+                    Container(
+                      width: 40,
+                      height: 40,
+                      decoration: BoxDecoration(
+                        color: Theme.of(context).colorScheme.primary,
+                        shape: BoxShape.circle,
+                      ),
+                      child: Center(
+                        child: Text(
+                          '$stepNumber',
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ),
+                    ),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            title,
+                            style: const TextStyle(
+                              fontSize: 18,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                          if (duration != null && duration.isNotEmpty) ...[
+                            const SizedBox(height: 4),
+                            Text(
+                              duration,
+                              style: TextStyle(
+                                fontSize: 12,
+                                color: Colors.grey[600],
+                              ),
+                            ),
+                          ],
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
+                if (description.isNotEmpty) ...[
+                  const SizedBox(height: 12),
+                  Text(
+                    description,
+                    style: TextStyle(
+                      fontSize: 14,
+                      color: Colors.grey[700],
+                      height: 1.5,
                     ),
                   ),
                 ],
-              ),
+                if (instructions != null && instructions.isNotEmpty) ...[
+                  const SizedBox(height: 12),
+                  const Text(
+                    'Instructions:',
+                    style: TextStyle(
+                      fontSize: 14,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  ...instructions.map((instruction) {
+                    return Padding(
+                      padding: const EdgeInsets.only(bottom: 6),
+                      child: Row(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Container(
+                            width: 6,
+                            height: 6,
+                            margin: const EdgeInsets.only(top: 6, right: 8),
+                            decoration: BoxDecoration(
+                              color: Theme.of(context).colorScheme.primary,
+                              shape: BoxShape.circle,
+                            ),
+                          ),
+                          Expanded(
+                            child: Text(
+                              instruction as String,
+                              style: TextStyle(
+                                fontSize: 13,
+                                color: Colors.grey[700],
+                                height: 1.4,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    );
+                  }),
+                ],
+              ],
             ),
-          ],
+          ),
         ],
       ),
     );

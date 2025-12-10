@@ -27,8 +27,7 @@ class _FitnessTabState extends State<FitnessTab> {
   Future<void> _loadTrainingItems() async {
     try {
       final String jsonString = await rootBundle.loadString('assets/DraggableAction/StepsData.json');
-      final Map<String, dynamic> jsonData = json.decode(jsonString);
-      final List<dynamic> itemsJson = jsonData['trainingItems'] as List<dynamic>;
+      final List<dynamic> itemsJson = json.decode(jsonString) as List<dynamic>;
       
       setState(() {
         _trainingItems = itemsJson

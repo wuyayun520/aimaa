@@ -1,9 +1,8 @@
-{
-  "trainingItems": [
+[
     {
       "id": "running",
       "title": "Running",
-      "imageUrl": "assets/DraggableAction/training_images/running.jpg",
+    "imageUrl": "assets/DraggableAction/ExerciseSteps/Running/Running1.png",
       "duration": "3 weeks' training",
       "isFavorite": false,
       "category": "Cardio",
@@ -24,127 +23,134 @@
         "coolDown": "5-10 minutes of light walking and stretching"
       },
       "trainingSteps": {
-        "week1": {
-          "title": "Week 1: Building Foundation",
-          "description": "Adapt to running rhythm and build basic endurance",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Jog 10 minutes + brisk walk 5 minutes, repeat 2 times",
-              "tips": "Maintain a comfortable pace, don't overexert yourself"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Allow your body to fully recover"
-            },
-            {
-              "day": 3,
-              "content": "Jog 15 minutes + brisk walk 5 minutes",
-              "tips": "Gradually increase running time"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Jog 12 minutes + brisk walk 3 minutes, repeat 2 times",
-              "tips": "Maintain rhythm, focus on breathing"
-            },
-            {
-              "day": 6,
-              "content": "Easy jog 20 minutes",
-              "tips": "Enjoy the running process"
-            },
-            {
-              "day": 7,
-              "content": "Rest",
-              "tips": "Week summary, prepare for next week"
-            }
-          ]
-        },
-        "week2": {
-          "title": "Week 2: Increasing Endurance",
-          "description": "Increase running time and intensity to improve cardiovascular endurance",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Jog 20 minutes + brisk walk 3 minutes, repeat 2 times",
-              "tips": "Maintain a steady pace"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Recovery day"
-            },
-            {
-              "day": 3,
-              "content": "Continuous jog 25 minutes",
-              "tips": "Challenge continuous running time"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Interval run: fast run 2 minutes + slow jog 3 minutes, repeat 4 times",
-              "tips": "Improve speed and endurance"
-            },
-            {
-              "day": 6,
-              "content": "Easy jog 30 minutes",
-              "tips": "Long slow distance run to build endurance base"
-            },
-            {
-              "day": 7,
-              "content": "Rest",
-              "tips": "Week summary"
-            }
-          ]
-        },
-        "week3": {
-          "title": "Week 3: Consolidation and Improvement",
-          "description": "Consolidate training results and further improve running ability",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Continuous jog 30 minutes",
-              "tips": "Maintain steady rhythm"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Recovery day"
-            },
-            {
-              "day": 3,
-              "content": "Interval run: fast run 3 minutes + slow jog 2 minutes, repeat 5 times",
-              "tips": "Improve speed and cardiovascular function"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Continuous jog 35 minutes",
-              "tips": "Challenge longer continuous running time"
-            },
-            {
-              "day": 6,
-              "content": "Easy jog 25 minutes + stretching",
-              "tips": "Recovery training"
-            },
-            {
-              "day": 7,
-              "content": "Test: continuous jog 40 minutes",
-              "tips": "Test three weeks of training results"
-            }
+      "step1": {
+        "stepNumber": 1,
+        "title": "Warm-up Walk",
+        "description": "Start with 5 minutes of brisk walking to prepare your body for running",
+        "duration": "5 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Running/Running1.png",
+        "instructions": [
+          "Begin with a slow walk",
+          "Gradually increase your pace to a brisk walk",
+          "Focus on proper posture: head up, shoulders relaxed",
+          "Swing your arms naturally"
+        ]
+      },
+      "step2": {
+        "stepNumber": 2,
+        "title": "Light Jogging",
+        "description": "Transition from walking to light jogging to warm up your muscles",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Running/Running2.png",
+        "instructions": [
+          "Start jogging at a comfortable pace",
+          "Keep your feet landing softly",
+          "Maintain a steady breathing rhythm",
+          "Keep your body relaxed"
+        ]
+      },
+      "step3": {
+        "stepNumber": 3,
+        "title": "Running Posture",
+        "description": "Maintain proper running form with correct body alignment",
+        "duration": "Continuous",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Running/Running3.png",
+        "instructions": [
+          "Keep your head up and eyes forward",
+          "Relax your shoulders and keep them level",
+          "Maintain a slight forward lean from the ankles",
+          "Keep your core engaged"
+        ]
+      },
+      "step4": {
+        "stepNumber": 4,
+        "title": "Arm Movement",
+        "description": "Use proper arm swing to maintain balance and rhythm",
+        "duration": "Continuous",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Running/Running4.png",
+        "instructions": [
+          "Bend your arms at approximately 90 degrees",
+          "Swing arms forward and back, not across your body",
+          "Keep your hands relaxed, not clenched",
+          "Coordinate arm movement with leg movement"
+        ]
+      },
+      "step5": {
+        "stepNumber": 5,
+        "title": "Foot Strike",
+        "description": "Land on the middle of your foot for efficient running",
+        "duration": "Continuous",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Running/Running5.png",
+        "instructions": [
+          "Land on the midfoot, not heel or toe",
+          "Keep your stride natural, not too long",
+          "Maintain a quick cadence (steps per minute)",
+          "Push off with your toes"
+        ]
+      },
+      "step6": {
+        "stepNumber": 6,
+        "title": "Breathing Technique",
+        "description": "Establish a rhythmic breathing pattern for endurance",
+        "duration": "Continuous",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Running/Running6.png",
+        "instructions": [
+          "Breathe deeply from your diaphragm",
+          "Establish a rhythm (e.g., 3 steps inhale, 2 steps exhale)",
+          "Breathe through both nose and mouth",
+          "Stay relaxed and avoid holding your breath"
+        ]
+      },
+      "step7": {
+        "stepNumber": 7,
+        "title": "Steady Pace Running",
+        "description": "Maintain a consistent running pace throughout your workout",
+        "duration": "15-30 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Running/Running7.png",
+        "instructions": [
+          "Find a pace where you can hold a conversation",
+          "Maintain consistent speed",
+          "Focus on smooth, efficient movement",
+          "Listen to your body and adjust if needed"
+        ]
+      },
+      "step8": {
+        "stepNumber": 8,
+        "title": "Interval Training",
+        "description": "Alternate between running and walking for beginners",
+        "duration": "20 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Running/Running8.png",
+        "instructions": [
+          "Run for 1-2 minutes",
+          "Walk for 1-2 minutes to recover",
+          "Repeat the cycle 5-10 times",
+          "Gradually increase running time as you progress"
+        ]
+      },
+      "step9": {
+        "stepNumber": 9,
+        "title": "Cool Down Walk",
+        "description": "Gradually reduce intensity to allow your body to recover",
+        "duration": "5 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Running/Running9.png",
+        "instructions": [
+          "Slow down from running to jogging",
+          "Transition to a brisk walk",
+          "Gradually slow to a normal walk",
+          "Allow your heart rate to return to normal"
+        ]
+      },
+      "step10": {
+        "stepNumber": 10,
+        "title": "Post-Run Stretching",
+        "description": "Stretch your muscles to improve flexibility and prevent injury",
+        "duration": "5-10 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Running/Running10.png",
+        "instructions": [
+          "Stretch your quadriceps (front of thighs)",
+          "Stretch your hamstrings (back of thighs)",
+          "Stretch your calves",
+          "Hold each stretch for 20-30 seconds"
           ]
         }
       },
@@ -162,705 +168,914 @@
       ]
     },
     {
-      "id": "strength_training",
-      "title": "Strength Training",
-      "imageUrl": "assets/DraggableAction/training_images/strength_training.jpg",
+    "id": "boxing",
+    "title": "Boxing",
+    "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing1.png",
       "duration": "3 weeks' training",
-      "isFavorite": true,
-      "category": "Strength",
+    "isFavorite": false,
+    "category": "Cardio",
       "difficulty": "Intermediate",
-      "description": "Strength training can enhance muscle strength, improve body shape, increase basal metabolic rate, and is an important component of comprehensive fitness.",
+    "description": "Boxing is an excellent full-body workout that improves cardiovascular fitness, coordination, strength, and mental focus.",
       "benefits": [
-        "Increases muscle strength and size",
-        "Raises basal metabolic rate",
-        "Improves body shape and posture",
-        "Enhances bone density",
-        "Boosts daily activity capacity"
+      "Improves cardiovascular endurance",
+      "Enhances hand-eye coordination",
+      "Builds upper body strength",
+      "Burns calories effectively",
+      "Reduces stress and improves mental focus"
       ],
       "trainingMethod": {
         "frequency": "3-4 times per week",
-        "duration": "45-60 minutes per session",
+      "duration": "30-45 minutes per session",
         "intensity": "Moderate to high intensity",
-        "warmUp": "10 minutes of dynamic warm-up and joint mobility",
-        "coolDown": "10-15 minutes of stretching and relaxation"
+      "warmUp": "10 minutes of dynamic warm-up and light shadowboxing",
+      "coolDown": "10 minutes of stretching and relaxation"
       },
       "trainingSteps": {
-        "week1": {
-          "title": "Week 1: Building Basic Strength",
-          "description": "Learn correct movements and build basic strength",
-          "sessions": [
-            {
-              "day": 1,
-              "title": "Upper Body Strength Training",
-              "content": "Dumbbell Press 3 sets × 12 reps\nDumbbell Flyes 3 sets × 12 reps\nPush-ups 3 sets × 10 reps\nTricep Extensions 3 sets × 12 reps",
-              "tips": "Choose appropriate weight, maintain proper form"
-            },
-            {
-              "day": 2,
-              "title": "Rest",
-              "content": "Full rest to allow muscle recovery",
-              "tips": "Light stretching is optional"
-            },
-            {
-              "day": 3,
-              "title": "Lower Body Strength Training",
-              "content": "Squats 3 sets × 15 reps\nLunges 3 sets × 12 reps (each leg)\nDeadlifts 3 sets × 12 reps\nCalf Raises 3 sets × 15 reps",
-              "tips": "Keep core stable"
-            },
-            {
-              "day": 4,
-              "title": "Rest",
-              "content": "Recovery day",
-              "tips": "Allow body to fully recover"
-            },
-            {
-              "day": 5,
-              "title": "Core Strength Training",
-              "content": "Plank 3 sets × 30 seconds\nCrunches 3 sets × 15 reps\nRussian Twists 3 sets × 20 reps\nLeg Raises 3 sets × 12 reps",
-              "tips": "Maintain breathing rhythm"
-            },
-            {
-              "day": 6,
-              "title": "Full Body Strength Training",
-              "content": "Squats 3 sets × 12 reps\nPush-ups 3 sets × 10 reps\nRows 3 sets × 12 reps\nPlank 3 sets × 30 seconds",
-              "tips": "Full body coordination training"
-            },
-            {
-              "day": 7,
-              "title": "Rest",
-              "content": "Week summary, prepare for next week",
-              "tips": "Evaluate this week's training results"
-            }
-          ]
-        },
-        "week2": {
-          "title": "Week 2: Increasing Intensity",
-          "description": "Increase training intensity and weight to improve muscle strength",
-          "sessions": [
-            {
-              "day": 1,
-              "title": "Upper Body Strength Training (Advanced)",
-              "content": "Dumbbell Press 4 sets × 10 reps\nDumbbell Flyes 4 sets × 10 reps\nPush-ups 4 sets × 12 reps\nTricep Extensions 4 sets × 10 reps\nPull-ups (assisted) 3 sets × 8 reps",
-              "tips": "Appropriately increase weight or reps"
-            },
-            {
-              "day": 2,
-              "title": "Rest",
-              "content": "Recovery day",
-              "tips": "Full rest"
-            },
-            {
-              "day": 3,
-              "title": "Lower Body Strength Training (Advanced)",
-              "content": "Squats 4 sets × 12 reps\nLunges 4 sets × 12 reps (each leg)\nDeadlifts 4 sets × 10 reps\nSingle Leg Squats 3 sets × 8 reps (each leg)\nCalf Raises 4 sets × 15 reps",
-              "tips": "Challenge heavier weights"
-            },
-            {
-              "day": 4,
-              "title": "Rest",
-              "content": "Recovery day",
-              "tips": "Allow muscles to recover"
-            },
-            {
-              "day": 5,
-              "title": "Core Strength Training (Advanced)",
-              "content": "Plank 4 sets × 45 seconds\nCrunches 4 sets × 20 reps\nRussian Twists 4 sets × 25 reps\nLeg Raises 4 sets × 15 reps\nSide Plank 3 sets × 30 seconds (each side)",
-              "tips": "Increase core stability training"
-            },
-            {
-              "day": 6,
-              "title": "Full Body Strength Training (Advanced)",
-              "content": "Squats 4 sets × 12 reps\nPush-ups 4 sets × 12 reps\nRows 4 sets × 12 reps\nPlank 4 sets × 45 seconds\nBurpees 3 sets × 10 reps",
-              "tips": "Improve overall strength"
-            },
-            {
-              "day": 7,
-              "title": "Rest",
-              "content": "Week summary",
-              "tips": "Evaluate progress"
-            }
-          ]
-        },
-        "week3": {
-          "title": "Week 3: Consolidation and Improvement",
-          "description": "Consolidate training results and challenge higher intensity",
-          "sessions": [
-            {
-              "day": 1,
-              "title": "Upper Body Strength Training (Expert)",
-              "content": "Dumbbell Press 4 sets × 12 reps\nDumbbell Flyes 4 sets × 12 reps\nPush-ups 4 sets × 15 reps\nTricep Extensions 4 sets × 12 reps\nPull-ups 3 sets × 10 reps\nShoulder Press 3 sets × 12 reps",
-              "tips": "Challenge maximum weight and reps"
-            },
-            {
-              "day": 2,
-              "title": "Rest",
-              "content": "Recovery day",
-              "tips": "Full rest"
-            },
-            {
-              "day": 3,
-              "title": "Lower Body Strength Training (Expert)",
-              "content": "Squats 4 sets × 15 reps\nLunges 4 sets × 15 reps (each leg)\nDeadlifts 4 sets × 12 reps\nSingle Leg Squats 4 sets × 10 reps (each leg)\nBulgarian Split Squats 3 sets × 12 reps (each leg)\nCalf Raises 4 sets × 20 reps",
-              "tips": "Comprehensively improve lower body strength"
-            },
-            {
-              "day": 4,
-              "title": "Rest",
-              "content": "Recovery day",
-              "tips": "Allow body to recover"
-            },
-            {
-              "day": 5,
-              "title": "Core Strength Training (Expert)",
-              "content": "Plank 4 sets × 60 seconds\nCrunches 4 sets × 25 reps\nRussian Twists 4 sets × 30 reps\nLeg Raises 4 sets × 20 reps\nSide Plank 4 sets × 45 seconds (each side)\nHanging Leg Raises 3 sets × 12 reps",
-              "tips": "Strengthen core stability"
-            },
-            {
-              "day": 6,
-              "title": "Full Body Strength Training (Expert)",
-              "content": "Squats 4 sets × 15 reps\nPush-ups 4 sets × 15 reps\nRows 4 sets × 15 reps\nPlank 4 sets × 60 seconds\nBurpees 4 sets × 12 reps\nKettlebell Swings 3 sets × 15 reps",
-              "tips": "Comprehensive strength training"
-            },
-            {
-              "day": 7,
-              "title": "Test Day",
-              "content": "Maximum strength test:\nSquat max weight test\nPush-up max reps test\nPlank max time test",
-              "tips": "Test three weeks of training results"
-            }
+      "step1": {
+        "stepNumber": 1,
+        "title": "Right Hand Jab",
+        "description": "Execute a straight punch with your right hand extended forward",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing1.png",
+        "instructions": [
+          "Stand in boxing stance with feet shoulder-width apart",
+          "Extend your right arm straight forward in a punch",
+          "Rotate your fist as you punch",
+          "Keep your left hand in guard position near your face",
+          "Return quickly to guard position",
+          "Repeat with proper form"
+        ]
+      },
+      "step2": {
+        "stepNumber": 2,
+        "title": "Right Hand Cross",
+        "description": "Deliver a powerful cross punch with your right hand",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing2.png",
+        "instructions": [
+          "From boxing stance, rotate your hips and shoulders",
+          "Extend your right hand straight across",
+          "Transfer weight to your front foot",
+          "Keep your left hand protecting your face",
+          "Return to stance quickly"
+        ]
+      },
+      "step3": {
+        "stepNumber": 3,
+        "title": "Guard Position",
+        "description": "Protect your face and body with proper defensive guard",
+        "duration": "2 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing3.png",
+        "instructions": [
+          "Raise both hands to protect your face",
+          "Keep your elbows close to your body",
+          "Maintain a relaxed but alert posture",
+          "Keep your chin slightly down",
+          "Stand in a balanced boxing stance"
+        ]
+      },
+      "step4": {
+        "stepNumber": 4,
+        "title": "High Knees Warm-up",
+        "description": "Elevate your heart rate with high knee lifts",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing4.png",
+        "instructions": [
+          "Stand tall with feet hip-width apart",
+          "Lift your right knee high toward your chest",
+          "Lower and immediately lift your left knee",
+          "Pump your arms as you lift your knees",
+          "Maintain a quick, steady pace"
+        ]
+      },
+      "step5": {
+        "stepNumber": 5,
+        "title": "Forward Lunge with Left Punch",
+        "description": "Combine forward lunge with left arm punch for power and mobility",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing5.png",
+        "instructions": [
+          "Step forward with your left leg into a lunge position",
+          "Bend both knees to 90 degrees",
+          "Extend your left arm forward in a punch as you lunge",
+          "Keep your right hand in guard position",
+          "Push back to starting position and repeat"
+        ]
+      },
+      "step6": {
+        "stepNumber": 6,
+        "title": "Wide Stance Guard",
+        "description": "Maintain defensive position in a wide boxing stance",
+        "duration": "2 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing6.png",
+        "instructions": [
+          "Stand with feet spread wide apart",
+          "Bend your knees slightly",
+          "Keep both hands up protecting your face",
+          "Maintain balance and stay alert",
+          "Keep your weight evenly distributed"
+        ]
+      },
+      "step7": {
+        "stepNumber": 7,
+        "title": "Left Hand Jab",
+        "description": "Execute a quick straight punch with your left hand",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing7.png",
+        "instructions": [
+          "From guard position, extend your left hand straight forward",
+          "Rotate your fist as you punch",
+          "Keep your right hand in guard position",
+          "Return quickly to guard position",
+          "Repeat with proper form"
+        ]
+      },
+      "step8": {
+        "stepNumber": 8,
+        "title": "High Knees Exercise",
+        "description": "Continue high knee lifts to maintain elevated heart rate",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing8.png",
+        "instructions": [
+          "Stand tall with feet hip-width apart",
+          "Lift your left knee high toward your chest",
+          "Lower and immediately lift your right knee",
+          "Keep your hands in boxing guard position",
+          "Maintain a quick, steady pace"
+        ]
+      },
+      "step9": {
+        "stepNumber": 9,
+        "title": "Side Lunge",
+        "description": "Strengthen your legs and improve lateral movement",
+        "duration": "30 seconds each side",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing9.png",
+        "instructions": [
+          "Stand with feet wide apart",
+          "Shift your weight to the left side",
+          "Bend your left knee while keeping your right leg straight",
+          "Lower your hips as you lunge",
+          "Keep your hands clasped in front of your chest",
+          "Push back to center and repeat on other side"
+        ]
+      },
+      "step10": {
+        "stepNumber": 10,
+        "title": "Side Kick",
+        "description": "Execute a side kick with your left leg extended horizontally",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing10.png",
+        "instructions": [
+          "Stand on your right leg for support",
+          "Lift your left leg to the side",
+          "Extend your left leg straight out parallel to the floor",
+          "Keep your standing leg stable and slightly bent",
+          "Maintain guard with your hands",
+          "Return leg to starting position"
+        ]
+      },
+      "step11": {
+        "stepNumber": 11,
+        "title": "Forward Lunge with Right Punch",
+        "description": "Combine forward lunge with right arm punch",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing11.png",
+        "instructions": [
+          "Step forward with your right leg into a lunge position",
+          "Bend both knees to 90 degrees",
+          "Extend your right arm forward in a punch as you lunge",
+          "Keep your left hand in guard position",
+          "Maintain balance and control",
+          "Return to starting position"
+        ]
+      },
+      "step12": {
+        "stepNumber": 12,
+        "title": "Boxing Stance Guard",
+        "description": "Maintain proper defensive boxing stance",
+        "duration": "2 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing12.png",
+        "instructions": [
+          "Stand with feet shoulder-width apart",
+          "Place your dominant foot slightly back",
+          "Bend your knees slightly",
+          "Keep both hands up protecting your face",
+          "Maintain a slight forward lean",
+          "Stay balanced and ready to move"
+        ]
+      },
+      "step13": {
+        "stepNumber": 13,
+        "title": "Left Hand Cross",
+        "description": "Deliver a powerful cross punch with your left hand",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing13.png",
+        "instructions": [
+          "From boxing stance, rotate your hips and shoulders",
+          "Extend your left hand straight across",
+          "Transfer weight to your front foot",
+          "Keep your right hand protecting your face",
+          "Return to stance quickly"
+        ]
+      },
+      "step14": {
+        "stepNumber": 14,
+        "title": "Side Kick - Left Leg",
+        "description": "Execute a side kick with left leg extended to the side",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing14.png",
+        "instructions": [
+          "Stand on your right leg",
+          "Lift your left leg to the side",
+          "Extend your left leg straight out horizontally",
+          "Keep your standing leg stable",
+          "Maintain guard with your hands",
+          "Return leg to starting position"
+        ]
+      },
+      "step15": {
+        "stepNumber": 15,
+        "title": "Side Kick Variation",
+        "description": "Practice side kick with proper form and balance",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing15.png",
+        "instructions": [
+          "Stand on your right leg for support",
+          "Lift your left leg and extend it to the side",
+          "Keep your leg parallel to the floor",
+          "Maintain balance on your standing leg",
+          "Keep your hands in guard position",
+          "Control the movement back to start"
+        ]
+      },
+      "step16": {
+        "stepNumber": 16,
+        "title": "Roundhouse Kick",
+        "description": "Execute a roundhouse kick with your left leg",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing16.png",
+        "instructions": [
+          "Stand on your right leg",
+          "Lift your left leg and rotate your body",
+          "Swing your left leg in a circular motion",
+          "Extend your leg straight out to the side",
+          "Keep your standing leg stable",
+          "Return to starting position"
+        ]
+      },
+      "step17": {
+        "stepNumber": 17,
+        "title": "High Side Kick",
+        "description": "Perform a high side kick for flexibility and strength",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing17.png",
+        "instructions": [
+          "Stand on your right leg",
+          "Lift your left leg high to the side",
+          "Extend your leg straight out horizontally",
+          "Keep your standing leg slightly bent for stability",
+          "Maintain guard with your hands",
+          "Lower leg with control"
+        ]
+      },
+      "step18": {
+        "stepNumber": 18,
+        "title": "Front Kick",
+        "description": "Execute a front kick with your left leg extended forward",
+        "duration": "3 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing18.png",
+        "instructions": [
+          "Stand on your right leg",
+          "Lift your left knee toward your chest",
+          "Extend your left leg straight forward",
+          "Keep your standing leg stable",
+          "Maintain guard with your hands",
+          "Return leg to starting position"
+        ]
+      },
+      "step19": {
+        "stepNumber": 19,
+        "title": "Cool Down Stretching",
+        "description": "Stretch your muscles to aid recovery and prevent injury",
+        "duration": "5 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Boxing/Boxing19.png",
+        "instructions": [
+          "Stretch your shoulders and arms",
+          "Stretch your core and back",
+          "Stretch your legs and hips",
+          "Hold each stretch for 20-30 seconds",
+          "Breathe deeply during stretches"
           ]
         }
       },
       "equipment": [
-        "Dumbbells",
-        "Barbell (optional)",
-        "Exercise mat",
-        "Resistance bands (optional)"
+      "Boxing gloves or hand wraps",
+      "Comfortable athletic wear",
+      "Boxing shoes (optional)",
+      "Mirror for form checking (optional)"
       ],
       "precautions": [
         "Warm up thoroughly before training",
-        "Choose appropriate weight and progress gradually",
-        "Maintain correct movement posture",
-        "Stretch fully after training",
-        "Ensure adequate rest and nutrition",
-        "Stop immediately if feeling unwell"
+      "Start with light intensity and gradually increase",
+      "Maintain proper form to avoid injury",
+      "Keep your hands up to protect your face",
+      "Stay hydrated throughout the workout",
+      "Stop if you feel pain or discomfort"
       ]
     },
     {
       "id": "yoga",
       "title": "Yoga",
-      "imageUrl": "assets/DraggableAction/training_images/yoga.jpg",
+    "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga1.png",
       "duration": "3 weeks' training",
       "isFavorite": false,
       "category": "Flexibility",
       "difficulty": "Beginner",
-      "description": "Yoga is a comprehensive mind-body practice that improves flexibility, balance, and mental calm through postures, breathing, and meditation.",
+    "description": "Yoga combines physical postures, breathing techniques, and meditation to improve flexibility, strength, and mental well-being.",
       "benefits": [
         "Improves flexibility and balance",
-        "Strengthens core muscles",
-        "Improves posture and alignment",
+      "Strengthens muscles",
         "Reduces stress and anxiety",
-        "Enhances body awareness"
+      "Enhances mental clarity",
+      "Improves posture"
       ],
       "trainingMethod": {
-        "frequency": "4-5 times per week",
+      "frequency": "3-5 times per week",
         "duration": "30-60 minutes per session",
         "intensity": "Low to moderate intensity",
-        "warmUp": "5 minutes of gentle movement and breathing",
-        "coolDown": "10 minutes of relaxation and meditation"
+      "warmUp": "5 minutes of gentle movements and breathing",
+      "coolDown": "5-10 minutes of relaxation and meditation"
       },
       "trainingSteps": {
-        "week1": {
-          "title": "Week 1: Foundation and Basics",
-          "description": "Learn basic poses and breathing techniques",
-          "sessions": [
-            {
-              "day": 1,
-              "title": "Basic Standing Poses",
-              "content": "Mountain Pose (Tadasana) 5 breaths\nWarrior I (Virabhadrasana I) 5 breaths each side\nWarrior II (Virabhadrasana II) 5 breaths each side\nTree Pose (Vrikshasana) 5 breaths each side\nDownward Dog (Adho Mukha Svanasana) 10 breaths",
-              "tips": "Focus on alignment and breathing"
-            },
-            {
-              "day": 2,
-              "title": "Seated Poses and Flexibility",
-              "content": "Easy Pose (Sukhasana) 5 minutes\nSeated Forward Fold (Paschimottanasana) 10 breaths\nButterfly Pose (Baddha Konasana) 10 breaths\nSpinal Twist (Ardha Matsyendrasana) 5 breaths each side",
-              "tips": "Move slowly and mindfully"
-            },
-            {
-              "day": 3,
-              "title": "Core and Balance",
-              "content": "Plank Pose 30 seconds\nBoat Pose (Navasana) 5 breaths\nBridge Pose (Setu Bandhasana) 10 breaths\nChild's Pose (Balasana) 10 breaths",
-              "tips": "Engage your core throughout"
-            },
-            {
-              "day": 4,
-              "title": "Restorative Practice",
-              "content": "Legs Up the Wall (Viparita Karani) 5 minutes\nReclining Twist 3 minutes each side\nCorpse Pose (Savasana) 10 minutes",
-              "tips": "Focus on relaxation and recovery"
-            },
-            {
-              "day": 5,
-              "title": "Full Body Flow",
-              "content": "Sun Salutation A - 3 rounds\nWarrior sequence\nTriangle Pose (Trikonasana) 5 breaths each side\nFinal relaxation 5 minutes",
-              "tips": "Connect movement with breath"
-            },
-            {
-              "day": 6,
-              "title": "Hip Opening and Flexibility",
-              "content": "Pigeon Pose (Eka Pada Rajakapotasana) 10 breaths each side\nLizard Pose 5 breaths each side\nHappy Baby Pose (Ananda Balasana) 10 breaths\nSeated Forward Fold 10 breaths",
-              "tips": "Be gentle with your body"
-            },
-            {
-              "day": 7,
-              "title": "Rest and Reflection",
-              "content": "Gentle stretching\nMeditation 10 minutes\nWeek reflection",
-              "tips": "Rest and prepare for next week"
-            }
-          ]
-        },
-        "week2": {
-          "title": "Week 2: Deepening Practice",
-          "description": "Deepen poses and explore more challenging sequences",
-          "sessions": [
-            {
-              "day": 1,
-              "title": "Advanced Standing Poses",
-              "content": "Warrior III (Virabhadrasana III) 5 breaths each side\nHalf Moon Pose (Ardha Chandrasana) 5 breaths each side\nExtended Side Angle (Utthita Parsvakonasana) 5 breaths each side\nStanding Forward Fold (Uttanasana) 10 breaths",
-              "tips": "Focus on balance and stability"
-            },
-            {
-              "day": 2,
-              "title": "Backbends and Heart Openers",
-              "content": "Cobra Pose (Bhujangasana) 10 breaths\nUpward Dog (Urdhva Mukha Svanasana) 5 breaths\nBow Pose (Dhanurasana) 5 breaths\nBridge Pose 10 breaths\nWheel Pose (Urdhva Dhanurasana) - preparation",
-              "tips": "Open your heart and chest"
-            },
-            {
-              "day": 3,
-              "title": "Core Strength and Balance",
-              "content": "Plank variations 3 sets × 30 seconds\nSide Plank 30 seconds each side\nBoat Pose 10 breaths\nCrow Pose (Bakasana) - practice",
-              "tips": "Build strength and stability"
-            },
-            {
-              "day": 4,
-              "title": "Hip and Hamstring Flexibility",
-              "content": "Pigeon Pose 15 breaths each side\nLizard Pose 10 breaths each side\nSeated Forward Fold 15 breaths\nReclining Hand-to-Big-Toe Pose (Supta Padangusthasana) 10 breaths each side",
-              "tips": "Deepen flexibility gradually"
-            },
-            {
-              "day": 5,
-              "title": "Sun Salutation Flow",
-              "content": "Sun Salutation A - 5 rounds\nSun Salutation B - 3 rounds\nWarrior sequence flow\nFinal relaxation 10 minutes",
-              "tips": "Flow with your breath"
-            },
-            {
-              "day": 6,
-              "title": "Inversions and Arm Balances",
-              "content": "Downward Dog variations\nDolphin Pose 10 breaths\nHeadstand preparation\nCrow Pose practice\nShoulderstand (Sarvangasana) 10 breaths",
-              "tips": "Practice with caution and support"
-            },
-            {
-              "day": 7,
-              "title": "Restorative and Meditation",
-              "content": "Restorative poses 20 minutes\nPranayama (breathing exercises) 10 minutes\nMeditation 15 minutes",
-              "tips": "Deep relaxation and reflection"
-            }
-          ]
-        },
-        "week3": {
-          "title": "Week 3: Mastery and Integration",
-          "description": "Master poses and integrate all elements into a complete practice",
-          "sessions": [
-            {
-              "day": 1,
-              "title": "Complete Standing Sequence",
-              "content": "Sun Salutation A & B - 5 rounds each\nWarrior I, II, III sequence\nHalf Moon Pose\nExtended Triangle Pose\nStanding Split\nFinal relaxation",
-              "tips": "Integrate all standing poses"
-            },
-            {
-              "day": 2,
-              "title": "Advanced Backbends",
-              "content": "Wheel Pose (Urdhva Dhanurasana) 5 breaths\nBow Pose 10 breaths\nCamel Pose (Ustrasana) 10 breaths\nFish Pose (Matsyasana) 10 breaths\nCounter poses and relaxation",
-              "tips": "Open your heart fully"
-            },
-            {
-              "day": 3,
-              "title": "Arm Balances and Inversions",
-              "content": "Crow Pose (Bakasana) 5 breaths\nSide Crow Pose 5 breaths each side\nHeadstand (Sirsasana) 10 breaths\nHandstand preparation\nShoulderstand 15 breaths",
-              "tips": "Build confidence in inversions"
-            },
-            {
-              "day": 4,
-              "title": "Deep Hip Opening",
-              "content": "Pigeon Pose variations 15 breaths each side\nLizard Pose 10 breaths each side\nFire Log Pose (Agnistambhasana) 10 breaths each side\nButterfly Pose 15 breaths\nSeated Forward Fold 15 breaths",
-              "tips": "Release tension in hips"
-            },
-            {
-              "day": 5,
-              "title": "Complete Vinyasa Flow",
-              "content": "Full Sun Salutation sequence\nWarrior flow series\nBalance poses\nBackbends\nFinal relaxation 15 minutes",
-              "tips": "Complete integrated practice"
-            },
-            {
-              "day": 6,
-              "title": "Restorative and Yin Practice",
-              "content": "Yin poses: Dragon Pose, Sphinx Pose, Seal Pose\nLegs Up the Wall 10 minutes\nReclining poses 15 minutes\nMeditation 20 minutes",
-              "tips": "Deep relaxation and recovery"
-            },
-            {
-              "day": 7,
-              "title": "Final Practice and Reflection",
-              "content": "Your choice of favorite poses\nComplete flow sequence\nPranayama 15 minutes\nMeditation 20 minutes\nThree weeks reflection",
-              "tips": "Celebrate your progress and journey"
-            }
+      "step1": {
+        "stepNumber": 1,
+        "title": "Quad Stretch",
+        "description": "Stretch your quadriceps by holding your right foot behind you with your right hand",
+        "duration": "30 seconds each leg",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga1.png",
+        "instructions": [
+          "Stand on your left leg with a slight bend in the knee",
+          "Bend your right knee and grab your right foot with your right hand",
+          "Gently pull your heel toward your glutes",
+          "Keep your knees close together",
+          "Maintain an upright posture",
+          "Hold and breathe deeply, then switch legs"
+        ]
+      },
+      "step2": {
+        "stepNumber": 2,
+        "title": "Mountain Pose (Tadasana)",
+        "description": "Begin with the foundational standing pose for alignment and awareness",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga2.png",
+        "instructions": [
+          "Stand with feet together or hip-width apart",
+          "Distribute weight evenly on both feet",
+          "Engage your thigh muscles",
+          "Lengthen your spine and lift your chest",
+          "Relax your shoulders and breathe naturally"
+        ]
+      },
+      "step3": {
+        "stepNumber": 3,
+        "title": "Warrior I (Virabhadrasana I)",
+        "description": "Build strength and flexibility with this powerful standing pose",
+        "duration": "30 seconds each side",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga3.png",
+        "instructions": [
+          "Step one foot back into a lunge",
+          "Turn your back foot out at 45 degrees",
+          "Bend your front knee to 90 degrees",
+          "Raise your arms overhead",
+          "Keep your hips squared forward"
+        ]
+      },
+      "step4": {
+        "stepNumber": 4,
+        "title": "Warrior II (Virabhadrasana II)",
+        "description": "Open your hips and strengthen your legs in this classic pose",
+        "duration": "30 seconds each side",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga4.png",
+        "instructions": [
+          "Stand with feet wide apart",
+          "Turn one foot out 90 degrees",
+          "Bend that knee over your ankle",
+          "Extend your arms parallel to the floor",
+          "Gaze over your front hand"
+        ]
+      },
+      "step5": {
+        "stepNumber": 5,
+        "title": "Triangle Pose (Trikonasana)",
+        "description": "Stretch your sides and improve balance",
+        "duration": "30 seconds each side",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga5.png",
+        "instructions": [
+          "Stand with feet wide apart",
+          "Turn one foot out 90 degrees",
+          "Reach forward with your front hand",
+          "Lower your hand to your shin or floor",
+          "Extend your other arm straight up"
+        ]
+      },
+      "step6": {
+        "stepNumber": 6,
+        "title": "Downward Facing Dog (Adho Mukha Svanasana)",
+        "description": "Stretch your entire body and build strength",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga6.png",
+        "instructions": [
+          "Start on hands and knees",
+          "Tuck your toes and lift your hips",
+          "Form an inverted V shape",
+          "Press your hands into the mat",
+          "Keep your legs straight and engage your core"
+        ]
+      },
+      "step7": {
+        "stepNumber": 7,
+        "title": "Child's Pose (Balasana)",
+        "description": "Rest and stretch your back in this restorative pose",
+        "duration": "1-2 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga7.png",
+        "instructions": [
+          "Kneel on the floor",
+          "Sit back on your heels",
+          "Fold forward and rest your forehead on the mat",
+          "Extend your arms forward or alongside your body",
+          "Breathe deeply and relax"
+        ]
+      },
+      "step8": {
+        "stepNumber": 8,
+        "title": "Cobra Pose (Bhujangasana)",
+        "description": "Strengthen your back and open your chest",
+        "duration": "30 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga8.png",
+        "instructions": [
+          "Lie face down on the mat",
+          "Place your hands under your shoulders",
+          "Press into your hands and lift your chest",
+          "Keep your hips on the mat",
+          "Look forward or slightly up"
+        ]
+      },
+      "step9": {
+        "stepNumber": 9,
+        "title": "Bridge Pose (Setu Bandhasana)",
+        "description": "Strengthen your glutes and open your hips",
+        "duration": "30 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga9.png",
+        "instructions": [
+          "Lie on your back with knees bent",
+          "Place your feet flat on the floor",
+          "Lift your hips toward the ceiling",
+          "Clasp your hands under your back",
+          "Keep your knees aligned over your ankles"
+        ]
+      },
+      "step10": {
+        "stepNumber": 10,
+        "title": "Seated Forward Fold (Paschimottanasana)",
+        "description": "Stretch your hamstrings and calm your mind",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga10.png",
+        "instructions": [
+          "Sit with legs extended straight",
+          "Inhale and lengthen your spine",
+          "Exhale and fold forward from your hips",
+          "Reach for your feet or shins",
+          "Keep your back straight as long as possible"
+        ]
+      },
+      "step11": {
+        "stepNumber": 11,
+        "title": "Twisted Pose",
+        "description": "Improve spinal mobility with a gentle twist",
+        "duration": "30 seconds each side",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga11.png",
+        "instructions": [
+          "Sit with one leg extended",
+          "Cross the other leg over",
+          "Place your opposite elbow on your bent knee",
+          "Twist your torso gently",
+          "Look over your shoulder"
+        ]
+      },
+      "step12": {
+        "stepNumber": 12,
+        "title": "Pigeon Pose (Eka Pada Rajakapotasana)",
+        "description": "Deeply stretch your hip flexors and glutes",
+        "duration": "1 minute each side",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga12.png",
+        "instructions": [
+          "Start in downward dog",
+          "Bring one knee forward to your wrist",
+          "Extend your back leg straight",
+          "Square your hips forward",
+          "Hold and breathe deeply"
+        ]
+      },
+      "step13": {
+        "stepNumber": 13,
+        "title": "Tree Pose (Vrikshasana)",
+        "description": "Improve balance and focus",
+        "duration": "30 seconds each leg",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga13.png",
+        "instructions": [
+          "Stand on one leg",
+          "Place your other foot on your inner thigh or calf",
+          "Bring your hands to prayer position",
+          "Focus on a fixed point",
+          "Keep your standing leg strong"
+        ]
+      },
+      "step14": {
+        "stepNumber": 14,
+        "title": "Corpse Pose (Savasana)",
+        "description": "Complete relaxation and integration",
+        "duration": "5-10 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Yoga/Yoga14.png",
+        "instructions": [
+          "Lie flat on your back",
+          "Let your feet fall open naturally",
+          "Place your arms alongside your body",
+          "Close your eyes and relax completely",
+          "Focus on your breath and let go"
           ]
         }
       },
       "equipment": [
         "Yoga mat",
+      "Comfortable clothing",
         "Yoga blocks (optional)",
-        "Yoga strap (optional)",
-        "Bolster (optional)"
+      "Yoga strap (optional)"
       ],
       "precautions": [
         "Listen to your body and don't push beyond your limits",
-        "Warm up before practice",
-        "Maintain proper alignment in poses",
-        "Breathe deeply and consistently",
+      "Warm up before attempting advanced poses",
+      "Avoid poses that cause pain",
+      "Practice on a non-slip surface",
         "Stay hydrated",
-        "Avoid practicing on a full stomach",
         "Consult a doctor if you have injuries or medical conditions"
       ]
     },
     {
-      "id": "hiit",
-      "title": "HIIT",
-      "imageUrl": "assets/DraggableAction/training_images/hiit.jpg",
+    "id": "aerobic_exercises",
+    "title": "Aerobic Exercises",
+    "imageUrl": "assets/DraggableAction/ExerciseSteps/AerobicExercises/AerobicExercises1.png",
+      "duration": "3 weeks' training",
+    "isFavorite": false,
+      "category": "Cardio",
+    "difficulty": "Beginner",
+    "description": "Aerobic exercises improve cardiovascular health, burn calories, and boost overall fitness through rhythmic movements.",
+      "benefits": [
+      "Improves heart and lung function",
+      "Burns calories effectively",
+      "Increases endurance",
+      "Boosts mood and energy",
+      "Strengthens muscles"
+      ],
+      "trainingMethod": {
+      "frequency": "3-5 times per week",
+        "duration": "20-30 minutes per session",
+      "intensity": "Moderate intensity",
+      "warmUp": "5 minutes of light movement",
+      "coolDown": "5 minutes of stretching"
+      },
+      "trainingSteps": {
+      "step1": {
+        "stepNumber": 1,
+        "title": "High Knees",
+        "description": "Elevate your heart rate with high knee lifts, raising your right knee toward your chest",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/AerobicExercises/AerobicExercises1.png",
+        "instructions": [
+          "Stand tall with feet hip-width apart",
+          "Lift your right knee high toward your chest",
+          "Lower and immediately lift your left knee",
+          "Keep your arms bent with hands clasped in front of your abdomen",
+          "Maintain a quick, steady pace",
+          "Keep your core engaged"
+        ]
+      },
+      "step2": {
+        "stepNumber": 2,
+        "title": "High Knees - Alternating",
+        "description": "Continue high knee lifts alternating between legs",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/AerobicExercises/AerobicExercises2.png",
+        "instructions": [
+          "Stand tall with feet hip-width apart",
+          "Lift your left knee high toward your chest",
+          "Lower and immediately lift your right knee",
+          "Keep your arms bent with hands in front",
+          "Maintain a quick, steady pace",
+          "Focus on lifting knees as high as possible"
+        ]
+      },
+      "step3": {
+        "stepNumber": 3,
+        "title": "Jumping Jacks",
+        "description": "Full-body movement to increase heart rate",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/AerobicExercises/AerobicExercises3.png",
+        "instructions": [
+          "Start with feet together and arms at sides",
+          "Jump and spread your legs wide",
+          "Simultaneously raise your arms overhead",
+          "Jump back to starting position",
+          "Repeat at a steady pace"
+        ]
+      },
+      "step4": {
+        "stepNumber": 4,
+        "title": "Side Lunge",
+        "description": "Perform a wide-stance side lunge with hands clasped in front of your chest",
+        "duration": "30 seconds each side",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/AerobicExercises/AerobicExercises4.png",
+        "instructions": [
+          "Stand with feet spread wide apart",
+          "Shift your weight to your left side",
+          "Bend your left knee while keeping your right leg extended straight",
+          "Lower your hips as you lunge to the side",
+          "Keep your hands clasped together in front of your chest",
+          "Keep your torso upright",
+          "Push back to center and repeat on the right side"
+        ]
+      },
+      "step5": {
+        "stepNumber": 5,
+        "title": "Forward Lunge",
+        "description": "Target your legs and glutes with forward lunges",
+        "duration": "30 seconds each leg",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/AerobicExercises/AerobicExercises5.png",
+        "instructions": [
+          "Step forward with one leg",
+          "Bend both knees to 90 degrees",
+          "Keep your front knee over your ankle",
+          "Push back to starting position",
+          "Alternate legs"
+        ]
+      },
+      "step6": {
+        "stepNumber": 6,
+        "title": "Squats",
+        "description": "Build lower body strength with bodyweight squats",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/AerobicExercises/AerobicExercises6.png",
+        "instructions": [
+          "Stand with feet shoulder-width apart",
+          "Lower your hips as if sitting in a chair",
+          "Keep your knees behind your toes",
+          "Lower until thighs are parallel to floor",
+          "Push through heels to return to standing"
+        ]
+      },
+      "step7": {
+        "stepNumber": 7,
+        "title": "Butt Kicks",
+        "description": "Warm up your hamstrings and increase heart rate",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/AerobicExercises/AerobicExercises7.png",
+        "instructions": [
+          "Stand with feet hip-width apart",
+          "Bend your right knee and kick your heel toward your glutes",
+          "Quickly switch to the left leg",
+          "Pump your arms as you kick",
+          "Maintain a quick, steady rhythm"
+        ]
+      },
+      "step8": {
+        "stepNumber": 8,
+        "title": "Mountain Climbers",
+        "description": "Full-body exercise for strength and cardio",
+        "duration": "30 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/AerobicExercises/AerobicExercises8.png",
+        "instructions": [
+          "Start in plank position",
+          "Bring one knee toward your chest",
+          "Quickly switch legs",
+          "Maintain a strong plank position",
+          "Keep a steady, controlled pace"
+        ]
+      },
+      "step9": {
+        "stepNumber": 9,
+        "title": "Burpees",
+        "description": "High-intensity full-body exercise",
+        "duration": "30 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/AerobicExercises/AerobicExercises9.png",
+        "instructions": [
+          "Start standing, then squat down",
+          "Place hands on floor and jump feet back to plank",
+          "Do a push-up (optional)",
+          "Jump feet forward and explode upward",
+          "Land softly and repeat"
+        ]
+      },
+      "step10": {
+        "stepNumber": 10,
+        "title": "Cool Down Walk",
+        "description": "Gradually reduce your heart rate",
+        "duration": "2 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/AerobicExercises/AerobicExercises10.png",
+        "instructions": [
+          "Slow down your movements",
+          "Walk in place or around the room",
+          "Take deep, controlled breaths",
+          "Allow your heart rate to decrease gradually",
+          "Prepare for stretching"
+          ]
+        }
+      },
+      "equipment": [
+      "Comfortable athletic wear",
+      "Athletic shoes",
+      "Exercise mat (optional)"
+      ],
+      "precautions": [
+      "Warm up before starting",
+      "Start at a comfortable pace",
+      "Maintain proper form throughout",
+      "Stay hydrated",
+      "Stop if you feel dizzy or unwell",
+      "Cool down properly after exercise"
+    ]
+  },
+  {
+    "id": "dumbbell_training",
+    "title": "Dumbbell Training",
+    "imageUrl": "assets/DraggableAction/ExerciseSteps/DumbbellTraining/DumbbellTraining1.png",
       "duration": "3 weeks' training",
       "isFavorite": true,
-      "category": "Cardio",
+    "category": "Strength",
       "difficulty": "Intermediate",
-      "description": "High-Intensity Interval Training (HIIT) alternates between short bursts of intense exercise and brief recovery periods, maximizing calorie burn and improving cardiovascular fitness in minimal time.",
+    "description": "Dumbbell training builds muscle strength, improves body composition, and increases metabolic rate through resistance exercises.",
       "benefits": [
-        "Burns calories efficiently",
-        "Improves cardiovascular fitness",
-        "Increases metabolism",
-        "Builds endurance",
-        "Time-efficient workout"
+      "Increases muscle strength and size",
+      "Improves bone density",
+      "Enhances functional strength",
+      "Boosts metabolism",
+      "Improves body composition"
       ],
       "trainingMethod": {
         "frequency": "3-4 times per week",
-        "duration": "20-30 minutes per session",
-        "intensity": "High intensity",
-        "warmUp": "5 minutes of dynamic warm-up",
-        "coolDown": "5-10 minutes of light stretching"
+      "duration": "45-60 minutes per session",
+      "intensity": "Moderate to high intensity",
+      "warmUp": "10 minutes of dynamic warm-up",
+      "coolDown": "10-15 minutes of stretching"
       },
       "trainingSteps": {
-        "week1": {
-          "title": "Week 1: Introduction to HIIT",
-          "description": "Learn basic HIIT patterns and build endurance",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Warm-up 5 min\n30 sec high knees + 30 sec rest, repeat 8 times\n30 sec jumping jacks + 30 sec rest, repeat 8 times\nCool-down 5 min",
-              "tips": "Focus on form, intensity will come with practice"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Allow body to recover"
-            },
-            {
-              "day": 3,
-              "content": "Warm-up 5 min\n30 sec burpees + 30 sec rest, repeat 6 times\n30 sec mountain climbers + 30 sec rest, repeat 6 times\nCool-down 5 min",
-              "tips": "Maintain steady breathing"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Warm-up 5 min\n40 sec squat jumps + 20 sec rest, repeat 8 times\n40 sec plank + 20 sec rest, repeat 6 times\nCool-down 5 min",
-              "tips": "Push yourself but maintain form"
-            },
-            {
-              "day": 6,
-              "content": "Warm-up 5 min\n20 sec sprint + 40 sec walk, repeat 10 times\nCool-down 5 min",
-              "tips": "Recovery day with light intensity"
-            },
-            {
-              "day": 7,
-              "content": "Rest",
-              "tips": "Week summary, prepare for next week"
-            }
-          ]
-        },
-        "week2": {
-          "title": "Week 2: Increasing Intensity",
-          "description": "Increase work intervals and reduce rest time",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Warm-up 5 min\n45 sec high knees + 15 sec rest, repeat 10 times\n45 sec jumping jacks + 15 sec rest, repeat 10 times\nCool-down 5 min",
-              "tips": "Shorter rest periods increase intensity"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Recovery day"
-            },
-            {
-              "day": 3,
-              "content": "Warm-up 5 min\n45 sec burpees + 15 sec rest, repeat 8 times\n45 sec mountain climbers + 15 sec rest, repeat 8 times\n45 sec plank jacks + 15 sec rest, repeat 6 times\nCool-down 5 min",
-              "tips": "Challenge yourself with longer work periods"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Warm-up 5 min\n50 sec squat jumps + 10 sec rest, repeat 10 times\n50 sec push-ups + 10 sec rest, repeat 8 times\nCool-down 5 min",
-              "tips": "Maximize effort in work periods"
-            },
-            {
-              "day": 6,
-              "content": "Warm-up 5 min\n30 sec sprint + 30 sec jog, repeat 12 times\nCool-down 5 min",
-              "tips": "Active recovery between sprints"
-            },
-            {
-              "day": 7,
-              "content": "Rest",
-              "tips": "Week summary"
-            }
-          ]
-        },
-        "week3": {
-          "title": "Week 3: Advanced HIIT",
-          "description": "Master advanced HIIT patterns and maximize performance",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Warm-up 5 min\n60 sec high knees + 20 sec rest, repeat 8 times\n60 sec jumping jacks + 20 sec rest, repeat 8 times\n60 sec burpees + 20 sec rest, repeat 6 times\nCool-down 5 min",
-              "tips": "Longer work intervals for advanced training"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Recovery day"
-            },
-            {
-              "day": 3,
-              "content": "Warm-up 5 min\nTabata: 20 sec work + 10 sec rest, repeat 8 rounds\nExercise 1: Burpees\nExercise 2: Mountain climbers\nExercise 3: Squat jumps\nExercise 4: Push-ups\nCool-down 5 min",
-              "tips": "Classic Tabata protocol for maximum intensity"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Warm-up 5 min\n60 sec squat jumps + 15 sec rest, repeat 10 times\n60 sec plank + 15 sec rest, repeat 8 times\n60 sec jumping lunges + 15 sec rest, repeat 8 times\nCool-down 5 min",
-              "tips": "Push to your maximum capacity"
-            },
-            {
-              "day": 6,
-              "content": "Warm-up 5 min\n45 sec sprint + 15 sec walk, repeat 15 times\nCool-down 5 min",
-              "tips": "Maximum sprint intervals"
-            },
-            {
-              "day": 7,
-              "content": "Test: Complete 20-minute HIIT circuit\n5 exercises, 4 rounds each\nTest your three weeks of progress",
-              "tips": "Test three weeks of training results"
-            }
+      "step1": {
+        "stepNumber": 1,
+        "title": "Warm-up with Light Weights",
+        "description": "Prepare your muscles with light movements",
+        "duration": "5 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/DumbbellTraining/DumbbellTraining1.png",
+        "instructions": [
+          "Start with very light weights or no weights",
+          "Perform arm circles and shoulder rolls",
+          "Do light squats and lunges",
+          "Gradually increase range of motion",
+          "Prepare your body for heavier work"
+        ]
+      },
+      "step2": {
+        "stepNumber": 2,
+        "title": "Wide Stance Squat",
+        "description": "Perform a deep squat with wide stance, holding small weights near your chest",
+        "duration": "3 sets of 12 reps",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/DumbbellTraining/DumbbellTraining2.png",
+        "instructions": [
+          "Stand with feet spread wide apart",
+          "Hold small dumbbells or weights close to your chest",
+          "Lower your hips into a deep squat position",
+          "Keep your knees aligned over your ankles",
+          "Maintain an upright torso",
+          "Push through your heels to return to standing"
+        ]
+      },
+      "step3": {
+        "stepNumber": 3,
+        "title": "Squat with Overhead Press",
+        "description": "Perform a squat while holding weights, then press them overhead as you stand",
+        "duration": "3 sets of 10 reps",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/DumbbellTraining/DumbbellTraining3.png",
+        "instructions": [
+          "Hold dumbbells at shoulder height or near your chest",
+          "Stand with feet shoulder-width apart",
+          "Lower into a squat position",
+          "As you stand up, press the dumbbells straight overhead",
+          "Lower the weights back to starting position",
+          "Repeat with control and proper form"
+        ]
+      },
+      "step4": {
+        "stepNumber": 4,
+        "title": "Dumbbell Lunges",
+        "description": "Target your legs and glutes with weighted lunges",
+        "duration": "3 sets of 10 reps each leg",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/DumbbellTraining/DumbbellTraining4.png",
+        "instructions": [
+          "Hold dumbbells at your sides",
+          "Step forward into a lunge",
+          "Lower your back knee toward the floor",
+          "Push back to starting position",
+          "Alternate legs"
+        ]
+      },
+      "step5": {
+        "stepNumber": 5,
+        "title": "Dumbbell Shoulder Press",
+        "description": "Strengthen your shoulders and arms",
+        "duration": "3 sets of 12 reps",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/DumbbellTraining/DumbbellTraining5.png",
+        "instructions": [
+          "Hold dumbbells at shoulder height",
+          "Press weights straight overhead",
+          "Keep your core engaged",
+          "Lower with control back to shoulders",
+          "Maintain proper posture"
+        ]
+      },
+      "step6": {
+        "stepNumber": 6,
+        "title": "Dumbbell Rows",
+        "description": "Build back strength with bent-over rows",
+        "duration": "3 sets of 12 reps",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/DumbbellTraining/DumbbellTraining6.png",
+        "instructions": [
+          "Bend forward with slight knee bend",
+          "Hold dumbbells with arms extended",
+          "Pull weights toward your lower chest",
+          "Squeeze your shoulder blades together",
+          "Lower with control"
+        ]
+      },
+      "step7": {
+        "stepNumber": 7,
+        "title": "Dumbbell Chest Press",
+        "description": "Strengthen your chest and triceps",
+        "duration": "3 sets of 12 reps",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/DumbbellTraining/DumbbellTraining7.png",
+        "instructions": [
+          "Lie on bench or floor with dumbbells",
+          "Start with weights at chest level",
+          "Press weights up and together",
+          "Lower with control to starting position",
+          "Keep your core engaged"
+        ]
+      },
+      "step8": {
+        "stepNumber": 8,
+        "title": "Dumbbell Bicep Curls",
+        "description": "Isolate and strengthen your biceps",
+        "duration": "3 sets of 12 reps",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/DumbbellTraining/DumbbellTraining8.png",
+        "instructions": [
+          "Hold dumbbells at your sides",
+          "Curl weights toward your shoulders",
+          "Keep your elbows close to your body",
+          "Lower with control",
+          "Avoid swinging the weights"
+        ]
+      },
+      "step9": {
+        "stepNumber": 9,
+        "title": "Cool Down Stretching",
+        "description": "Stretch your muscles to aid recovery",
+        "duration": "10 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/DumbbellTraining/DumbbellTraining9.png",
+        "instructions": [
+          "Stretch your chest and shoulders",
+          "Stretch your arms and biceps",
+          "Stretch your legs and glutes",
+          "Hold each stretch for 30 seconds",
+          "Breathe deeply during stretches"
           ]
         }
       },
       "equipment": [
-        "Exercise mat",
-        "Timer or stopwatch",
-        "Water bottle",
-        "Comfortable workout clothes"
+      "Dumbbells (various weights)",
+      "Exercise bench (optional)",
+      "Exercise mat",
+      "Water bottle"
       ],
       "precautions": [
-        "Warm up thoroughly before starting",
-        "Start with lower intensity if you're a beginner",
-        "Stay hydrated throughout the workout",
-        "Listen to your body and rest if needed",
-        "Maintain proper form to prevent injury",
-        "Cool down and stretch after each session",
-        "Consult a doctor if you have heart conditions"
-      ]
-    },
-    {
-      "id": "pilates",
-      "title": "Pilates",
-      "imageUrl": "assets/DraggableAction/training_images/pilates.jpg",
-      "duration": "3 weeks' training",
-      "isFavorite": false,
-      "category": "Flexibility",
-      "difficulty": "Beginner",
-      "description": "Pilates is a low-impact exercise method that focuses on core strength, flexibility, and body alignment through controlled movements and breathing techniques.",
-      "benefits": [
-        "Strengthens core muscles",
-        "Improves flexibility and posture",
-        "Enhances body awareness",
-        "May help with back support",
-        "Improves balance and coordination"
-      ],
-      "trainingMethod": {
-        "frequency": "4-5 times per week",
-        "duration": "30-45 minutes per session",
-        "intensity": "Low to moderate intensity",
-        "warmUp": "5 minutes of gentle movement",
-        "coolDown": "5 minutes of relaxation"
-      },
-      "trainingSteps": {
-        "week1": {
-          "title": "Week 1: Foundation and Core",
-          "description": "Learn basic Pilates principles and core exercises",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Hundred 10 breaths × 3 sets\nRoll Up 8 reps\nSingle Leg Stretch 10 reps each leg\nDouble Leg Stretch 10 reps\nCriss Cross 10 reps each side",
-              "tips": "Focus on breathing and core engagement"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Allow body to recover"
-            },
-            {
-              "day": 3,
-              "content": "Spine Stretch Forward 8 reps\nSaw 8 reps each side\nSwan Prep 8 reps\nSingle Leg Kick 10 reps each leg\nDouble Leg Kick 10 reps",
-              "tips": "Maintain spinal alignment"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Hundred 10 breaths × 3 sets\nRoll Up 10 reps\nScissors 10 reps each leg\nBicycle 10 reps each side\nShoulder Bridge 10 reps",
-              "tips": "Connect movement with breath"
-            },
-            {
-              "day": 6,
-              "content": "Spine Twist 10 reps each side\nSide Kick Series 10 reps each side\nLeg Circles 10 reps each direction\nTeaser Prep 5 reps",
-              "tips": "Focus on control and precision"
-            },
-            {
-              "day": 7,
-              "content": "Rest",
-              "tips": "Week summary, prepare for next week"
-            }
-          ]
-        },
-        "week2": {
-          "title": "Week 2: Building Strength",
-          "description": "Increase repetitions and add more challenging exercises",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Hundred 10 breaths × 4 sets\nRoll Up 12 reps\nSingle Leg Stretch 12 reps each leg\nDouble Leg Stretch 12 reps\nCriss Cross 12 reps each side\nTeaser 8 reps",
-              "tips": "Increase core strength"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Recovery day"
-            },
-            {
-              "day": 3,
-              "content": "Spine Stretch Forward 12 reps\nSaw 12 reps each side\nSwan 10 reps\nSingle Leg Kick 12 reps each leg\nDouble Leg Kick 12 reps\nSwimming 10 reps",
-              "tips": "Strengthen back extensors"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Hundred 10 breaths × 4 sets\nRoll Up 12 reps\nScissors 12 reps each leg\nBicycle 12 reps each side\nShoulder Bridge 12 reps\nLeg Pull Front 8 reps each side",
-              "tips": "Build full body strength"
-            },
-            {
-              "day": 6,
-              "content": "Spine Twist 12 reps each side\nSide Kick Series 12 reps each side\nLeg Circles 12 reps each direction\nTeaser 10 reps\nSide Plank 30 seconds each side",
-              "tips": "Improve balance and stability"
-            },
-            {
-              "day": 7,
-              "content": "Rest",
-              "tips": "Week summary"
-            }
-          ]
-        },
-        "week3": {
-          "title": "Week 3: Advanced Practice",
-          "description": "Master advanced movements and create flowing sequences",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Hundred 10 breaths × 5 sets\nRoll Up 15 reps\nSingle Leg Stretch 15 reps each leg\nDouble Leg Stretch 15 reps\nCriss Cross 15 reps each side\nTeaser 12 reps\nCorkscrew 10 reps each direction",
-              "tips": "Advanced core sequence"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Recovery day"
-            },
-            {
-              "day": 3,
-              "content": "Spine Stretch Forward 15 reps\nSaw 15 reps each side\nSwan 12 reps\nSingle Leg Kick 15 reps each leg\nDouble Leg Kick 15 reps\nSwimming 12 reps\nRocking 10 reps",
-              "tips": "Complete back extension series"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Hundred 10 breaths × 5 sets\nRoll Up 15 reps\nScissors 15 reps each leg\nBicycle 15 reps each side\nShoulder Bridge 15 reps\nLeg Pull Front 12 reps each side\nLeg Pull Back 10 reps each side",
-              "tips": "Full body integration"
-            },
-            {
-              "day": 6,
-              "content": "Spine Twist 15 reps each side\nSide Kick Series 15 reps each side\nLeg Circles 15 reps each direction\nTeaser 12 reps\nSide Plank 45 seconds each side\nStar 8 reps",
-              "tips": "Master balance and control"
-            },
-            {
-              "day": 7,
-              "content": "Complete Pilates flow sequence\nAll favorite exercises\nTest your three weeks of progress",
-              "tips": "Test three weeks of training results"
-            }
-          ]
-        }
-      },
-      "equipment": [
-        "Pilates mat",
-        "Resistance band (optional)",
-        "Pilates ball (optional)",
-        "Small weights (optional)"
-      ],
-      "precautions": [
-        "Focus on quality over quantity",
-        "Maintain proper alignment throughout",
-        "Breathe deeply and consistently",
-        "Move slowly and with control",
+      "Start with lighter weights to learn proper form",
+      "Warm up thoroughly before lifting",
+      "Maintain proper posture throughout",
+      "Don't lift too heavy too soon",
+      "Rest between sets",
         "Stop if you feel pain",
-        "Consult a doctor if you have back problems"
+      "Stay hydrated"
       ]
     },
     {
       "id": "cycling",
       "title": "Cycling",
-      "imageUrl": "assets/DraggableAction/training_images/cycling.jpg",
+    "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining1.png",
       "duration": "3 weeks' training",
       "isFavorite": false,
       "category": "Cardio",
@@ -881,127 +1096,172 @@
         "coolDown": "5-10 minutes of easy pedaling and stretching"
       },
       "trainingSteps": {
-        "week1": {
-          "title": "Week 1: Building Base",
-          "description": "Establish cycling rhythm and build basic endurance",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Easy ride 20 minutes at comfortable pace\nFocus on smooth pedaling technique",
-              "tips": "Maintain steady cadence, don't push too hard"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Allow body to recover"
-            },
-            {
-              "day": 3,
-              "content": "Easy ride 25 minutes\nInclude 3 × 2-minute moderate efforts with 2-minute recovery",
-              "tips": "Introduce light intervals"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Easy ride 30 minutes at steady pace\nFocus on maintaining consistent speed",
-              "tips": "Build endurance gradually"
-            },
-            {
-              "day": 6,
-              "content": "Easy ride 20 minutes\nInclude gentle hills or resistance changes",
-              "tips": "Recovery ride with light variation"
-            },
-            {
-              "day": 7,
-              "content": "Rest",
-              "tips": "Week summary, prepare for next week"
-            }
-          ]
-        },
-        "week2": {
-          "title": "Week 2: Increasing Distance",
-          "description": "Increase ride duration and add more intervals",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Moderate ride 35 minutes\nInclude 4 × 3-minute moderate efforts with 2-minute recovery",
-              "tips": "Increase interval duration"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Recovery day"
-            },
-            {
-              "day": 3,
-              "content": "Easy ride 40 minutes at steady pace\nFocus on maintaining cadence",
-              "tips": "Build aerobic base"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Interval ride 30 minutes\n5 × 2-minute hard efforts with 3-minute easy recovery",
-              "tips": "Higher intensity intervals"
-            },
-            {
-              "day": 6,
-              "content": "Long easy ride 45 minutes\nMaintain comfortable pace throughout",
-              "tips": "Endurance building"
-            },
-            {
-              "day": 7,
-              "content": "Rest",
-              "tips": "Week summary"
-            }
-          ]
-        },
-        "week3": {
-          "title": "Week 3: Advanced Training",
-          "description": "Challenge with longer rides and varied intensity",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Interval ride 35 minutes\n6 × 3-minute hard efforts with 2-minute recovery\nFocus on maintaining power",
-              "tips": "Advanced interval training"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Recovery day"
-            },
-            {
-              "day": 3,
-              "content": "Tempo ride 45 minutes\n20 minutes at moderate-hard pace in the middle",
-              "tips": "Sustained effort training"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Hill intervals 40 minutes\n8 × 1-minute hill efforts with 2-minute recovery\nOr resistance intervals if indoors",
-              "tips": "Power and strength building"
-            },
-            {
-              "day": 6,
-              "content": "Long ride 50-60 minutes\nMaintain steady pace, enjoy the ride",
-              "tips": "Maximum endurance challenge"
-            },
-            {
-              "day": 7,
-              "content": "Test: 30-minute time trial\nRide at your best effort for 30 minutes\nTest your three weeks of progress",
-              "tips": "Test three weeks of training results"
-            }
+      "step1": {
+        "stepNumber": 1,
+        "title": "Bike Setup and Posture",
+        "description": "Adjust your bike and maintain proper cycling posture",
+        "duration": "5 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining1.png",
+        "instructions": [
+          "Adjust seat height so your leg is almost fully extended at bottom of pedal stroke",
+          "Position handlebars at comfortable height",
+          "Keep your back straight and shoulders relaxed",
+          "Maintain a slight forward lean",
+          "Keep your head up and eyes forward"
+        ]
+      },
+      "step2": {
+        "stepNumber": 2,
+        "title": "Easy Pedaling Warm-up",
+        "description": "Start with gentle pedaling to warm up your muscles",
+        "duration": "5-10 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining2.png",
+        "instructions": [
+          "Begin with very light resistance",
+          "Pedal at a comfortable, steady pace",
+          "Focus on smooth, circular pedaling motion",
+          "Gradually increase your pace",
+          "Allow your heart rate to rise gradually"
+        ]
+      },
+      "step3": {
+        "stepNumber": 3,
+        "title": "Proper Pedaling Technique",
+        "description": "Master efficient pedaling with full circular motion",
+        "duration": "Continuous",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining3.png",
+        "instructions": [
+          "Push down with your toes on the downstroke",
+          "Pull up with your heel on the upstroke",
+          "Maintain a smooth, circular motion",
+          "Keep your cadence between 80-100 RPM",
+          "Avoid bouncing in the saddle"
+        ]
+      },
+      "step4": {
+        "stepNumber": 4,
+        "title": "Steady State Cycling",
+        "description": "Maintain a consistent pace for endurance building",
+        "duration": "20-30 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining4.png",
+        "instructions": [
+          "Find a comfortable pace you can maintain",
+          "Keep your breathing steady and controlled",
+          "Maintain consistent pedaling cadence",
+          "Focus on smooth, efficient movement",
+          "Stay relaxed in your upper body"
+        ]
+      },
+      "step5": {
+        "stepNumber": 5,
+        "title": "Interval Training",
+        "description": "Alternate between high and low intensity periods",
+        "duration": "20 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining5.png",
+        "instructions": [
+          "Pedal hard for 1-2 minutes",
+          "Recover with easy pedaling for 2-3 minutes",
+          "Repeat the cycle 4-6 times",
+          "Increase resistance during hard intervals",
+          "Maintain form throughout"
+        ]
+      },
+      "step6": {
+        "stepNumber": 6,
+        "title": "Hill Climbing Technique",
+        "description": "Master climbing hills or increasing resistance",
+        "duration": "10-15 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining6.png",
+        "instructions": [
+          "Shift to a lower gear before the hill",
+          "Stand up on pedals for extra power",
+          "Lean forward slightly",
+          "Maintain steady breathing",
+          "Keep your core engaged"
+        ]
+      },
+      "step7": {
+        "stepNumber": 7,
+        "title": "Seated Climbing",
+        "description": "Build leg strength with seated hill climbs",
+        "duration": "5-10 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining7.png",
+        "instructions": [
+          "Stay seated in the saddle",
+          "Increase resistance gradually",
+          "Maintain steady pedaling cadence",
+          "Keep your upper body still",
+          "Focus on pushing through your legs"
+        ]
+      },
+      "step8": {
+        "stepNumber": 8,
+        "title": "Sprint Intervals",
+        "description": "Build power and speed with short sprints",
+        "duration": "15 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining8.png",
+        "instructions": [
+          "Pedal as fast as you can for 30 seconds",
+          "Recover with easy pedaling for 2 minutes",
+          "Repeat 5-8 times",
+          "Maintain proper form during sprints",
+          "Focus on smooth, powerful strokes"
+        ]
+      },
+      "step9": {
+        "stepNumber": 9,
+        "title": "Long Distance Ride",
+        "description": "Build endurance with longer rides",
+        "duration": "45-60 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining9.png",
+        "instructions": [
+          "Maintain a steady, comfortable pace",
+          "Keep your heart rate in aerobic zone",
+          "Stay hydrated throughout",
+          "Change hand positions periodically",
+          "Focus on consistent pedaling"
+        ]
+      },
+      "step10": {
+        "stepNumber": 10,
+        "title": "Cool Down Pedaling",
+        "description": "Gradually reduce intensity to allow recovery",
+        "duration": "5-10 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining10.png",
+        "instructions": [
+          "Reduce resistance to minimum",
+          "Pedal at a very easy pace",
+          "Allow your heart rate to decrease gradually",
+          "Keep pedaling until heart rate is near resting",
+          "Prepare for stretching"
+        ]
+      },
+      "step11": {
+        "stepNumber": 11,
+        "title": "Post-Ride Stretching",
+        "description": "Stretch your muscles to improve flexibility and recovery",
+        "duration": "5-10 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining11.png",
+        "instructions": [
+          "Stretch your quadriceps (front of thighs)",
+          "Stretch your hamstrings (back of thighs)",
+          "Stretch your calves and glutes",
+          "Stretch your lower back and hips",
+          "Hold each stretch for 20-30 seconds"
+        ]
+      },
+      "step12": {
+        "stepNumber": 12,
+        "title": "Recovery and Hydration",
+        "description": "Complete your workout with proper recovery",
+        "duration": "5 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/CyclingTraining/CyclingTraining12.png",
+        "instructions": [
+          "Drink water to rehydrate",
+          "Allow your body to cool down naturally",
+          "Refuel with a light snack if needed",
+          "Monitor how you feel",
+          "Plan your next training session"
           ]
         }
       },
@@ -1023,169 +1283,465 @@
       ]
     },
     {
-      "id": "boxing",
-      "title": "Boxing",
-      "imageUrl": "assets/DraggableAction/training_images/boxing.jpg",
+    "id": "pamela",
+    "title": "Pamela Workout",
+    "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela1.png",
       "duration": "3 weeks' training",
       "isFavorite": true,
       "category": "Cardio",
       "difficulty": "Intermediate",
-      "description": "Boxing training combines cardiovascular exercise with strength training, improving coordination, agility, and overall fitness through punching combinations and footwork.",
+    "description": "Pamela workout is a high-intensity full-body training program that combines cardio and strength exercises to burn calories and build muscle.",
       "benefits": [
+      "Burns calories effectively",
         "Improves cardiovascular fitness",
+      "Builds full-body strength",
         "Enhances coordination and agility",
-        "Builds upper body strength",
-        "Releases stress and tension",
-        "Improves reflexes and reaction time"
+      "Time-efficient workout"
       ],
       "trainingMethod": {
-        "frequency": "3-4 times per week",
-        "duration": "30-45 minutes per session",
+      "frequency": "4-5 times per week",
+      "duration": "20-30 minutes per session",
         "intensity": "High intensity",
-        "warmUp": "10 minutes of light movement and shadow boxing",
-        "coolDown": "10 minutes of stretching"
+      "warmUp": "5 minutes of dynamic warm-up",
+      "coolDown": "5-10 minutes of stretching"
       },
       "trainingSteps": {
-        "week1": {
-          "title": "Week 1: Fundamentals",
-          "description": "Learn basic boxing stance, punches, and footwork",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Warm-up 10 min\nBasic stance and footwork 10 min\nJab practice 5 min\nCross practice 5 min\nShadow boxing 5 min\nCool-down 10 min",
-              "tips": "Focus on proper form and technique"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Allow body to recover"
-            },
-            {
-              "day": 3,
-              "content": "Warm-up 10 min\nHook practice 5 min\nUppercut practice 5 min\nJab-Cross combination 10 min\nShadow boxing 5 min\nCool-down 10 min",
-              "tips": "Master basic punches"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Warm-up 10 min\nFootwork drills 10 min\nJab-Cross-Hook combination 10 min\nBag work (if available) 5 min\nShadow boxing 5 min\nCool-down 10 min",
-              "tips": "Combine punches with movement"
-            },
-            {
-              "day": 6,
-              "content": "Warm-up 10 min\nDefensive movements 10 min\nAll basic combinations 10 min\nShadow boxing 10 min\nCool-down 10 min",
-              "tips": "Practice defense and offense"
-            },
-            {
-              "day": 7,
-              "content": "Rest",
-              "tips": "Week summary, prepare for next week"
-            }
-          ]
-        },
-        "week2": {
-          "title": "Week 2: Building Combinations",
-          "description": "Develop punch combinations and increase intensity",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Warm-up 10 min\nAdvanced footwork 10 min\nJab-Cross-Hook-Uppercut combo 10 min\nBag work 10 min\nShadow boxing 5 min\nCool-down 10 min",
-              "tips": "Increase combination complexity"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Recovery day"
-            },
-            {
-              "day": 3,
-              "content": "Warm-up 10 min\nSpeed bag or pad work 10 min\nMultiple combinations 15 min\nDefensive drills 5 min\nShadow boxing 5 min\nCool-down 10 min",
-              "tips": "Improve speed and accuracy"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Warm-up 10 min\nInterval bag work: 3 min work, 1 min rest × 5 rounds\nShadow boxing 5 min\nCool-down 10 min",
-              "tips": "Build endurance and power"
-            },
-            {
-              "day": 6,
-              "content": "Warm-up 10 min\nFootwork and movement drills 10 min\nComplex combinations 15 min\nDefensive and counter-attack practice 5 min\nCool-down 10 min",
-              "tips": "Advanced technique practice"
-            },
-            {
-              "day": 7,
-              "content": "Rest",
-              "tips": "Week summary"
-            }
-          ]
-        },
-        "week3": {
-          "title": "Week 3: Advanced Training",
-          "description": "Master advanced combinations and maximize performance",
-          "sessions": [
-            {
-              "day": 1,
-              "content": "Warm-up 10 min\nAdvanced footwork patterns 10 min\nComplex 6-8 punch combinations 15 min\nHeavy bag work 10 min\nShadow boxing 5 min\nCool-down 10 min",
-              "tips": "Master advanced techniques"
-            },
-            {
-              "day": 2,
-              "content": "Rest or light stretching",
-              "tips": "Recovery day"
-            },
-            {
-              "day": 3,
-              "content": "Warm-up 10 min\nSpeed and agility drills 10 min\nInterval training: 3 min rounds × 6 with 1 min rest\nShadow boxing 5 min\nCool-down 10 min",
-              "tips": "Maximum intensity intervals"
-            },
-            {
-              "day": 4,
-              "content": "Rest",
-              "tips": "Full rest day"
-            },
-            {
-              "day": 5,
-              "content": "Warm-up 10 min\nDefensive and counter-attack combinations 15 min\nPower punching drills 10 min\nBag work 10 min\nCool-down 10 min",
-              "tips": "Complete boxing skills"
-            },
-            {
-              "day": 6,
-              "content": "Warm-up 10 min\nFull boxing circuit: combinations, footwork, defense 20 min\nShadow boxing 10 min\nCool-down 10 min",
-              "tips": "Complete integrated practice"
-            },
-            {
-              "day": 7,
-              "content": "Test: 3-minute rounds × 5\nFull intensity boxing rounds\nTest your three weeks of progress",
-              "tips": "Test three weeks of training results"
-            }
+      "step1": {
+        "stepNumber": 1,
+        "title": "Warm-up Jumping Jacks",
+        "description": "Elevate your heart rate with jumping jacks",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela1.png",
+        "instructions": [
+          "Start with feet together and arms at sides",
+          "Jump and spread your legs wide",
+          "Simultaneously raise your arms overhead",
+          "Jump back to starting position",
+          "Maintain a steady, quick pace"
+        ]
+      },
+      "step2": {
+        "stepNumber": 2,
+        "title": "High Knees",
+        "description": "Continue warming up with high knee lifts",
+        "duration": "1 minute",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela2.png",
+        "instructions": [
+          "Stand tall with feet hip-width apart",
+          "Lift your right knee high toward your chest",
+          "Lower and immediately lift your left knee",
+          "Pump your arms as you lift your knees",
+          "Maintain a quick, steady pace"
+        ]
+      },
+      "step3": {
+        "stepNumber": 3,
+        "title": "Squats",
+        "description": "Build lower body strength with bodyweight squats",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela3.png",
+        "instructions": [
+          "Stand with feet shoulder-width apart",
+          "Lower your hips as if sitting in a chair",
+          "Keep your knees behind your toes",
+          "Lower until thighs are parallel to floor",
+          "Push through heels to return to standing"
+        ]
+      },
+      "step4": {
+        "stepNumber": 4,
+        "title": "Jump Squats",
+        "description": "Add explosive power with jump squats",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela4.png",
+        "instructions": [
+          "Start in squat position",
+          "Explode upward into a jump",
+          "Land softly back in squat position",
+          "Immediately go into next rep",
+          "Maintain proper form throughout"
+        ]
+      },
+      "step5": {
+        "stepNumber": 5,
+        "title": "Push-ups",
+        "description": "Strengthen your chest, shoulders, and triceps",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela5.png",
+        "instructions": [
+          "Start in plank position with hands under shoulders",
+          "Lower your body until chest nearly touches floor",
+          "Push back up to starting position",
+          "Keep your core engaged",
+          "Maintain straight body alignment"
+        ]
+      },
+      "step6": {
+        "stepNumber": 6,
+        "title": "Plank",
+        "description": "Build core strength and stability",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela6.png",
+        "instructions": [
+          "Start in push-up position",
+          "Lower to forearms",
+          "Keep your body in a straight line",
+          "Engage your core muscles",
+          "Hold the position steadily"
+        ]
+      },
+      "step7": {
+        "stepNumber": 7,
+        "title": "Mountain Climbers",
+        "description": "Full-body cardio exercise for strength and endurance",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela7.png",
+        "instructions": [
+          "Start in plank position",
+          "Bring your right knee toward your chest",
+          "Quickly switch to bring left knee forward",
+          "Maintain a strong plank position",
+          "Keep a steady, controlled pace"
+        ]
+      },
+      "step8": {
+        "stepNumber": 8,
+        "title": "Burpees",
+        "description": "High-intensity full-body exercise",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela8.png",
+        "instructions": [
+          "Start standing, then squat down",
+          "Place hands on floor and jump feet back to plank",
+          "Do a push-up (optional)",
+          "Jump feet forward and explode upward",
+          "Land softly and repeat"
+        ]
+      },
+      "step9": {
+        "stepNumber": 9,
+        "title": "Lunges",
+        "description": "Target your legs and glutes with forward lunges",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela9.png",
+        "instructions": [
+          "Step forward with one leg",
+          "Bend both knees to 90 degrees",
+          "Keep your front knee over your ankle",
+          "Push back to starting position",
+          "Alternate legs"
+        ]
+      },
+      "step10": {
+        "stepNumber": 10,
+        "title": "Jumping Lunges",
+        "description": "Add power and intensity with jumping lunges",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela10.png",
+        "instructions": [
+          "Start in lunge position",
+          "Jump and switch legs in mid-air",
+          "Land in lunge position with opposite leg forward",
+          "Continue alternating quickly",
+          "Maintain balance and control"
+        ]
+      },
+      "step11": {
+        "stepNumber": 11,
+        "title": "Plank Jacks",
+        "description": "Combine plank with jumping jacks for core and cardio",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela11.png",
+        "instructions": [
+          "Start in plank position",
+          "Jump your feet wide apart",
+          "Jump feet back together",
+          "Keep your core engaged",
+          "Maintain steady rhythm"
+        ]
+      },
+      "step12": {
+        "stepNumber": 12,
+        "title": "Side Plank",
+        "description": "Strengthen your obliques and improve stability",
+        "duration": "30 seconds each side",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela12.png",
+        "instructions": [
+          "Lie on your side with legs straight",
+          "Prop up on your forearm",
+          "Lift your hips off the ground",
+          "Keep your body in a straight line",
+          "Hold and breathe steadily"
+        ]
+      },
+      "step13": {
+        "stepNumber": 13,
+        "title": "Russian Twists",
+        "description": "Target your obliques and core",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela13.png",
+        "instructions": [
+          "Sit with knees bent and lean back slightly",
+          "Lift your feet off the ground",
+          "Rotate your torso from side to side",
+          "Keep your core engaged",
+          "Maintain steady breathing"
+        ]
+      },
+      "step14": {
+        "stepNumber": 14,
+        "title": "Bicycle Crunches",
+        "description": "Strengthen your abs with bicycle crunches",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela14.png",
+        "instructions": [
+          "Lie on your back with hands behind head",
+          "Bring your right knee toward your chest",
+          "Rotate to touch your left elbow to right knee",
+          "Switch sides in a pedaling motion",
+          "Keep your core engaged throughout"
+        ]
+      },
+      "step15": {
+        "stepNumber": 15,
+        "title": "Leg Raises",
+        "description": "Target your lower abs with leg raises",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela15.png",
+        "instructions": [
+          "Lie on your back with hands under your glutes",
+          "Lift your legs straight up",
+          "Lower them slowly without touching the floor",
+          "Lift back up immediately",
+          "Keep your lower back pressed to the floor"
+        ]
+      },
+      "step16": {
+        "stepNumber": 16,
+        "title": "Butt Kicks",
+        "description": "Warm up your hamstrings and increase heart rate",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela16.png",
+        "instructions": [
+          "Stand with feet hip-width apart",
+          "Bend your right knee and kick your heel toward your glutes",
+          "Quickly switch to the left leg",
+          "Pump your arms as you kick",
+          "Maintain a quick, steady rhythm"
+        ]
+      },
+      "step17": {
+        "stepNumber": 17,
+        "title": "Side Kicks",
+        "description": "Strengthen your legs and improve balance",
+        "duration": "30 seconds each side",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela17.png",
+        "instructions": [
+          "Stand on one leg for support",
+          "Lift your other leg to the side",
+          "Extend your leg straight out horizontally",
+          "Keep your standing leg stable",
+          "Return leg to starting position"
+        ]
+      },
+      "step18": {
+        "stepNumber": 18,
+        "title": "Donkey Kicks",
+        "description": "Target your glutes with donkey kicks",
+        "duration": "30 seconds each leg",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela18.png",
+        "instructions": [
+          "Start on hands and knees",
+          "Lift one leg up and back",
+          "Keep your knee bent at 90 degrees",
+          "Squeeze your glute at the top",
+          "Lower and repeat, then switch legs"
+        ]
+      },
+      "step19": {
+        "stepNumber": 19,
+        "title": "Fire Hydrants",
+        "description": "Strengthen your glutes and hip abductors",
+        "duration": "30 seconds each side",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela19.png",
+        "instructions": [
+          "Start on hands and knees",
+          "Lift one leg out to the side",
+          "Keep your knee bent at 90 degrees",
+          "Lift as high as comfortable",
+          "Lower and repeat, then switch sides"
+        ]
+      },
+      "step20": {
+        "stepNumber": 20,
+        "title": "Tricep Dips",
+        "description": "Strengthen your triceps and shoulders",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela20.png",
+        "instructions": [
+          "Sit on edge of chair or bench",
+          "Place hands on edge next to your hips",
+          "Slide forward off the edge",
+          "Lower your body by bending your arms",
+          "Push back up to starting position"
+        ]
+      },
+      "step21": {
+        "stepNumber": 21,
+        "title": "Diamond Push-ups",
+        "description": "Target your triceps with diamond push-ups",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela21.png",
+        "instructions": [
+          "Start in push-up position",
+          "Place hands together forming a diamond shape",
+          "Lower your body toward your hands",
+          "Push back up to starting position",
+          "Keep your core engaged"
+        ]
+      },
+      "step22": {
+        "stepNumber": 22,
+        "title": "Pike Push-ups",
+        "description": "Strengthen your shoulders with pike push-ups",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela22.png",
+        "instructions": [
+          "Start in downward dog position",
+          "Bend your arms and lower your head toward the floor",
+          "Push back up to starting position",
+          "Keep your legs as straight as possible",
+          "Focus on shoulder strength"
+        ]
+      },
+      "step23": {
+        "stepNumber": 23,
+        "title": "Superman",
+        "description": "Strengthen your lower back and glutes",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela23.png",
+        "instructions": [
+          "Lie face down with arms extended forward",
+          "Lift your arms, chest, and legs off the ground",
+          "Squeeze your glutes and lower back",
+          "Hold for a moment",
+          "Lower and repeat"
+        ]
+      },
+      "step24": {
+        "stepNumber": 24,
+        "title": "Reverse Plank",
+        "description": "Strengthen your posterior chain",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela24.png",
+        "instructions": [
+          "Sit with legs extended",
+          "Place hands behind you, fingers pointing forward",
+          "Lift your hips up",
+          "Keep your body in a straight line",
+          "Hold and breathe steadily"
+        ]
+      },
+      "step25": {
+        "stepNumber": 25,
+        "title": "Wall Sit",
+        "description": "Build leg endurance with wall sits",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela25.png",
+        "instructions": [
+          "Lean against a wall",
+          "Slide down until knees are at 90 degrees",
+          "Keep your back flat against the wall",
+          "Hold the position",
+          "Keep your core engaged"
+        ]
+      },
+      "step26": {
+        "stepNumber": 26,
+        "title": "Calf Raises",
+        "description": "Strengthen your calves",
+        "duration": "45 seconds",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela26.png",
+        "instructions": [
+          "Stand with feet hip-width apart",
+          "Rise up onto your toes",
+          "Lower back down slowly",
+          "Repeat at a steady pace",
+          "Keep your core engaged"
+        ]
+      },
+      "step27": {
+        "stepNumber": 27,
+        "title": "Cool Down Walk",
+        "description": "Gradually reduce your heart rate",
+        "duration": "2 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela27.png",
+        "instructions": [
+          "Slow down your movements",
+          "Walk in place or around the room",
+          "Take deep, controlled breaths",
+          "Allow your heart rate to decrease gradually",
+          "Prepare for stretching"
+        ]
+      },
+      "step28": {
+        "stepNumber": 28,
+        "title": "Full Body Stretching",
+        "description": "Stretch all major muscle groups",
+        "duration": "5-10 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela28.png",
+        "instructions": [
+          "Stretch your legs: quads, hamstrings, calves",
+          "Stretch your upper body: chest, shoulders, arms",
+          "Stretch your core and back",
+          "Hold each stretch for 20-30 seconds",
+          "Breathe deeply during stretches"
+        ]
+      },
+      "step29": {
+        "stepNumber": 29,
+        "title": "Deep Breathing",
+        "description": "Calm your nervous system with deep breathing",
+        "duration": "2 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela29.png",
+        "instructions": [
+          "Sit or lie in a comfortable position",
+          "Inhale deeply through your nose for 4 counts",
+          "Hold your breath for 4 counts",
+          "Exhale slowly through your mouth for 4 counts",
+          "Repeat and focus on your breath"
+        ]
+      },
+      "step30": {
+        "stepNumber": 30,
+        "title": "Recovery and Reflection",
+        "description": "Complete your workout with recovery",
+        "duration": "2 minutes",
+        "imageUrl": "assets/DraggableAction/ExerciseSteps/Pamela/Pamela30.png",
+        "instructions": [
+          "Drink water to rehydrate",
+          "Allow your body to cool down",
+          "Reflect on your workout",
+          "Celebrate your effort",
+          "Plan your next session"
           ]
         }
       },
       "equipment": [
-        "Boxing gloves",
-        "Hand wraps",
-        "Punching bag (optional)",
-        "Jump rope (optional)",
-        "Focus mitts (optional)"
+      "Exercise mat",
+      "Comfortable workout clothes",
+      "Water bottle",
+      "Timer or stopwatch"
       ],
       "precautions": [
-        "Always wrap your hands before training",
-        "Warm up thoroughly",
-        "Start with light intensity",
-        "Maintain proper form to prevent injury",
-        "Stay hydrated",
-        "Use proper equipment",
-        "Consult a doctor if you have hand or wrist injuries"
-      ]
-    }
-  ]
-}
+      "Warm up thoroughly before starting",
+      "Start at a comfortable pace and gradually increase intensity",
+      "Maintain proper form throughout all exercises",
+      "Stay hydrated during the workout",
+      "Listen to your body and rest if needed",
+      "Cool down and stretch after each session",
+      "Consult a doctor if you have any health concerns"
+    ]
+  }
+]
+

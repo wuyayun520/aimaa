@@ -16,7 +16,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.0.0+4
+version: 1.0.0+5
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -81,7 +81,14 @@ flutter:
     - assets/aimaa_logo_icon.png
     - assets/DraggableAction/StepsData.json
     - assets/DraggableAction/Aimaa_users_info.json
-    - assets/DraggableAction/training_images/
+    - assets/DraggableAction/ExerciseSteps/
+    - assets/DraggableAction/ExerciseSteps/AerobicExercises/
+    - assets/DraggableAction/ExerciseSteps/Boxing/
+    - assets/DraggableAction/ExerciseSteps/CyclingTraining/
+    - assets/DraggableAction/ExerciseSteps/DumbbellTraining/
+    - assets/DraggableAction/ExerciseSteps/Pamela/
+    - assets/DraggableAction/ExerciseSteps/Running/
+    - assets/DraggableAction/ExerciseSteps/Yoga/
     - assets/DraggableAction/Aimaa1/
     - assets/DraggableAction/Aimaa2/
     - assets/DraggableAction/Aimaa3/
