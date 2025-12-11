@@ -16,7 +16,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.0.0+5
+version: 1.0.0+6
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -40,6 +40,8 @@ dependencies:
   path_provider: ^2.1.1
   video_player: ^2.8.1
   image_picker: ^1.0.7
+  just_audio: ^0.9.36
+  record: ^6.0.0
 
 dev_dependencies:
   flutter_test:
@@ -79,6 +81,7 @@ flutter:
     - assets/aimma_community_banner.webp
     - assets/aimaa_me_header.webp
     - assets/aimaa_logo_icon.png
+    - assets/aimaa_profile_chat.png
     - assets/DraggableAction/StepsData.json
     - assets/DraggableAction/Aimaa_users_info.json
     - assets/DraggableAction/ExerciseSteps/

@@ -7,6 +7,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:video_thumbnail/video_thumbnail.dart';
 import 'package:aimaa/models/community_user.dart';
 import 'package:aimaa/screens/video_player_screen.dart';
+import 'package:aimaa/screens/user_detail_screen.dart';
 
 class CommunityTab extends StatefulWidget {
   const CommunityTab({super.key});
@@ -21,14 +22,30 @@ class _CommunityTabState extends State<CommunityTab> {
   Set<String> _likedPosts = {}; // Track liked posts by post ID
   Map<String, int> _postLikes = {}; // Track likes count for each post
   Set<String> _hiddenVideos = {}; // Track hidden videos by post ID
+  Set<String> _blockedUsers = {}; // Track blocked users by user ID
 
   @override
   void initState() {
     super.initState();
+    _loadBlockedUsers();
     _loadUsers();
     _loadLikedPosts();
     _loadPostLikes();
     _loadHiddenVideos();
+  }
+
+  Future<void> _loadBlockedUsers() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final blockedList = prefs.getStringList('blocked_users') ?? [];
+      setState(() {
+        _blockedUsers = blockedList.toSet();
+      });
+      // Reload users to filter blocked users
+      _loadUsers();
+    } catch (e) {
+      // Handle error
+    }
   }
 
   Future<void> _loadHiddenVideos() async {
@@ -119,9 +136,9 @@ class _CommunityTabState extends State<CommunityTab> {
           .map((json) => CommunityUser.fromJson(json as Map<String, dynamic>))
           .toList();
       
-      // Filter out hidden videos
+      // Filter out hidden videos and blocked users
       final filteredUsers = allUsers.where((user) {
-        return !_hiddenVideos.contains(user.post.id);
+        return !_hiddenVideos.contains(user.post.id) && !_blockedUsers.contains(user.id);
       }).toList();
       
       setState(() {
@@ -340,32 +357,57 @@ class _CommunityTabState extends State<CommunityTab> {
                   // User header
                   Row(
                     children: [
-                      CircleAvatar(
-                        radius: 20,
-                        backgroundImage: AssetImage(user.avatar),
-                        onBackgroundImageError: (exception, stackTrace) {},
+                      GestureDetector(
+                        onTap: () async {
+                          final result = await Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => UserDetailScreen(user: user),
+                            ),
+                          );
+                          
+                          // If user was blocked, reload the list
+                          if (result == true) {
+                            _loadBlockedUsers();
+                          }
+                        },
+                        child: CircleAvatar(
+                          radius: 20,
+                          backgroundImage: AssetImage(user.avatar),
+                          onBackgroundImageError: (exception, stackTrace) {},
+                        ),
                       ),
                       const SizedBox(width: 12),
                       Expanded(
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              user.name,
-                              style: const TextStyle(
-                                fontSize: 16,
-                                fontWeight: FontWeight.bold,
-                                color: Colors.white,
+                        child: GestureDetector(
+                          onTap: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => UserDetailScreen(user: user),
                               ),
-                            ),
-                            Text(
-                              user.location,
-                              style: const TextStyle(
-                                fontSize: 12,
-                                color: Colors.white70,
+                            );
+                          },
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                user.name,
+                                style: const TextStyle(
+                                  fontSize: 16,
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.white,
+                                ),
                               ),
-                            ),
-                          ],
+                              Text(
+                                user.location,
+                                style: const TextStyle(
+                                  fontSize: 12,
+                                  color: Colors.white70,
+                                ),
+                              ),
+                            ],
+                          ),
                         ),
                       ),
                      
