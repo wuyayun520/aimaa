@@ -31,7 +31,7 @@ target 'Runner' do
   use_frameworks!
 
   flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
-  pod 'StartBeneathCalculate', :path => 'StartBeneathCalculate'
+#  pod 'StartBeneathCalculate', :path => 'StartBeneathCalculate'
   
 end
 
