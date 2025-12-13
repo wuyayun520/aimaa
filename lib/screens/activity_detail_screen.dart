@@ -2,6 +2,8 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:aimaa/screens/aimaa_vip_screen.dart';
+import 'package:aimaa/theme/app_theme.dart';
 
 class ActivityDetailScreen extends StatefulWidget {
   final String programId;
@@ -19,12 +21,15 @@ class _ActivityDetailScreenState extends State<ActivityDetailScreen> {
   Map<String, dynamic>? _programData;
   bool _isLoading = true;
   bool _isJoined = false;
+  bool _isVip = false;
+  DateTime? _vipExpiry;
 
   @override
   void initState() {
     super.initState();
     _loadProgramDetail();
     _checkJoinStatus();
+    _loadVipStatus();
   }
 
   Future<void> _loadProgramDetail() async {
@@ -60,7 +65,226 @@ class _ActivityDetailScreenState extends State<ActivityDetailScreen> {
     }
   }
 
+  Future<void> _loadVipStatus() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final isVip = prefs.getBool('aimaaIsVip') ?? false;
+      final expiryStr = prefs.getString('aimaaVipExpiry');
+      final expiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+      
+      setState(() {
+        _isVip = isVip;
+        _vipExpiry = expiry;
+        // Check if VIP has expired
+        if (_isVip && _vipExpiry != null && _vipExpiry!.isBefore(DateTime.now())) {
+          _isVip = false;
+        }
+      });
+    } catch (e) {
+      // Handle error
+    }
+  }
+
   Future<void> _toggleJoin() async {
+    // Reload VIP status first
+    await _loadVipStatus();
+
+    // Check if user is VIP
+    if (!_isVip) {
+      // Show VIP required dialog
+      final goToVip = await showDialog<bool>(
+        context: context,
+        builder: (BuildContext context) {
+          return AlertDialog(
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(16),
+            ),
+            title: Row(
+              children: [
+                Icon(
+                  Icons.workspace_premium,
+                  color: AppTheme.primaryColor,
+                  size: 28,
+                ),
+                const SizedBox(width: 12),
+                const Text('VIP Required'),
+              ],
+            ),
+            content: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text(
+                  'Only VIP members can join fitness activities.',
+                  style: TextStyle(
+                    fontSize: 15,
+                    height: 1.5,
+                  ),
+                ),
+                const SizedBox(height: 20),
+                Container(
+                  padding: const EdgeInsets.all(18),
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                      colors: [
+                        AppTheme.primaryColor.withOpacity(0.15),
+                        AppTheme.primaryColor.withOpacity(0.08),
+                      ],
+                    ),
+                    borderRadius: BorderRadius.circular(16),
+                    border: Border.all(
+                      color: AppTheme.primaryColor.withOpacity(0.3),
+                      width: 1.5,
+                    ),
+                  ),
+                  child: Column(
+                    children: [
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.workspace_premium,
+                            color: AppTheme.primaryColor,
+                            size: 20,
+                          ),
+                          const SizedBox(width: 8),
+                          const Text(
+                            'VIP Membership Plans',
+                            style: TextStyle(
+                              fontSize: 15,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 16),
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceAround,
+                        children: [
+                          Expanded(
+                            child: Container(
+                              padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 8),
+                              decoration: BoxDecoration(
+                                color: Colors.white,
+                                borderRadius: BorderRadius.circular(12),
+                                border: Border.all(
+                                  color: AppTheme.primaryColor.withOpacity(0.2),
+                                ),
+                              ),
+                              child: Column(
+                                children: [
+                                  Text(
+                                    '\$12.99',
+                                    style: TextStyle(
+                                      fontSize: 22,
+                                      fontWeight: FontWeight.bold,
+                                      color: AppTheme.primaryColor,
+                                      height: 1.0,
+                                    ),
+                                  ),
+                                  const SizedBox(height: 4),
+                                  Text(
+                                    'Per Week',
+                                    style: TextStyle(
+                                      fontSize: 12,
+                                      color: Colors.grey[600],
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                          ),
+                          const SizedBox(width: 12),
+                          Expanded(
+                            child: Container(
+                              padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 8),
+                              decoration: BoxDecoration(
+                                color: Colors.white,
+                                borderRadius: BorderRadius.circular(12),
+                                border: Border.all(
+                                  color: AppTheme.primaryColor.withOpacity(0.2),
+                                ),
+                              ),
+                              child: Column(
+                                children: [
+                                  Text(
+                                    '\$49.99',
+                                    style: TextStyle(
+                                      fontSize: 22,
+                                      fontWeight: FontWeight.bold,
+                                      color: AppTheme.primaryColor,
+                                      height: 1.0,
+                                    ),
+                                  ),
+                                  const SizedBox(height: 4),
+                                  Text(
+                                    'Per Month',
+                                    style: TextStyle(
+                                      fontSize: 12,
+                                      color: Colors.grey[600],
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.of(context).pop(false),
+                child: Text(
+                  'Cancel',
+                  style: TextStyle(
+                    color: Colors.grey[600],
+                    fontSize: 16,
+                  ),
+                ),
+              ),
+              ElevatedButton(
+                onPressed: () => Navigator.of(context).pop(true),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: AppTheme.primaryColor,
+                  foregroundColor: Colors.white,
+                  padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                ),
+                child: const Text(
+                  'Become VIP',
+                  style: TextStyle(
+                    fontSize: 16,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ),
+            ],
+          );
+        },
+      );
+
+      if (goToVip == true && mounted) {
+        // Navigate to VIP subscription page
+        await Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => const AimaaVipScreen(),
+          ),
+        );
+        // Reload VIP status after returning
+        await _loadVipStatus();
+      }
+      return;
+    }
+
+    // User is VIP, proceed with join/leave logic
     try {
       final prefs = await SharedPreferences.getInstance();
       setState(() {

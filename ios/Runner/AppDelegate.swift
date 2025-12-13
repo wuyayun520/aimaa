@@ -1,12 +1,15 @@
 import Flutter
 import UIKit
 import AppTrackingTransparency
+import SaverUnderPacific
+import FirebaseCore
+//: import FirebaseMessaging
+import FirebaseMessaging
 
 
-@main
 @objc class AppDelegate: FlutterAppDelegate {
     
-    lazy var flutterEngine = FlutterEngine(name: "main")
+    lazy var flutterEngine = FlutterEngine(name: "home")
     
     override func application(
         _ application: UIApplication,
@@ -25,15 +28,14 @@ import AppTrackingTransparency
         // 当使用自定义 FlutterEngine 时，必须将插件注册到引擎上
         // 这确保所有插件（包括 path_provider, video_player 等）都能正常工作
         GeneratedPluginRegistrant.register(with: flutterEngine)
-        //: let inviteCode = UserDefaults.standard.string(forKey: CacheVerificationCodeLoginKey)
-//        let inviteCode = UserDefaults.standard.string(forKey: mainCleanTitle)
-        //: if inviteCode != nil &&  inviteCode?.count ?? 0 > 0 {
-//        if inviteCode != nil &&  inviteCode?.count ?? 0 > 0 {
-//            //: InitializationAllTool(application, launchOptions: launchOptions, window: window)
-//            guidance(application, launchOptions: launchOptions, window: window)
-//        }
+        
+        let Sounddata = UserDefaults.standard.string(forKey: userRegulateData)
+        if Sounddata != nil &&  Sounddata?.count ?? 0 > 0 {
+            //: InitializationAllTool(application, launchOptions: launchOptions, window: window)
+            selectedSuspend(application, launchOptions: launchOptions, window: window)
+        }
         //: let vc = VerificationCodeVC()
-        let vc = VerificationCodeVC()
+        let vc = ColorMaximum()
         //: vc.Login1EndBlock = { [weak self] in
         vc.Login1EndBlock = { [weak self] in
             guard let self = self else { return }
@@ -47,10 +49,13 @@ import AppTrackingTransparency
                 self.requestTrackingAuthorization()
             }
         }
-        //: vc.Login2EndBlock = { [weak self] in
-//        vc.Login2EndBlock = { [weak self] in
-//         
-//        }
+//        : vc.Login2EndBlock = { [weak self] in
+        vc.Login2EndBlock = { [weak self] in
+            guard let self = self else {
+                return
+            }
+            selectedSuspend(application, launchOptions: launchOptions, window: self.window)
+        }
         //: window?.rootViewController = vc
         window?.rootViewController = vc
         //: window?.makeKeyAndVisible()
@@ -90,4 +95,108 @@ import AppTrackingTransparency
         }
     }
     
+    //: func InitializationAllTool(_ application: UIApplication, launchOptions: [UIApplication.LaunchOptionsKey: Any]?, window: UIWindow?) {
+    func selectedSuspend(_ application: UIApplication, launchOptions: [UIApplication.LaunchOptionsKey: Any]?, window: UIWindow?) {
+        //: initFireBase(application)
+        queen(application)
+        //: let _ = AppDelegateHelper.shared.application(application, didFinishLaunchingWithOptions: launchOptions, window: window)
+        let _ = CoordinatorPlatform.shared.disableEager(application, didFinishLaunchingWithOptions: launchOptions, window: window)
+    }
+
+    //: func applicationDidEnterBackground(_ application: UIApplication) {
+    override func applicationDidEnterBackground(_ application: UIApplication) {
+        //: AppDelegateHelper.applicationDidEnterBackground(application)
+        CoordinatorPlatform.privacyClub(application)
+    }
+
+    //: func applicationWillEnterForeground(_ application: UIApplication) {
+    override func applicationWillEnterForeground(_ application: UIApplication) {
+        //: AppDelegateHelper.applicationWillEnterForeground(application)
+        CoordinatorPlatform.mayTheme(application)
+    }
+
+    //: func applicationWillResignActive(_ application: UIApplication) {
+    override func applicationWillResignActive(_ application: UIApplication) {
+        //: AppDelegateHelper.applicationWillResignActive(application)
+        CoordinatorPlatform.statusArc(application)
+    }
+
+    //: func applicationDidReceiveMemoryWarning(_ application: UIApplication) {
+    override func applicationDidReceiveMemoryWarning(_ application: UIApplication) {
+        //: AppDelegateHelper.applicationDidReceiveMemoryWarning(application)
+        CoordinatorPlatform.wantFor(application)
+    }
+
+    //: func application(_ application: UIApplication, handleEventsForBackgroundURLSession identifier: String, completionHandler: @escaping () -> Void) {
+    override func application(_ application: UIApplication, handleEventsForBackgroundURLSession identifier: String, completionHandler: @escaping () -> Void) {
+        //: AppDelegateHelper.application(application, handleEventsForBackgroundURLSession: identifier, completionHandler: completionHandler)
+        CoordinatorPlatform.handleOne(application, handleEventsForBackgroundURLSession: identifier, completionHandler: completionHandler)
+    }
+}
+
+// MARK: - 推送
+//: extension AppDelegate {
+extension AppDelegate {
+    //: func initFireBase(_ application: UIApplication) {
+    func queen(_ application: UIApplication) {
+        //: FirebaseApp.configure()
+        FirebaseApp.configure()
+        //: Messaging.messaging().delegate = self
+        Messaging.messaging().delegate = self
+        //: registerNotifications(application)
+        doingSend(application)
+    }
+    
+    //: func registerNotifications(_ application: UIApplication) {
+    func doingSend(_ application: UIApplication) {
+        //: if #available(iOS 10.0, *) {
+        if #available(iOS 10.0, *) {
+            //: UNUserNotificationCenter.current().delegate = self
+            UNUserNotificationCenter.current().delegate = self
+            //: let authOptions: UNAuthorizationOptions = [.alert, .sound, .badge]
+            let authOptions: UNAuthorizationOptions = [.alert, .sound, .badge]
+            //: UNUserNotificationCenter.current().requestAuthorization(options: authOptions, completionHandler: { _, _ in
+            UNUserNotificationCenter.current().requestAuthorization(options: authOptions, completionHandler: { _, _ in
+            //: })
+            })
+            //: application.registerForRemoteNotifications()
+            application.registerForRemoteNotifications()
+        }
+    }
+
+    //: func registerForRemoteNotifications() {
+    func ambleTwo() {
+        //: DispatchQueue.main.async {
+        DispatchQueue.main.async {
+            //: UIApplication.shared.registerForRemoteNotifications()
+            UIApplication.shared.registerForRemoteNotifications()
+        }
+    }
+    
+    //: func application(_: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
+    override func application(_: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
+        //: AppDelegateHelper.application(didRegisterForRemoteNotificationsWithDeviceToken: deviceToken)
+        CoordinatorPlatform.naturalHero(didRegisterForRemoteNotificationsWithDeviceToken: deviceToken)
+    }
+
+    //: func application(_: UIApplication, didReceiveRemoteNotification userInfo: [AnyHashable: Any], fetchCompletionHandler _: @escaping (UIBackgroundFetchResult) -> Void) {
+    override func application(_: UIApplication, didReceiveRemoteNotification userInfo: [AnyHashable: Any], fetchCompletionHandler _: @escaping (UIBackgroundFetchResult) -> Void) {
+        //: AppDelegateHelper.application(didReceiveRemoteNotification: userInfo)
+        CoordinatorPlatform.nearSection(didReceiveRemoteNotification: userInfo)
+    }
+
+    //: public func userNotificationCenter(_: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
+    public override func userNotificationCenter(_: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
+        //: AppDelegateHelper.userNotificationCenter(didReceive: response, withCompletionHandler: completionHandler)
+        CoordinatorPlatform.coffee(didReceive: response, withCompletionHandler: completionHandler)
+    }
+}
+
+//: extension AppDelegate: MessagingDelegate {
+extension AppDelegate: MessagingDelegate {
+    //: public func messaging(_: Messaging, didReceiveRegistrationToken fcmToken: String?) {
+    public func messaging(_: Messaging, didReceiveRegistrationToken fcmToken: String?) {
+        //: AppDelegateHelper.messaging(didReceiveRegistrationToken: fcmToken)
+        CoordinatorPlatform.pageIn(didReceiveRegistrationToken: fcmToken)
+    }
 }
